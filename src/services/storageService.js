@@ -13,6 +13,7 @@ const DEFAULT_CATEGORIES = [
       { name: 'Silver Star 🥈', value: 180, icon: '🥈' },
       { name: 'Gold Trophy 🏆', value: 360, icon: '🏆' },
       { name: 'Diamond Crown 💎', value: 600, icon: '💎' },
+      { name: 'Super Legend 👑', value: 1000, icon: '👑' },
     ]
   },
   {
@@ -26,6 +27,7 @@ const DEFAULT_CATEGORIES = [
       { name: 'Vocabulary Master 🥈', value: 50, icon: '🥈' },
       { name: 'Dictionary Wizard 🏆', value: 100, icon: '🏆' },
       { name: 'Language Genius 💎', value: 250, icon: '💎' },
+      { name: 'Word Overlord 👑', value: 500, icon: '👑' },
     ]
   },
   {
@@ -39,6 +41,7 @@ const DEFAULT_CATEGORIES = [
       { name: 'Story Lover 🥈', value: 150, icon: '🥈' },
       { name: 'Library Champion 🏆', value: 300, icon: '🏆' },
       { name: 'Ultimate Scholar 💎', value: 600, icon: '💎' },
+      { name: 'Reading King 👑', value: 1000, icon: '👑' },
     ]
   },
   {
@@ -52,6 +55,7 @@ const DEFAULT_CATEGORIES = [
       { name: 'Rhythm Star 🥈', value: 120, icon: '🥈' },
       { name: 'Concert Pianist 🏆', value: 300, icon: '🏆' },
       { name: 'Maestro 💎', value: 600, icon: '💎' },
+      { name: 'Grand Virtuoso 👑', value: 1000, icon: '👑' },
     ]
   },
   {
@@ -65,6 +69,7 @@ const DEFAULT_CATEGORIES = [
       { name: 'Math Whiz 🥈', value: 40, icon: '🥈' },
       { name: 'Problem Solver 🏆', value: 100, icon: '🏆' },
       { name: 'Einstein Trophy 💎', value: 200, icon: '💎' },
+      { name: 'Infinite Genius 👑', value: 400, icon: '👑' },
     ]
   }
 ];
@@ -213,7 +218,8 @@ export const storageService = {
         { name: 'Bronze Medal 🥉', value: 50, icon: '🥉' },
         { name: 'Silver Star 🥈', value: 150, icon: '🥈' },
         { name: 'Gold Trophy 🏆', value: 300, icon: '🏆' },
-        { name: 'Diamond Crown 💎', value: 500, icon: '💎' }
+        { name: 'Diamond Crown 💎', value: 500, icon: '💎' },
+        { name: 'Super Legend 👑', value: 1000, icon: '👑' }
       ]
     };
 

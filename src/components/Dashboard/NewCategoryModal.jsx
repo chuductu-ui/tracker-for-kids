@@ -25,6 +25,7 @@ export const NewCategoryModal = ({ onClose, onCategoryAdded }) => {
       { name: 'Silver Star 🥈', value: multiplier * 3, icon: '🥈' },
       { name: 'Gold Trophy 🏆', value: multiplier * 6, icon: '🏆' },
       { name: 'Diamond Crown 💎', value: multiplier * 10, icon: '💎' },
+      { name: 'Super Legend 👑', value: multiplier * 18, icon: '👑' },
     ];
 
     const added = storageService.addCategory(name.trim(), selectedIcon, finalUnit, selectedColor, thresholds);

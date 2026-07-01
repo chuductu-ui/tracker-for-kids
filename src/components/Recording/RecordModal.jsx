@@ -78,17 +78,21 @@ export const RecordModal = ({ category, onClose, onRecorded }) => {
   if (!category) return null;
 
   const quickAdd = (delta) => {
-    setAmount(prev => Math.max(1, Number(prev) + delta));
+    setAmount(prev => {
+      const newVal = Math.max(0, Number(prev) + delta);
+      return Number(newVal.toFixed(2));
+    });
   };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    if (amount <= 0 || isSubmitting) return;
+    const finalAmount = Number(amount);
+    if (isNaN(finalAmount) || finalAmount <= 0 || isSubmitting) return;
 
     setIsSubmitting(true);
 
     // 1. Record activity in storage
-    const result = storageService.recordActivity(category.id, amount, note);
+    const result = storageService.recordActivity(category.id, finalAmount, note);
     
     // 2. Trigger Confetti!
     triggerConfetti();
@@ -98,7 +102,7 @@ export const RecordModal = ({ category, onClose, onRecorded }) => {
       emailService.sendActivityReport({
         profileName: result.profileName,
         categoryName: result.categoryName,
-        amount,
+        amount: finalAmount,
         unit: result.unit,
         totalAllTime: result.totalAllTime,
         unlockedMilestone: result.unlockedMilestone,
@@ -181,9 +185,10 @@ export const RecordModal = ({ category, onClose, onRecorded }) => {
                   <div style={{ display: 'flex', alignItems: 'baseline', gap: '0.4rem' }}>
                     <input 
                       type="number" 
-                      min="1" 
+                      min="0.01" 
+                      step="0.01"
                       value={amount} 
-                      onChange={e => setAmount(Math.max(0, parseInt(e.target.value) || 0))} 
+                      onChange={e => setAmount(e.target.value)} 
                       className="font-fun"
                       style={{ 
                         width: '120px', 
