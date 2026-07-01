@@ -388,6 +388,23 @@ export const storageService = {
     }
   },
 
+  // Update category thresholds/milestones
+  updateCategoryThresholds(categoryId, newThresholds) {
+    const data = this.loadData();
+    const profile = data.profiles.find(p => p.id === data.activeProfileId);
+    if (profile) {
+      const category = profile.categories.find(c => c.id === categoryId);
+      if (category) {
+        // Ensure values are numbers
+        category.thresholds = newThresholds.map(t => ({
+          ...t,
+          value: Number(t.value) || 0
+        }));
+        this.saveData(data);
+      }
+    }
+  },
+
   // Delete log
   deleteLog(logId) {
     const data = this.loadData();

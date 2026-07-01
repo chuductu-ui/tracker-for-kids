@@ -30,6 +30,27 @@ export const ParentSettingsModal = ({ onClose, onRefresh }) => {
   const [editName, setEditName] = useState('');
   const [editAvatar, setEditAvatar] = useState('');
 
+  // Category thresholds editing state
+  const [editingThresholdsCategoryId, setEditingThresholdsCategoryId] = useState(null);
+  const [tempThresholds, setTempThresholds] = useState([]);
+
+  const handleStartEditThresholds = (cat) => {
+    setEditingThresholdsCategoryId(cat.id);
+    setTempThresholds(cat.thresholds ? JSON.parse(JSON.stringify(cat.thresholds)) : []);
+  };
+
+  const handleSaveThresholds = (categoryId) => {
+    storageService.updateCategoryThresholds(categoryId, tempThresholds);
+    setEditingThresholdsCategoryId(null);
+    onRefresh();
+  };
+
+  const handleThresholdChange = (index, field, value) => {
+    const updated = [...tempThresholds];
+    updated[index] = { ...updated[index], [field]: value };
+    setTempThresholds(updated);
+  };
+
   const handleStartEditProfile = (p) => {
     setEditingProfileId(p.id);
     setEditName(p.name);
@@ -360,35 +381,108 @@ export const ParentSettingsModal = ({ onClose, onRefresh }) => {
               {activeProfile?.categories?.map(cat => {
                 const catLogs = (activeProfile?.logs || []).filter(l => l.categoryId === cat.id);
                 const currentVal = catLogs.reduce((sum, l) => sum + l.amount, 0);
+                const isEditingThresholds = editingThresholdsCategoryId === cat.id;
+
                 return (
-                  <div key={cat.id} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', background: 'var(--bg-primary)', padding: '1rem', borderRadius: 'var(--radius-md)', borderLeft: `4px solid ${cat.color}`, flexWrap: 'wrap', gap: '0.75rem' }}>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
-                      <span style={{ fontSize: '1.75rem' }}>{cat.icon}</span>
-                      <div>
-                        <div style={{ fontWeight: 700, fontSize: '1rem' }}>{cat.name}</div>
-                        <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>
-                          Current Total: <strong style={{ color: cat.color }}>{currentVal} {cat.unit}</strong> • {cat.thresholds?.length || 4} milestone thresholds
+                  <div key={cat.id} style={{ display: 'flex', flexDirection: 'column', background: 'var(--bg-primary)', padding: '1rem', borderRadius: 'var(--radius-md)', borderLeft: `4px solid ${cat.color}`, gap: '0.75rem' }}>
+                    <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.75rem', width: '100%' }}>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+                        <span style={{ fontSize: '1.75rem' }}>{cat.icon}</span>
+                        <div>
+                          <div style={{ fontWeight: 700, fontSize: '1rem' }}>{cat.name}</div>
+                          <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>
+                            Current Total: <strong style={{ color: cat.color }}>{currentVal} {cat.unit}</strong> • {cat.thresholds?.length || 4} milestone thresholds
+                          </div>
                         </div>
+                      </div>
+
+                      <div style={{ display: 'flex', gap: '0.5rem' }}>
+                        <button
+                          onClick={() => handleStartEditThresholds(cat)}
+                          className="btn btn-secondary"
+                          style={{ padding: '0.45rem 0.8rem', fontSize: '0.85rem', color: '#10b981', borderColor: 'rgba(16, 185, 129, 0.4)' }}
+                          title="Edit thresholds / milestones"
+                        >
+                          🎯 Edit Milestones
+                        </button>
+                        <button
+                          onClick={() => handleResetCategory(cat.id, cat.name)}
+                          className="btn btn-secondary"
+                          style={{ padding: '0.45rem 0.8rem', fontSize: '0.85rem', color: '#3b82f6' }}
+                          title="Reset recorded total to 0"
+                        >
+                          🔄 Reset Value
+                        </button>
+                        <button
+                          onClick={() => handleDeleteCategory(cat.id, cat.name)}
+                          className="btn btn-danger"
+                          style={{ padding: '0.45rem 0.8rem', fontSize: '0.85rem' }}
+                        >
+                          🗑️ Delete
+                        </button>
                       </div>
                     </div>
 
-                    <div style={{ display: 'flex', gap: '0.5rem' }}>
-                      <button
-                        onClick={() => handleResetCategory(cat.id, cat.name)}
-                        className="btn btn-secondary"
-                        style={{ padding: '0.45rem 0.8rem', fontSize: '0.85rem', color: '#3b82f6' }}
-                        title="Reset recorded total to 0"
-                      >
-                        🔄 Reset Value
-                      </button>
-                      <button
-                        onClick={() => handleDeleteCategory(cat.id, cat.name)}
-                        className="btn btn-danger"
-                        style={{ padding: '0.45rem 0.8rem', fontSize: '0.85rem' }}
-                      >
-                        🗑️ Delete
-                      </button>
-                    </div>
+                    {isEditingThresholds && (
+                      <div style={{ background: 'var(--bg-secondary)', padding: '1rem', borderRadius: 'var(--radius-sm)', border: '1px dashed var(--border-color)', marginTop: '0.5rem', width: '100%' }}>
+                        <div style={{ fontSize: '0.85rem', fontWeight: 600, marginBottom: '0.75rem', color: 'var(--text-secondary)', display: 'flex', justifyContent: 'space-between' }}>
+                          <span>🎯 Customize Milestone Thresholds (in {cat.unit}):</span>
+                          <span style={{ color: 'var(--text-muted)' }}>Bronze ➡️ Silver ➡️ Gold ➡️ Diamond</span>
+                        </div>
+
+                        <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
+                          {tempThresholds.map((th, idx) => (
+                            <div key={idx} style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', flexWrap: 'wrap' }}>
+                              <span style={{ fontSize: '1.25rem', width: '24px', textAlign: 'center' }}>{th.icon}</span>
+                              <input
+                                type="text"
+                                value={th.icon}
+                                onChange={e => handleThresholdChange(idx, 'icon', e.target.value)}
+                                className="input-field"
+                                style={{ width: '56px', textAlign: 'center', padding: '0.3rem', fontSize: '0.9rem' }}
+                                placeholder="Icon"
+                              />
+                              <input
+                                type="text"
+                                value={th.name}
+                                onChange={e => handleThresholdChange(idx, 'name', e.target.value)}
+                                className="input-field"
+                                style={{ flex: 2, minWidth: '150px', padding: '0.3rem', fontSize: '0.9rem' }}
+                                placeholder="Milestone Name"
+                              />
+                              <div style={{ display: 'flex', alignItems: 'center', gap: '0.3rem', flex: 1, minWidth: '100px' }}>
+                                <input
+                                  type="number"
+                                  value={th.value}
+                                  onChange={e => handleThresholdChange(idx, 'value', e.target.value)}
+                                  className="input-field"
+                                  style={{ width: '100%', padding: '0.3rem', fontSize: '0.9rem' }}
+                                  placeholder="Value"
+                                />
+                                <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)', whiteSpace: 'nowrap' }}>{cat.unit}</span>
+                              </div>
+                            </div>
+                          ))}
+                        </div>
+
+                        <div style={{ display: 'flex', gap: '0.5rem', marginTop: '1rem', justifyContent: 'flex-end' }}>
+                          <button
+                            onClick={() => setEditingThresholdsCategoryId(null)}
+                            className="btn btn-secondary"
+                            style={{ padding: '0.35rem 0.75rem', fontSize: '0.8rem' }}
+                          >
+                            Cancel
+                          </button>
+                          <button
+                            onClick={() => handleSaveThresholds(cat.id)}
+                            className="btn btn-primary"
+                            style={{ padding: '0.35rem 0.75rem', fontSize: '0.8rem' }}
+                          >
+                            💾 Save Milestones
+                          </button>
+                        </div>
+                      </div>
+                    )}
                   </div>
                 );
               })}
