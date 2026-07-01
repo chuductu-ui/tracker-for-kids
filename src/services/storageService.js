@@ -405,6 +405,22 @@ export const storageService = {
     }
   },
 
+  // Update category details like name, unit, icon, color
+  updateCategoryDetails(categoryId, updatedFields) {
+    const data = this.loadData();
+    const profile = data.profiles.find(p => p.id === data.activeProfileId);
+    if (profile) {
+      const category = profile.categories.find(c => c.id === categoryId);
+      if (category) {
+        if (updatedFields.name !== undefined) category.name = updatedFields.name.trim();
+        if (updatedFields.icon !== undefined) category.icon = updatedFields.icon.trim();
+        if (updatedFields.unit !== undefined) category.unit = updatedFields.unit.trim().toLowerCase();
+        if (updatedFields.color !== undefined) category.color = updatedFields.color;
+        this.saveData(data);
+      }
+    }
+  },
+
   // Delete log
   deleteLog(logId) {
     const data = this.loadData();

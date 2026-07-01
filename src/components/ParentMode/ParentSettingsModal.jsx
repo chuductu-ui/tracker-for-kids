@@ -51,6 +51,36 @@ export const ParentSettingsModal = ({ onClose, onRefresh }) => {
     setTempThresholds(updated);
   };
 
+  // Category details editing state (for editing unit, name, icon, color)
+  const [editingCategoryId, setEditingCategoryId] = useState(null);
+  const [editCategoryName, setEditCategoryName] = useState('');
+  const [editCategoryIcon, setEditCategoryIcon] = useState('');
+  const [editCategoryUnit, setEditCategoryUnit] = useState('');
+  const [editCategoryColor, setEditCategoryColor] = useState('');
+
+  const handleStartEditCategory = (cat) => {
+    setEditingCategoryId(cat.id);
+    setEditCategoryName(cat.name);
+    setEditCategoryIcon(cat.icon || '⭐');
+    setEditCategoryUnit(cat.unit || 'units');
+    setEditCategoryColor(cat.color || '#8b5cf6');
+  };
+
+  const handleSaveCategoryDetails = (categoryId) => {
+    if (!editCategoryName.trim() || !editCategoryUnit.trim()) {
+      alert("⚠️ Category Name and Tracking Unit cannot be empty!");
+      return;
+    }
+    storageService.updateCategoryDetails(categoryId, {
+      name: editCategoryName,
+      icon: editCategoryIcon,
+      unit: editCategoryUnit,
+      color: editCategoryColor
+    });
+    setEditingCategoryId(null);
+    onRefresh();
+  };
+
   const handleStartEditProfile = (p) => {
     setEditingProfileId(p.id);
     setEditName(p.name);
@@ -398,6 +428,14 @@ export const ParentSettingsModal = ({ onClose, onRefresh }) => {
 
                       <div style={{ display: 'flex', gap: '0.5rem' }}>
                         <button
+                          onClick={() => handleStartEditCategory(cat)}
+                          className="btn btn-secondary"
+                          style={{ padding: '0.45rem 0.8rem', fontSize: '0.85rem', color: '#f59e0b', borderColor: 'rgba(245, 158, 11, 0.4)' }}
+                          title="Edit category details (Name, Unit, Icon, Color)"
+                        >
+                          ✏️ Edit Details
+                        </button>
+                        <button
                           onClick={() => handleStartEditThresholds(cat)}
                           className="btn btn-secondary"
                           style={{ padding: '0.45rem 0.8rem', fontSize: '0.85rem', color: '#10b981', borderColor: 'rgba(16, 185, 129, 0.4)' }}
@@ -422,6 +460,86 @@ export const ParentSettingsModal = ({ onClose, onRefresh }) => {
                         </button>
                       </div>
                     </div>
+
+                    {editingCategoryId === cat.id && (
+                      <div style={{ background: 'var(--bg-secondary)', padding: '1rem', borderRadius: 'var(--radius-sm)', border: '1px dashed var(--border-color)', marginTop: '0.5rem', width: '100%' }}>
+                        <div style={{ fontSize: '0.85rem', fontWeight: 600, marginBottom: '0.75rem', color: 'var(--text-secondary)' }}>
+                          ✏️ Edit Category Details:
+                        </div>
+                        
+                        <div style={{ display: 'flex', gap: '0.5rem', flexDirection: 'column' }}>
+                          <div style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap' }}>
+                            <div style={{ display: 'flex', flexDirection: 'column', flex: 1, minWidth: '70px' }}>
+                              <label style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>Icon</label>
+                              <input
+                                type="text"
+                                value={editCategoryIcon}
+                                onChange={e => setEditCategoryIcon(e.target.value)}
+                                className="input-field"
+                                placeholder="Icon"
+                                style={{ fontSize: '0.9rem', padding: '0.4rem' }}
+                              />
+                            </div>
+
+                            <div style={{ display: 'flex', flexDirection: 'column', flex: 3, minWidth: '150px' }}>
+                              <label style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>Category Name</label>
+                              <input
+                                type="text"
+                                value={editCategoryName}
+                                onChange={e => setEditCategoryName(e.target.value)}
+                                className="input-field"
+                                placeholder="Name"
+                                style={{ fontSize: '0.9rem', padding: '0.4rem' }}
+                              />
+                            </div>
+                          </div>
+
+                          <div style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap' }}>
+                            <div style={{ display: 'flex', flexDirection: 'column', flex: 2, minWidth: '130px' }}>
+                              <label style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>Tracking Unit (e.g. minutes, pages, words)</label>
+                              <input
+                                type="text"
+                                value={editCategoryUnit}
+                                onChange={e => setEditCategoryUnit(e.target.value)}
+                                className="input-field"
+                                placeholder="Unit"
+                                style={{ fontSize: '0.9rem', padding: '0.4rem' }}
+                              />
+                            </div>
+
+                            <div style={{ display: 'flex', flexDirection: 'column', flex: 1, minWidth: '80px' }}>
+                              <label style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginBottom: '0.25rem' }}>Theme Color</label>
+                              <div style={{ display: 'flex', gap: '0.25rem', alignItems: 'center' }}>
+                                <input
+                                  type="color"
+                                  value={editCategoryColor}
+                                  onChange={e => setEditCategoryColor(e.target.value)}
+                                  style={{ width: '36px', height: '36px', padding: 0, border: 'none', borderRadius: 'var(--radius-sm)', cursor: 'pointer', background: 'none' }}
+                                />
+                                <span style={{ fontSize: '0.8rem', fontFamily: 'monospace', color: 'var(--text-secondary)' }}>{editCategoryColor}</span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div style={{ display: 'flex', gap: '0.5rem', marginTop: '1rem', justifyContent: 'flex-end' }}>
+                          <button
+                            onClick={() => setEditingCategoryId(null)}
+                            className="btn btn-secondary"
+                            style={{ padding: '0.35rem 0.75rem', fontSize: '0.8rem' }}
+                          >
+                            Cancel
+                          </button>
+                          <button
+                            onClick={() => handleSaveCategoryDetails(cat.id)}
+                            className="btn btn-primary"
+                            style={{ padding: '0.35rem 0.75rem', fontSize: '0.8rem' }}
+                          >
+                            💾 Save Details
+                          </button>
+                        </div>
+                      </div>
+                    )}
 
                     {isEditingThresholds && (
                       <div style={{ background: 'var(--bg-secondary)', padding: '1rem', borderRadius: 'var(--radius-sm)', border: '1px dashed var(--border-color)', marginTop: '0.5rem', width: '100%' }}>
