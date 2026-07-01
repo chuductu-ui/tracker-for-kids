@@ -117,6 +117,20 @@ export const ParentSettingsModal = ({ onClose, onRefresh }) => {
     }
   };
 
+  const handleResetCategory = (catId, catName) => {
+    if (window.confirm(`Are you sure you want to reset the recorded value for "${catName}" back to 0? This will clear all activity history and earned trophies for this category.`)) {
+      storageService.resetCategoryProgress(catId);
+      onRefresh();
+    }
+  };
+
+  const handleResetAllCategories = () => {
+    if (window.confirm(`Are you sure you want to reset ALL categories for "${activeProfile?.name || 'Active Kid'}" back to 0? All activity logs and trophies will be erased.`)) {
+      storageService.resetAllCategoriesProgress();
+      onRefresh();
+    }
+  };
+
   // PIN Lock Screen
   if (!isUnlocked) {
     return (
@@ -327,32 +341,57 @@ export const ParentSettingsModal = ({ onClose, onRefresh }) => {
         {/* Tab 2: Manage Categories */}
         {activeTab === 'categories' && (
           <div>
-            <div style={{ marginBottom: '1rem', fontSize: '0.9rem', color: 'var(--text-secondary)' }}>
-              Managing categories for kid profile: <strong style={{ color: 'var(--text-primary)' }}>{activeProfile?.name || 'Active Kid'}</strong>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem', flexWrap: 'wrap', gap: '0.5rem' }}>
+              <div style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>
+                Managing categories for kid profile: <strong style={{ color: 'var(--text-primary)' }}>{activeProfile?.name || 'Active Kid'}</strong>
+              </div>
+              {activeProfile?.categories?.length > 0 && (
+                <button
+                  onClick={handleResetAllCategories}
+                  className="btn btn-secondary"
+                  style={{ padding: '0.4rem 0.8rem', fontSize: '0.85rem', color: '#f59e0b', borderColor: 'rgba(245, 158, 11, 0.4)' }}
+                >
+                  🔄 Reset All Categories to 0
+                </button>
+              )}
             </div>
 
             <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem', maxHeight: '45vh', overflowY: 'auto' }}>
-              {activeProfile?.categories?.map(cat => (
-                <div key={cat.id} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', background: 'var(--bg-primary)', padding: '1rem', borderRadius: 'var(--radius-md)', borderLeft: `4px solid ${cat.color}` }}>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
-                    <span style={{ fontSize: '1.75rem' }}>{cat.icon}</span>
-                    <div>
-                      <div style={{ fontWeight: 700, fontSize: '1rem' }}>{cat.name}</div>
-                      <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>
-                        Unit: {cat.unit} • {cat.thresholds?.length || 4} milestone thresholds
+              {activeProfile?.categories?.map(cat => {
+                const catLogs = (activeProfile?.logs || []).filter(l => l.categoryId === cat.id);
+                const currentVal = catLogs.reduce((sum, l) => sum + l.amount, 0);
+                return (
+                  <div key={cat.id} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', background: 'var(--bg-primary)', padding: '1rem', borderRadius: 'var(--radius-md)', borderLeft: `4px solid ${cat.color}`, flexWrap: 'wrap', gap: '0.75rem' }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+                      <span style={{ fontSize: '1.75rem' }}>{cat.icon}</span>
+                      <div>
+                        <div style={{ fontWeight: 700, fontSize: '1rem' }}>{cat.name}</div>
+                        <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>
+                          Current Total: <strong style={{ color: cat.color }}>{currentVal} {cat.unit}</strong> • {cat.thresholds?.length || 4} milestone thresholds
+                        </div>
                       </div>
                     </div>
-                  </div>
 
-                  <button
-                    onClick={() => handleDeleteCategory(cat.id, cat.name)}
-                    className="btn btn-danger"
-                    style={{ padding: '0.5rem 0.85rem', fontSize: '0.85rem' }}
-                  >
-                    🗑️ Delete Category
-                  </button>
-                </div>
-              ))}
+                    <div style={{ display: 'flex', gap: '0.5rem' }}>
+                      <button
+                        onClick={() => handleResetCategory(cat.id, cat.name)}
+                        className="btn btn-secondary"
+                        style={{ padding: '0.45rem 0.8rem', fontSize: '0.85rem', color: '#3b82f6' }}
+                        title="Reset recorded total to 0"
+                      >
+                        🔄 Reset Value
+                      </button>
+                      <button
+                        onClick={() => handleDeleteCategory(cat.id, cat.name)}
+                        className="btn btn-danger"
+                        style={{ padding: '0.45rem 0.8rem', fontSize: '0.85rem' }}
+                      >
+                        🗑️ Delete
+                      </button>
+                    </div>
+                  </div>
+                );
+              })}
             </div>
           </div>
         )}

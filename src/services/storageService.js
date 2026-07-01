@@ -366,6 +366,28 @@ export const storageService = {
     }
   },
 
+  // Reset aggregated value (progress) for a specific category back to 0
+  resetCategoryProgress(categoryId) {
+    const data = this.loadData();
+    const profile = data.profiles.find(p => p.id === data.activeProfileId);
+    if (profile) {
+      profile.logs = profile.logs.filter(l => l.categoryId !== categoryId);
+      profile.earnedTrophies = profile.earnedTrophies.filter(t => t.categoryId !== categoryId);
+      this.saveData(data);
+    }
+  },
+
+  // Reset aggregated values (progress) for ALL categories of the active kid back to 0
+  resetAllCategoriesProgress() {
+    const data = this.loadData();
+    const profile = data.profiles.find(p => p.id === data.activeProfileId);
+    if (profile) {
+      profile.logs = [];
+      profile.earnedTrophies = [];
+      this.saveData(data);
+    }
+  },
+
   // Delete log
   deleteLog(logId) {
     const data = this.loadData();
