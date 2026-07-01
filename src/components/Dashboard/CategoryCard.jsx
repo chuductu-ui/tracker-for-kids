@@ -69,9 +69,11 @@ export const CategoryCard = ({ stat, onRecord, onDelete }) => {
         display: 'flex', 
         alignItems: 'center', 
         justifyContent: 'space-between',
+        flexWrap: 'wrap',
+        gap: '0.75rem',
         border: '1px solid rgba(255,255,255,0.05)'
       }}>
-        <div>
+        <div style={{ minWidth: '120px' }}>
           <div style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', fontWeight: 600, textTransform: 'uppercase' }}>
             🏆 All-Time Aggregated Total
           </div>
@@ -79,10 +81,10 @@ export const CategoryCard = ({ stat, onRecord, onDelete }) => {
             {totalAllTime} <span style={{ fontSize: '1.1rem', fontWeight: 500, color: 'var(--text-secondary)' }}>{unit}</span>
           </div>
         </div>
-
+ 
         {/* Next Goal Badge */}
         {nextThreshold && (
-          <div style={{ textAlign: 'right' }}>
+          <div style={{ textAlign: 'right', minWidth: '120px' }}>
             <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>Next Milestone Goal:</div>
             <div style={{ fontSize: '0.9rem', fontWeight: 700, color: '#f59e0b' }}>
               {nextThreshold.name} ({nextThreshold.value} {unit})
@@ -90,14 +92,14 @@ export const CategoryCard = ({ stat, onRecord, onDelete }) => {
           </div>
         )}
       </div>
-
+ 
       {/* Multi-Threshold Milestone Timeline Track */}
       <div>
         <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.8rem', marginBottom: '0.4rem', fontWeight: 600 }}>
           <span>Milestone Progress</span>
           <span>{progressPercent}% to next trophy!</span>
         </div>
-
+ 
         {/* Main Progress Bar */}
         <div className="progress-track">
           <div 
@@ -108,9 +110,9 @@ export const CategoryCard = ({ stat, onRecord, onDelete }) => {
             }} 
           />
         </div>
-
+ 
         {/* Milestones Horizontal Badges Track */}
-        <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '0.75rem', gap: '0.4rem' }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '0.75rem', gap: '0.3rem' }}>
           {sortedThresholds.map((th, idx) => {
             const isUnlocked = totalAllTime >= th.value;
             return (
@@ -120,18 +122,23 @@ export const CategoryCard = ({ stat, onRecord, onDelete }) => {
                 style={{
                   flex: 1,
                   textAlign: 'center',
-                  padding: '0.4rem 0.2rem',
+                  padding: '0.4rem 0.15rem',
                   borderRadius: 'var(--radius-sm)',
                   background: isUnlocked ? 'rgba(16, 185, 129, 0.2)' : 'rgba(255, 255, 255, 0.04)',
                   border: isUnlocked ? '1px solid #10b981' : '1px solid var(--border-color)',
                   opacity: isUnlocked ? 1 : 0.6,
                   transition: 'all 0.2s',
-                  position: 'relative'
+                  position: 'relative',
+                  minWidth: 0,
+                  overflow: 'hidden'
                 }}
               >
-                <div style={{ fontSize: '1.25rem' }}>{th.icon || '🏆'}</div>
-                <div style={{ fontSize: '0.7rem', fontWeight: 700, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', color: isUnlocked ? '#10b981' : 'var(--text-muted)' }}>
-                  {th.value} {unit}
+                <div style={{ fontSize: '1.2rem', marginBottom: '0.1rem' }}>{th.icon || '🏆'}</div>
+                <div style={{ fontSize: '0.75rem', fontWeight: 700, color: isUnlocked ? '#10b981' : 'var(--text-muted)', lineHeight: 1.1 }}>
+                  {th.value}
+                </div>
+                <div style={{ fontSize: '0.55rem', fontWeight: 600, color: 'var(--text-muted)', opacity: 0.8, textTransform: 'lowercase', marginTop: '0.1rem', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+                  {unit}
                 </div>
                 {isUnlocked && (
                   <span style={{ position: 'absolute', top: '-6px', right: '-6px', background: '#10b981', color: '#fff', fontSize: '0.6rem', borderRadius: '50%', width: '16px', height: '16px', display: 'inline-flex', alignItems: 'center', justifyContent: 'center' }}>
