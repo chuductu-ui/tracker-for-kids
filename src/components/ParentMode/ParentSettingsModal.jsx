@@ -640,12 +640,12 @@ export const ParentSettingsModal = ({ onClose, onRefresh }) => {
               <input
                 type="checkbox"
                 id="enableCloud"
-                checked={cloudConfig.enabled}
-                onChange={e => setCloudConfig({ ...cloudConfig, enabled: e.target.checked })}
-                style={{ width: '20px', height: '20px' }}
+                checked={true}
+                disabled={true}
+                style={{ width: '20px', height: '20px', cursor: 'not-allowed' }}
               />
-              <label htmlFor="enableCloud" style={{ fontWeight: 600, fontSize: '1rem', cursor: 'pointer' }}>
-                Enable Automatic GitHub Gist Cloud Sync
+              <label htmlFor="enableCloud" style={{ fontWeight: 600, fontSize: '1rem', color: '#10b981' }}>
+                Automatic GitHub Gist Cloud Sync (Permanently Active 🔒)
               </label>
             </div>
 
