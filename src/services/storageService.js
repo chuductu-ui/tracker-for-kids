@@ -264,19 +264,20 @@ export const storageService = {
   },
 
   // Record activity and return { newLog, unlockedMilestone, totalAllTime }
-  recordActivity(categoryId, amount, note = '') {
+  recordActivity(categoryId, amount, note = '', dateInput = '') {
     const data = this.loadData();
     const profile = data.profiles.find(p => p.id === data.activeProfileId);
     if (!profile) return null;
 
     const today = new Date().toISOString().split('T')[0];
+    const finalDate = dateInput || today;
     const newLog = {
       id: 'log-' + Date.now(),
       categoryId,
       amount: Number(amount),
-      date: today,
+      date: finalDate,
       note: note.trim(),
-      timestamp: Date.now()
+      timestamp: dateInput ? new Date(dateInput).getTime() + (Date.now() % 86400000) : Date.now()
     };
 
     profile.logs.push(newLog);

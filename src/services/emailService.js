@@ -1,7 +1,7 @@
 import { storageService } from './storageService';
 
 export const emailService = {
-  async sendActivityReport({ profileName, categoryName, amount, unit, totalAllTime, unlockedMilestone, note }) {
+  async sendActivityReport({ profileName, categoryName, amount, unit, totalAllTime, unlockedMilestone, note, date }) {
     const data = storageService.loadData();
     const settings = data.parentSettings || {
       emails: ['chu.duc.tu@gmail.com', 'thanhha.phth@gmail.com'],
@@ -12,15 +12,17 @@ export const emailService = {
     
     console.log(`📧 Preparing to send activity notification to:`, recipientEmails);
 
+    const dateLabel = date ? ` on ${date}` : '';
     const subject = unlockedMilestone 
-      ? `🏆 [MILESTONE UNLOCKED!] ${profileName} completed ${amount} ${unit} of ${categoryName}!`
-      : `⭐ [Activity Log] ${profileName} completed ${amount} ${unit} of ${categoryName}!`;
+      ? `🏆 [MILESTONE UNLOCKED!] ${profileName} completed ${amount} ${unit} of ${categoryName}${dateLabel}!`
+      : `⭐ [Activity Log] ${profileName} completed ${amount} ${unit} of ${categoryName}${dateLabel}!`;
 
     const messageBody = {
       "_subject": subject,
       "Child Name": profileName,
       "Activity Category": categoryName,
-      "New Record Today": `${amount} ${unit}`,
+      "Date of Activity": date || new Date().toISOString().split('T')[0],
+      "Amount Logged": `${amount} ${unit}`,
       "Total Accumulated All-Time": `${totalAllTime} ${unit}`,
       "Milestone Status": unlockedMilestone ? `🎉 UNLOCKED TROPHY: ${unlockedMilestone.name}!` : `Progressing towards next milestone!`,
       "Kid Note / Comment": note || "(No comment added)",

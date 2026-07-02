@@ -72,6 +72,7 @@ function triggerConfetti() {
 export const RecordModal = ({ category, onClose, onRecorded }) => {
   const [amount, setAmount] = useState(category?.unit === 'mins' ? 30 : 10);
   const [note, setNote] = useState('');
+  const [recordDate, setRecordDate] = useState(() => new Date().toISOString().split('T')[0]);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [unlockedTrophy, setUnlockedTrophy] = useState(null);
 
@@ -92,7 +93,7 @@ export const RecordModal = ({ category, onClose, onRecorded }) => {
     setIsSubmitting(true);
 
     // 1. Record activity in storage
-    const result = storageService.recordActivity(category.id, finalAmount, note);
+    const result = storageService.recordActivity(category.id, finalAmount, note, recordDate);
     
     // 2. Trigger Confetti!
     triggerConfetti();
@@ -106,7 +107,8 @@ export const RecordModal = ({ category, onClose, onRecorded }) => {
         unit: result.unit,
         totalAllTime: result.totalAllTime,
         unlockedMilestone: result.unlockedMilestone,
-        note
+        note,
+        date: recordDate
       }).catch(err => console.error("Email dispatch failed:", err));
     }
 
@@ -229,6 +231,21 @@ export const RecordModal = ({ category, onClose, onRecorded }) => {
                     </button>
                   ))}
                 </div>
+              </div>
+
+              {/* Activity Date Field */}
+              <div>
+                <label style={{ display: 'block', fontSize: '0.9rem', color: 'var(--text-secondary)', marginBottom: '0.5rem', fontWeight: 600 }}>
+                  📅 Activity Date (You can change this to a past date!):
+                </label>
+                <input 
+                  type="date" 
+                  className="input-field font-fun" 
+                  value={recordDate} 
+                  max={new Date().toISOString().split('T')[0]} // Do not allow future dates
+                  onChange={e => setRecordDate(e.target.value)} 
+                  style={{ fontSize: '1rem', padding: '0.6rem 0.8rem', width: '100%' }}
+                />
               </div>
 
               {/* Optional Note Field */}
