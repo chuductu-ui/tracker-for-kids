@@ -127,7 +127,42 @@ export const storageService = {
         this.saveData(INITIAL_DATA);
         return INITIAL_DATA;
       }
-      return JSON.parse(raw);
+      const data = JSON.parse(raw);
+      
+      // Auto-migration: Ensure all categories have exactly 5 milestones
+      let mutated = false;
+      if (data.profiles && Array.isArray(data.profiles)) {
+        data.profiles.forEach(profile => {
+          if (profile.categories && Array.isArray(profile.categories)) {
+            profile.categories.forEach(cat => {
+              if (!cat.thresholds || cat.thresholds.length < 5) {
+                let ths = cat.thresholds ? [...cat.thresholds] : [];
+                const defaultIcons = ['🥉', '🥈', '🏆', '💎', '👑'];
+                const defaultNames = ['Bronze Medal 🥉', 'Silver Star 🥈', 'Gold Trophy 🏆', 'Diamond Crown 💎', 'Super Legend 👑'];
+                const defaultMultiplier = cat.unit === 'mins' ? 60 : (cat.unit === 'words' || cat.unit === 'pages' ? 25 : 10);
+                const defaultValues = [defaultMultiplier * 1, defaultMultiplier * 3, defaultMultiplier * 6, defaultMultiplier * 10, defaultMultiplier * 18];
+
+                while (ths.length < 5) {
+                  const idx = ths.length;
+                  ths.push({
+                    name: defaultNames[idx],
+                    value: defaultValues[idx],
+                    icon: defaultIcons[idx]
+                  });
+                }
+                cat.thresholds = ths.slice(0, 5);
+                mutated = true;
+              }
+            });
+          }
+        });
+      }
+
+      if (mutated) {
+        this.saveData(data);
+      }
+      
+      return data;
     } catch (e) {
       console.error('Failed to load storage data:', e);
       return INITIAL_DATA;
