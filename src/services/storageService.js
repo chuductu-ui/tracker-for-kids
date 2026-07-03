@@ -548,8 +548,14 @@ export const storageService = {
       const json = await res.json();
       if (json && json.files && json.files['tracker-data.json']) {
         const cloudData = JSON.parse(json.files['tracker-data.json'].content);
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(cloudData));
-        return cloudData;
+        
+        // Safety check: ensure cloudData contains a valid profiles array and is not empty
+        if (cloudData && Array.isArray(cloudData.profiles) && cloudData.profiles.length > 0) {
+          localStorage.setItem(STORAGE_KEY, JSON.stringify(cloudData));
+          return cloudData;
+        } else {
+          console.warn('⚠️ Pulled cloud data is empty or invalid. Skipping overwrite to prevent local data loss.');
+        }
       }
     } catch (err) {
       console.error('Failed to pull from cloud:', err);
