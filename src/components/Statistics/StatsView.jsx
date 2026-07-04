@@ -1,5 +1,13 @@
 import React, { useState } from 'react';
 import { storageService } from '../../services/storageService';
+import questionsData from '../../data/questionsData.json';
+
+const getQuestionDetails = (questionId, fileKey) => {
+  const file = questionsData[fileKey];
+  if (!file) return null;
+  const q = file.questions.find(item => item.id === questionId);
+  return q ? { ...q, fileTitle: file.title } : null;
+};
 
 export const StatsView = ({ onClose, onRefresh }) => {
   const [timeRange, setTimeRange] = useState(7); // 7, 14, 30, 999 (All Time)
@@ -320,6 +328,103 @@ export const StatsView = ({ onClose, onRefresh }) => {
                     >
                       🗑️
                     </button>
+                  </div>
+                );
+              })}
+            </div>
+          )}
+        </div>
+
+        {/* Section 4: Review Questions Feedback Summary */}
+        <div style={{ marginTop: '2rem', borderTop: '1px solid var(--border-color)', paddingTop: '1.5rem' }}>
+          <h3 style={{ fontSize: '1.2rem', marginBottom: '1rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+            <span>📚</span> Review Questions Feedback Logs
+          </h3>
+
+          {/* Stats Summary Badges */}
+          <div style={{ display: 'flex', gap: '1rem', marginBottom: '1.25rem', flexWrap: 'wrap' }}>
+            <div className="glass-panel" style={{ flex: 1, minWidth: '120px', padding: '0.75rem', textAlign: 'center' }}>
+              <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)' }}>👍 Good Answers</div>
+              <div className="font-fun" style={{ fontSize: '1.5rem', color: '#10b981', fontWeight: 700 }}>
+                {(profile.reviewLogs || []).filter(l => l.status === 'good').length}
+              </div>
+            </div>
+            <div className="glass-panel" style={{ flex: 1, minWidth: '120px', padding: '0.75rem', textAlign: 'center' }}>
+              <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)' }}>⚠️ Needs Review</div>
+              <div className="font-fun" style={{ fontSize: '1.5rem', color: '#f59e0b', fontWeight: 700 }}>
+                {(profile.reviewLogs || []).filter(l => l.status === 'need_review').length}
+              </div>
+            </div>
+            <div className="glass-panel" style={{ flex: 1, minWidth: '120px', padding: '0.75rem', textAlign: 'center' }}>
+              <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)' }}>👀 Visited/Opened</div>
+              <div className="font-fun" style={{ fontSize: '1.5rem', color: 'var(--text-primary)', fontWeight: 700 }}>
+                {(profile.reviewLogs || []).filter(l => l.status === 'viewed').length}
+              </div>
+            </div>
+          </div>
+
+          {((profile.reviewLogs || []).filter(l => l.status === 'good' || l.status === 'need_review')).length === 0 ? (
+            <div style={{ textAlign: 'center', padding: '2rem', background: 'var(--bg-primary)', borderRadius: 'var(--radius-md)', color: 'var(--text-muted)', fontSize: '0.9rem' }}>
+              No question feedbacks recorded yet. Parents can ask and log reviews in Parent Mode!
+            </div>
+          ) : (
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.6rem', maxHeight: '250px', overflowY: 'auto', paddingRight: '0.4rem' }}>
+              {((profile.reviewLogs || []).filter(l => l.status === 'good' || l.status === 'need_review')).map(log => {
+                const qDetails = getQuestionDetails(log.questionId, log.fileKey);
+                if (!qDetails) return null;
+                const isGood = log.status === 'good';
+                
+                return (
+                  <div
+                    key={`${log.fileKey}-${log.questionId}`}
+                    style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      justifyContent: 'space-between',
+                      background: 'var(--bg-primary)',
+                      padding: '0.85rem 1rem',
+                      borderRadius: 'var(--radius-md)',
+                      borderLeft: `4px solid ${isGood ? '#10b981' : '#f59e0b'}`,
+                      gap: '1rem'
+                    }}
+                  >
+                    <div style={{ display: 'flex', flexDirection: 'column', flex: 1, gap: '0.2rem' }}>
+                      <div style={{ fontSize: '0.7rem', color: 'var(--accent-cyan)', fontWeight: 600 }}>
+                        {qDetails.fileTitle} {qDetails.lesson ? `• ${qDetails.lesson}` : ''}
+                      </div>
+                      <div style={{ fontWeight: 600, fontSize: '0.9rem', color: 'var(--text-primary)' }}>
+                        {qDetails.title || qDetails.question}
+                      </div>
+                      <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>
+                        Reviewed on: {log.date}
+                      </div>
+                    </div>
+
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                      <span style={{ 
+                        fontSize: '0.75rem', 
+                        color: isGood ? '#10b981' : '#f59e0b',
+                        background: isGood ? 'rgba(16,185,129,0.15)' : 'rgba(245,158,11,0.15)',
+                        padding: '0.2rem 0.6rem',
+                        borderRadius: 'var(--radius-sm)',
+                        fontWeight: 700
+                      }}>
+                        {isGood ? '👍 Good' : '⚠️ Review'}
+                      </span>
+                      <button
+                        onClick={() => {
+                          if (window.confirm("Remove this feedback log?")) {
+                            storageService.recordReviewFeedback(log.questionId, log.fileKey, 'viewed');
+                            onRefresh();
+                          }
+                        }}
+                        className="btn btn-secondary"
+                        title="Remove feedback log"
+                        style={{ padding: '0.4rem', width: '32px', height: '32px', borderColor: 'transparent', color: 'var(--text-muted)' }}
+                      >
+                        ✕
+                      </button>
+                    </div>
                   </div>
                 );
               })}

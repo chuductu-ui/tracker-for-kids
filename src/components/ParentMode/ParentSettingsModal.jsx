@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { storageService } from '../../services/storageService';
+import { ReviewQuestionsTab } from './ReviewQuestionsTab';
 
 export const ParentSettingsModal = ({ onClose, onRefresh }) => {
   const data = storageService.loadData();
@@ -263,6 +264,7 @@ export const ParentSettingsModal = ({ onClose, onRefresh }) => {
         <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1.5rem', borderBottom: '1px solid var(--border-color)', paddingBottom: '0.75rem', overflowX: 'auto' }}>
           {[
             { id: 'kids', label: '👶 Manage Kids', icon: '👶' },
+            { id: 'reviews', label: '📚 Review Questions', icon: '📚' },
             { id: 'emails', label: '📧 Parent Emails', icon: '📧' },
             { id: 'categories', label: '🗂️ Manage Categories', icon: '🗂️' },
             { id: 'cloud', label: '☁️ GitHub Online Sync', icon: '☁️' },
@@ -359,6 +361,11 @@ export const ParentSettingsModal = ({ onClose, onRefresh }) => {
               })}
             </div>
           </div>
+        )}
+
+        {/* Tab: Review Questions */}
+        {activeTab === 'reviews' && (
+          <ReviewQuestionsTab activeProfile={activeProfile} onRefresh={onRefresh} />
         )}
 
         {/* Tab 1: Parent Emails */}

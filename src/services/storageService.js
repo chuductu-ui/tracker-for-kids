@@ -561,5 +561,76 @@ export const storageService = {
       console.error('Failed to pull from cloud:', err);
     }
     return null;
+  },
+
+  // Record feedback for a review question
+  recordReviewFeedback(questionId, fileKey, status) {
+    const data = this.loadData();
+    const profile = data.profiles.find(p => p.id === data.activeProfileId);
+    if (!profile) return null;
+
+    if (!profile.reviewLogs) {
+      profile.reviewLogs = [];
+    }
+
+    const today = new Date().toISOString().split('T')[0];
+    const existingLogIdx = profile.reviewLogs.findIndex(l => l.questionId === questionId && l.fileKey === fileKey);
+
+    const logEntry = {
+      questionId,
+      fileKey,
+      status,
+      timestamp: Date.now(),
+      date: today,
+      lastOpenedTimestamp: Date.now(),
+      lastOpenedDate: today
+    };
+
+    if (existingLogIdx >= 0) {
+      const oldLog = profile.reviewLogs[existingLogIdx];
+      profile.reviewLogs[existingLogIdx] = {
+        ...oldLog,
+        status,
+        timestamp: Date.now(),
+        date: today
+      };
+    } else {
+      profile.reviewLogs.push(logEntry);
+    }
+
+    this.saveData(data);
+    return profile.reviewLogs.find(l => l.questionId === questionId && l.fileKey === fileKey);
+  },
+
+  // Track when a question was opened by a parent/kid
+  recordQuestionOpened(questionId, fileKey) {
+    const data = this.loadData();
+    const profile = data.profiles.find(p => p.id === data.activeProfileId);
+    if (!profile) return null;
+
+    if (!profile.reviewLogs) {
+      profile.reviewLogs = [];
+    }
+
+    const today = new Date().toISOString().split('T')[0];
+    const existingLog = profile.reviewLogs.find(l => l.questionId === questionId && l.fileKey === fileKey);
+
+    if (existingLog) {
+      existingLog.lastOpenedTimestamp = Date.now();
+      existingLog.lastOpenedDate = today;
+    } else {
+      profile.reviewLogs.push({
+        questionId,
+        fileKey,
+        status: "viewed",
+        timestamp: Date.now(),
+        date: today,
+        lastOpenedTimestamp: Date.now(),
+        lastOpenedDate: today
+      });
+    }
+
+    this.saveData(data);
+    return existingLog || profile.reviewLogs[profile.reviewLogs.length - 1];
   }
 };

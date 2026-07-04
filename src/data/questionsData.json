@@ -1,0 +1,2684 @@
+{
+  "vol1": {
+    "title": "100 Tình Huống Thực Tế Vol I (An toàn & Phòng vệ)",
+    "questions": [
+      {
+        "id": "vol1-q1",
+        "title": "Tình huống 1: Trò chơi bí mật của người quen",
+        "setup": "Khi sang nhà một người họ hàng chơi, một chú lớn tuổi rủ con vào phòng riêng chơi game và bảo: \"Đây là trò chơi bí mật của riêng hai chú cháu mình, con không được kể với bố mẹ nhé, nếu kể chú sẽ không yêu con nữa và bố mẹ sẽ phạt con\".",
+        "question": "Con có nên giữ bí mật để được chú yêu quý và tránh bị bố mẹ phạt không?",
+        "steps": [
+          "Nhận diện cảnh báo: Bất kỳ trò chơi nào yêu cầu \"giữ bí mật với bố mẹ\" đều là trò chơi không an toàn.",
+          "Từ chối và thoát ra: Nói to rõ ràng: \"Con không chơi trò bí mật đâu ạ\" và mở cửa đi thẳng ra phòng khách nơi có đông người.",
+          "Báo cáo ngay lập tức: Kể lại toàn bộ sự việc cho bố mẹ nghe ngay khi về nhà, không sợ hãi vì bố mẹ luôn bảo vệ con."
+        ]
+      },
+      {
+        "id": "vol1-q2",
+        "title": "Tình huống 2: Đụng chạm \"vô tình\" trên xe buýt/xe đưa đón",
+        "setup": "Con đi xe buýt trường học hoặc xe công cộng, một người đàn ông ngồi cạnh liên tục dịch sát vào con, giả vờ ngủ gật để chạm tay vào đùi hoặc vai con dù ghế vẫn còn rộng.",
+        "question": "Con nên im lặng chịu đựng vì nghĩ họ vô tình, hay hét to lên?",
+        "steps": [
+          "Thay đổi vị trí: Ngay lập tức đứng dậy và di chuyển sang một vị trí khác hoặc đứng gần tài xế/phụ xe.",
+          "Lên tiếng bảo vệ bản thân: Nếu không thể di chuyển, hãy nói to: \"Chú ơi, chú ngồi xích ra, chú đang chạm vào người cháu đấy!\".",
+          "Tìm kiếm sự trợ giúp: Báo với chú tài xế hoặc gọi điện ngay cho bố mẹ thông báo tình hình."
+        ]
+      },
+      {
+        "id": "vol1-q3",
+        "title": "Tình huống 3: Bác sĩ khám bệnh không có bố mẹ giám sát",
+        "setup": "Con đi khám sức khỏe ở trường hoặc bệnh viện, bác sĩ yêu cầu con cởi áo ra để khám vùng ngực/vùng kín mà không có cô y tá hoặc bố mẹ ở bên cạnh giám sát.",
+        "question": "Bác sĩ là người đáng tin cậy, con có nên nghe lời tuyệt đối không?",
+        "steps": [
+          "Đưa ra yêu cầu hợp lý: Nói lễ phép nhưng kiên quyết: \"Thưa bác sĩ, xin đợi một chút để cháu gọi mẹ (hoặc cô giáo) vào cùng ạ\".",
+          "Không tự ý cởi đồ bảo vệ: Không đồng ý tự cởi đồ ở vùng nhạy cảm nếu không có bên thứ ba bảo hộ là nữ giới hoặc người thân.",
+          "Báo cáo ngay: Nếu bác sĩ cố tình ép buộc, hãy đi ra ngoài ngay và gọi bố mẹ."
+        ]
+      },
+      {
+        "id": "vol1-q4",
+        "title": "Tình huống 4: Những lời khen ngợi \"quá đà\" về cơ thể",
+        "setup": "Một người quen của gia đình thường xuyên nhìn chằm chằm vào cơ thể con và đưa ra những lời nhận xét như: \"Dạo này phổng phao thế\", \"Ngực bắt đầu lớn rồi đấy\" kèm cái nhìn dò xét khiến con khó chịu.",
+        "question": "Con nên cười trừ cho qua chuyện hay phản ứng lại?",
+        "steps": [
+          "Thể hiện thái độ nghiêm túc: Không cười hùa theo, giữ nét mặt nghiêm nghị và giữ khoảng cách tối thiểu 2 mét.",
+          "Ngắt lời lịch sự: Nói thẳng thắn: \"Cháu không thích chú/bác nhận xét về cơ thể cháu như vậy đâu ạ\".",
+          "Chia sẻ với mẹ: Về nhà kể lại chính xác cảm xúc và lời nói của người đó cho mẹ nghe để mẹ có phương án bảo vệ con."
+        ]
+      },
+      {
+        "id": "vol1-q5",
+        "title": "Tình huống 5: Bạn khác giới tò mò về vùng nhạy cảm",
+        "setup": "Ở trường, một bạn nam rủ con ra góc tối sau nhà thể chất và bảo: \"Chúng mình đổi váy/quần cho nhau xem thử đi, tớ tò mò muốn biết con gái khác con trai thế nào\".",
+        "question": "Đây có phải là sự tò mò vô hại của bạn bè không? Con có nên đồng ý không?",
+        "steps": [
+          "Từ chối dứt khoát: Nói rõ ràng: \"Không được! Đây là vùng riêng tư của tớ, không ai được phép nhìn hay chạm vào\".",
+          "Rời đi ngay lập tức: Quay trở lại khu vực lớp học đông vui.",
+          "Nhờ cô giáo can thiệp: Kể lại với cô giáo chủ nhiệm để cô nhắc nhở và giáo dục giới tính lại cho bạn nam đó."
+        ]
+      },
+      {
+        "id": "vol1-q6",
+        "title": "Tình huống 6: Chụp ảnh \"nhạy cảm\" để nhận quà online",
+        "setup": "Một tài khoản mạng xã hội tự xưng là quản lý công ty người mẫu nhí nhắn tin cho con, bảo con tự chụp ảnh mặc đồ bơi gửi cho họ để xét duyệt làm người mẫu với cát-xê rất cao.",
+        "question": "Cơ hội làm người mẫu rất tốt, con có nên tự chụp rồi gửi không?",
+        "steps": [
+          "Nhận diện cái bẫy: Tuyệt đối không chụp bất kỳ bức ảnh hở hang, mặc đồ lót hay đồ bơi nào gửi lên mạng.",
+          "Không tự quyết định: Trả lời: \"Cháu phải hỏi ý kiến bố mẹ cháu đã\" rồi chụp màn hình tin nhắn lại.",
+          "Báo cáo bố mẹ chặn tài khoản: Đưa tin nhắn cho bố mẹ xử lý và chặn tài khoản đó ngay lập tức."
+        ]
+      },
+      {
+        "id": "vol1-q7",
+        "title": "Tình huống 7: Người lạ ôm eo xin chụp ảnh cùng ở công viên",
+        "setup": "Con đang chơi ở công viên, một chú người nước ngoài cầm máy ảnh đến khen con xinh đẹp và bất ngờ quàng tay ôm eo con thật chặt để nhờ người khác chụp ảnh chung.",
+        "question": "Vì lịch sự với khách nước ngoài, con có nên cố gắng mỉm cười chụp ảnh cùng không?",
+        "steps": [
+          "Phản ứng gỡ bỏ: Chủ động lùi lại, gạt nhẹ tay của họ ra khỏi eo mình.",
+          "Nói lời từ chối bằng tiếng Anh (hoặc tiếng Việt): Nói to: \"No, thank you!\" hoặc \"Cháu không chụp ảnh đâu ạ!\".",
+          "Di chuyển về phía người thân: Chạy ngay về phía bố mẹ hoặc nơi có nhân viên bảo vệ công viên đứng gần đó."
+        ]
+      },
+      {
+        "id": "vol1-q8",
+        "title": "Tình huống 8: \"Thử thách\" chạm vào người nhau của nhóm bạn",
+        "setup": "Nhóm bạn cùng chơi trò \"Thật hay Thách\". Đến lượt con, một bạn ra thử thách bắt con phải để một bạn nam trong nhóm ôm từ phía sau trong vòng 10 giây.",
+        "question": "Nếu từ chối, con sợ bị coi là \"nhát gan\" và bị loại ra khỏi nhóm chơi. Con nên làm gì?",
+        "steps": [
+          "Ưu tiên ranh giới cơ thể: Ranh giới cơ thể luôn quan trọng hơn bất kỳ trò chơi nào. Hãy kiên quyết từ chối thử thách chạm cơ thể.",
+          "Đề xuất thử thách thay thế: Nói: \"Tớ không thích đụng chạm cơ thể. Tớ chọn thử thách nhảy lò cò hoặc hát một bài\".",
+          "Rời nhóm nếu bị ép buộc: Nếu các bạn vẫn cố tình ép buộc và chế giễu, hãy tự tin rời khỏi trò chơi vì đó không phải là những người bạn an toàn."
+        ]
+      },
+      {
+        "id": "vol1-q9",
+        "title": "Tình huống 9: Bị giữ tay trong thang máy trống người",
+        "setup": "Con đi thang máy chung cư một mình, có một chú bước vào. Khi thang máy chỉ có hai người, chú ấy tiến lại gần nắm lấy cổ tay con và hỏi: \"Cháu tên gì, học lớp mấy?\".",
+        "question": "Con nên cố gắng vùng vẫy hay làm cách nào để thoát thân an toàn?",
+        "steps": [
+          "Ấn nút cứu hộ khẩn cấp: Dùng tay còn lại ấn ngay tất cả các nút tầng gần nhất và nút mở cửa (Open) hoặc nút chuông cứu hộ (Alarm).",
+          "Gây chú ý mạnh: Hét thật to: \"Buông tôi ra!\" để tạo âm thanh vang trong cabin thang máy, khiến đối phương giật mình buông tay.",
+          "Chạy ra ngoài ngay khi cửa mở: Thoát ra ngoài ngay lập tức ở tầng đầu tiên cửa mở và tìm sự trợ giúp của bảo vệ tòa nhà."
+        ]
+      },
+      {
+        "id": "vol1-q10",
+        "title": "Tình huống 10: Nhận quà đắt tiền kèm yêu cầu giữ bí mật",
+        "setup": "Thầy dạy năng khiếu ở trung tâm ngoài giờ tặng cho con một chiếc iPad rất đẹp và dặn: \"Thầy quý con nhất nên mới tặng riêng, con mang về dùng nhưng nhớ giấu kín, đừng cho bố mẹ hay các bạn biết nhé\".",
+        "question": "Chiếc iPad là món đồ con rất ao ước, con có nên nhận và giấu đi không?",
+        "steps": [
+          "Từ chối nhận quà có điều kiện: Lễ phép trả lời: \"Cháu cảm ơn thầy nhưng bố mẹ cháu dạy không được nhận đồ đắt tiền từ người khác khi chưa hỏi ý kiến ạ\".",
+          "Không giữ bí mật nguy hại: Nhận diện việc tặng quà đi kèm yêu cầu giấu bố mẹ là hành vi lôi kéo, tạo sự ràng buộc không lành mạnh.",
+          "Kể lại với bố mẹ: Báo ngay với bố mẹ về món quà và lời dặn của thầy để bố mẹ làm việc lại với trung tâm."
+        ]
+      },
+      {
+        "id": "vol1-q11",
+        "title": "Tình huống 11: Mật mã gia đình bị \"thử thách\"",
+        "setup": "Con đang đợi bố mẹ đón ở cổng trường, một người phụ nữ lạ mặt đi xe máy đến bảo: \"Mẹ con bị tai nạn nhẹ đang ở bệnh viện, mẹ nhờ cô qua đón con gấp. Lên xe cô chở đi luôn kẻo muộn!\".",
+        "question": "Con có nên vội vã lên xe ngay vì lo lắng cho mẹ không?",
+        "steps": [
+          "Hỏi mật mã gia đình: Bình tĩnh hỏi người lạ: \"Mật mã an toàn của gia đình cháu là gì ạ?\" (Bố mẹ nên quy ước trước một mật mã bí mật chỉ bố mẹ và con biết).",
+          "Tìm sự trợ giúp tại chỗ: Nếu họ không trả lời được, lập tức chạy ngược vào trong sân trường, tìm bác bảo vệ hoặc cô giáo chủ nhiệm.",
+          "Yêu cầu gọi điện xác minh: Nhờ cô giáo gọi điện trực tiếp vào số máy của bố hoặc mẹ để xác nhận thông tin, tuyệt đối không tự ý rời trường."
+        ]
+      },
+      {
+        "id": "vol1-q12",
+        "title": "Tình huống 12: Nhờ tìm thú cưng bị lạc",
+        "setup": "Con đang chơi trước cửa nhà (hoặc công viên), một chú đi ô tô đến hạ kính xuống bảo: \"Chú bị sổng mất con mèo con dễ thương ở bụi cây đằng kia, cháu vào tìm giúp chú với, chú sẽ cho cháu kẹo\".",
+        "question": "Giúp đỡ tìm thú cưng là việc tốt, con có nên đi theo chú ấy không?",
+        "steps": [
+          "Nhận diện nguyên tắc an toàn: Người lớn gặp khó khăn sẽ tìm người lớn khác giúp đỡ, không bao giờ nhờ một đứa trẻ nhỏ giúp.",
+          "Từ chối khéo léo: Nói: \"Cháu phải đứng đây chờ mẹ cháu, chú nhờ các chú bảo vệ đằng kia tìm giúp nhé\".",
+          "Lùi xa phương tiện: Đứng cách xa ô tô ít nhất 3 bước chân để tránh bị kéo bất ngờ vào trong xe và di chuyển đến nơi đông người."
+        ]
+      },
+      {
+        "id": "vol1-q13",
+        "title": "Tình huống 13: Bị người lạ bám theo trên đường đi học về",
+        "setup": "Con đang đi bộ từ trường về nhà (khoảng 500m), con phát hiện một người đàn ông lạ mặt đi bộ phía sau, con đi nhanh họ đi nhanh, con đi chậm họ cũng đi chậm và luôn giữ khoảng cách rất gần.",
+        "question": "Con có nên cắm đầu chạy thật nhanh về nhà mình không?",
+        "steps": [
+          "Không đi vào ngõ vắng/về nhà một mình: Nếu nhà đang khóa cửa không có ai, chạy về nhà rất nguy hiểm. Hãy rẽ vào một cửa hàng tiện lợi, siêu thị hoặc đồn công an gần nhất.",
+          "Tìm kiếm sự bảo vệ từ người lớn an toàn: Đến gặp nhân viên thu ngân hoặc bảo vệ cửa hàng, nói rõ: \"Cháu đang bị người đàn ông kia bám theo, chú giúp cháu gọi điện cho bố mẹ với ạ\".",
+          "Chờ người nhà đến đón: Tuyệt đối không rời khỏi địa điểm an toàn đó cho đến khi bố mẹ đến tận nơi đón con."
+        ]
+      },
+      {
+        "id": "vol1-q14",
+        "title": "Tình huống 14: Shipper giao hàng lúc bố mẹ vắng nhà",
+        "setup": "Con ở nhà một mình, có tiếng gõ cửa. Một người tự xưng là shipper nói lớn: \"Có đơn hàng COD của mẹ cháu trị giá 500 nghìn, cháu mở cửa ra nhận hàng và trả tiền giúp mẹ nhanh lên chú còn đi đơn khác\".",
+        "question": "Con có nên mở cửa lấy tiền của mẹ trả cho chú ấy để giúp mẹ không?",
+        "steps": [
+          "Không mở cửa trong mọi tình huống: Giữ cửa khóa chặt. Nói vọng ra qua khe cửa hoặc gọi điện thoại trong nhà.",
+          "Trả lời thông minh: Nói: \"Bố mẹ cháu đang bận dưới bếp (hoặc đang ngủ), chú vui lòng để gói hàng ở trước cửa/gửi bác bảo vệ giúp cháu, lát nữa bố mẹ cháu sẽ lấy ạ\". (Tuyệt đối không lộ ra mình đang ở nhà một mình).",
+          "Gọi điện báo bố mẹ: Gọi điện ngay cho mẹ báo có shipper đến giao hàng để mẹ xử lý từ xa."
+        ]
+      },
+      {
+        "id": "vol1-q15",
+        "title": "Tình huống 15: Bị kéo đi giữa đám đông công cộng",
+        "setup": "Ở siêu thị, một người đàn ông bất ngờ nắm chặt tay con kéo đi và giả vờ quát mắng: \"Con hư quá, trốn nhà đi chơi làm bố tìm mãi, đi về ngay!\". Mọi người xung quanh tưởng là bố con dạy con nên không ai can thiệp.",
+        "question": "Con nên hét lên câu gì để mọi người xung quanh biết con đang bị bắt cóc chứ không phải bị bố phạt?",
+        "steps": [
+          "Hét câu khẩu hiệu chính xác: Tuyệt đối không chỉ hét \"Thả tôi ra\" hay \"Bố ơi\". Hãy hét thật to: \"Cứu tôi với! Ông này không phải bố tôi! Bắt cóc! Tôi không quen ông này!\".",
+          "Tạo chướng ngại vật vật lý: Hãy nằm bò xuống sàn, ôm chặt lấy chân bàn, chân ghế hoặc bám chặt vào một người lớn đứng gần đó để cản trở việc bị kéo đi.",
+          "Phá vỡ đồ vật xung quanh: Cố gắng gạt đổ hàng hóa trên kệ siêu thị để gây tiếng động lớn, buộc lực lượng an ninh siêu thị phải tới can thiệp ngay lập tức."
+        ]
+      },
+      {
+        "id": "vol1-q16",
+        "title": "Tình huống 16: Người lạ mời đồ ăn ngon tại khu vui chơi",
+        "setup": "Con đang ngồi nghỉ mệt tại khu vui chơi, một cô có vẻ mặt rất hiền hậu mang đến một cây kem dâu (món con thích nhất) và một hộp sữa bảo: \"Cô mua cho con gái cô nhưng bạn ấy không uống, cô tặng lại con này\".",
+        "question": "Đồ ăn còn nguyên bao bì, trông rất ngon và sạch sẽ, con có nên nhận ăn không?",
+        "steps": [
+          "Từ chối lịch sự: Nói: \"Cháu cảm ơn cô nhưng bụng cháu đang đau không ăn được đồ lạnh ạ\" hoặc \"Bố mẹ cháu không cho phép nhận đồ ăn từ người lạ\".",
+          "Nguyên tắc an toàn thực phẩm: Nhớ rằng thuốc mê hoặc chất độc có thể được tiêm tinh vi vào hộp sữa hoặc bánh ngọt qua những lỗ nhỏ mà mắt thường khó phát hiện.",
+          "Di chuyển về khu vực an toàn: Đứng dậy đi về phía có đông người hoặc tìm bố mẹ."
+        ]
+      },
+      {
+        "id": "vol1-q17",
+        "title": "Tình huống 17: Người lạ nhờ lên xe chỉ đường giúp",
+        "setup": "Con đi học nhóm về muộn, một chiếc xe taxi hoặc xe máy trờ tới cạnh con, tài xế hỏi: \"Cháu ơi, đường ra hiệu sách nhân dân đi ngõ nào nhỉ? Cháu lên xe ngồi chỉ đường giúp chú một đoạn ngắn thôi, chú chở miễn phí\".",
+        "question": "Chỉ đường giúp người khác là việc tốt, con có nên lên xe chỉ giúp họ không?",
+        "steps": [
+          "Không bước lên phương tiện: Tuyệt đối không bước chân lên bất kỳ phương tiện giao thông nào của người lạ, dù chỉ là khoảng cách rất ngắn.",
+          "Chỉ đường từ xa: Đứng cách xa xe tối thiểu 2 mét, dùng tay chỉ hướng: \"Chú cứ đi thẳng rồi rẽ phải là tới ạ\".",
+          "Cắt đuôi nhanh chóng: Nói xong lập tức quay lưng đi tiếp theo phần đường dành cho người đi bộ, không nán lại trò chuyện thêm."
+        ]
+      },
+      {
+        "id": "vol1-q18",
+        "title": "Tình huống 18: Bị mắc kẹt ngoài cửa nhà khi mất chìa khóa",
+        "setup": "Con đi học về nhưng quên mang chìa khóa nhà, bố mẹ phải 2 tiếng nữa mới đi làm về. Một người hàng xóm mới chuyển đến (con chưa nói chuyện bao giờ) thấy vậy bảo: \"Vào nhà chú ngồi chơi xem tivi, uống nước chờ bố mẹ cho mát con ạ\".",
+        "question": "Con có nên vào nhà chú hàng xóm ngồi chờ cho đỡ nóng và mệt không?",
+        "steps": [
+          "Từ chối khéo léo: Trả lời lịch sự: \"Cháu cảm ơn chú nhưng cháu thích ngồi đợi ở hành lang/ghế đá sảnh chung cư cho thoáng ạ\".",
+          "Gọi điện báo cáo tình hình: Dùng đồng hồ định vị hoặc nhờ điện thoại của bác bảo vệ tòa nhà gọi cho bố mẹ báo con đang đợi ngoài cửa.",
+          "Lựa chọn điểm chờ an toàn: Nếu đợi ngoài hành lang quá nóng, hãy xuống phòng ban quản lý tòa nhà hoặc chốt bảo vệ dưới sảnh để ngồi chờ bố mẹ, nơi có camera giám sát và nhiều người qua lại."
+        ]
+      },
+      {
+        "id": "vol1-q19",
+        "title": "Tình huống 19: Người lạ tự xưng là bạn thân của bố đến nhà chơi",
+        "setup": "Bố mẹ đi vắng, một người đàn ông gõ cửa và nói: \"Chú là Nam, bạn thân cùng cơ quan của bố con đây. Bố nhờ chú qua lấy tập tài liệu màu xanh trên bàn làm việc gửi gấp cho bố. Con mở cửa cho chú vào lấy nhé\".",
+        "question": "Người này đọc đúng tên bố và miêu tả rõ vị trí tài liệu, con có nên mở cửa không?",
+        "steps": [
+          "Tuyệt đối giữ khóa cửa: Không mở khóa cửa trong bất kỳ trường hợp nào khi không có bố mẹ ở nhà.",
+          "Xác minh gián tiếp: Nói vọng ra: \"Chú đợi cháu một chút để cháu gọi điện xác nhận lại với bố cháu ạ\".",
+          "Gọi điện cho bố: Gọi ngay cho bố để kiểm tra. Nếu đúng, nhờ bố nói chuyện trực tiếp với chú ấy hoặc bảo chú ấy quay lại sau khi bố về. Nếu là lừa đảo, báo ngay cho bảo vệ hoặc hàng xóm xung quanh cứu trợ."
+        ]
+      },
+      {
+        "id": "vol1-q20",
+        "title": "Tình huống 20: Đi lạc ở trung tâm thương mại lớn",
+        "setup": "Con mải nhìn món đồ chơi yêu thích và bị lạc mất bố mẹ trong một trung tâm thương mại vô cùng đông đúc và rộng lớn. Con không nhớ số điện thoại của bố mẹ.",
+        "question": "Con có nên chạy khắp nơi để tìm bố mẹ hay khóc to lên giữa sảnh không?",
+        "steps": [
+          "Đứng yên tại chỗ (Quy tắc chiếc mỏ neo): Đứng ngay tại vị trí con phát hiện mình bị lạc khoảng 5-10 phút, vì bố mẹ thường sẽ quay lại tìm con ở điểm gần nhất.",
+          "Tìm \"người lớn an toàn\" trợ giúp: Nếu không thấy bố mẹ quay lại, hãy tìm người mặc đồng phục (nhân viên bảo vệ, nhân viên thu ngân của quầy hàng) hoặc một người mẹ đang dắt theo con nhỏ để nhờ giúp đỡ.",
+          "Đến quầy thông tin phát loa: Nhờ nhân viên dẫn đến quầy lễ tân/thông tin của trung tâm thương mại để phát loa thông báo tìm bố mẹ, tuyệt đối không đi theo bất kỳ ai ra khỏi tòa nhà."
+        ]
+      },
+      {
+        "id": "vol1-q21",
+        "title": "Tình huống 21: Bị bạn trấn lột tiền ăn sáng",
+        "setup": "Một nhóm bạn lớp trên chặn con lại ở nhà vệ sinh trường học, đe dọa: \"Từ mai mỗi ngày phải nộp cho tụi tao 20 nghìn tiền bảo kê, nếu mách cô giáo hay bố mẹ thì liệu hồn ăn đòn\".",
+        "question": "Con có nên giấu bố mẹ, tự bớt xén tiền ăn sáng để nộp cho nhóm đó để được yên thân không?",
+        "steps": [
+          "Ưu tiên an toàn tính mạng lúc đó: Không chống trả hay đôi co nếu họ quá đông. Đưa tiền cho họ để giải tỏa tình huống nguy hiểm ngay lúc đó.",
+          "Báo cáo lập tức với người lớn đáng tin cậy: Đây không phải là \"mách lẻo\" mà là tự vệ pháp lý. Về nhà báo ngay với bố mẹ và cô giáo chủ nhiệm về danh tính nhóm bạn đó.",
+          "Thay đổi thói quen di chuyển: Đi học và đi vệ sinh cùng một nhóm bạn thân, tránh đi một mình vào các góc khuất của trường."
+        ]
+      },
+      {
+        "id": "vol1-q22",
+        "title": "Tình huống 22: Tin đồn ác ý lan truyền trong lớp",
+        "setup": "Có bạn tung tin đồn khắp lớp rằng con là người đã lấy trộm chiếc bút máy đắt tiền của bạn lớp trưởng, khiến các bạn trong lớp bắt đầu xầm xì, xa lánh và không ai chịu làm bài tập nhóm chung với con.",
+        "question": "Con có nên khóc lóc gào thét giải thích với từng người hay âm thầm chịu đựng sự cô lập?",
+        "steps": [
+          "Đề nghị đối chất công khai: Gặp bạn lớp trưởng và cô giáo chủ nhiệm, yêu cầu có một buổi nói chuyện thẳng thắn để làm rõ nguồn cơn tin đồn.",
+          "Yêu cầu kiểm chứng chứng cứ: Nhờ cô giáo kiểm tra camera lớp học (nếu có) hoặc lục soát cặp của con công khai trước sự chứng kiến của cô giáo để chứng minh sự trong sạch.",
+          "Yêu cầu xử lý người vu khống: Khi đã chứng minh được mình vô tội, nhờ cô giáo có biện pháp răn đe, giáo dục bạn đã tung tin đồn ác ý để bảo vệ danh dự cho con."
+        ]
+      },
+      {
+        "id": "vol1-q23",
+        "title": "Tình huống 23: Bị bắt nạt trên mạng xã hội (Cyberbullying)",
+        "setup": "Một nhóm bạn lập một nhóm chat riêng, chụp ảnh dìm hàng của con lúc đang ngáp ngủ trong lớp rồi chế ảnh, viết những lời lăng mạ thô tục về ngoại hình của con và chia sẻ công khai lên mạng.",
+        "question": "Con có nên nhảy vào nhóm chat đó để chửi bới lại các bạn cho bõ tức không?",
+        "steps": [
+          "Chụp màn hình làm bằng chứng: Tuyệt đối không xóa tin nhắn hay tranh cãi qua lại. Hãy chụp lại toàn bộ màn hình những lời lăng mạ đó làm bằng chứng pháp lý.",
+          "Chặn và báo cáo: Sử dụng tính năng Block (chặn) và Report (báo cáo vi phạm) các tài khoản đó trên mạng xã hội.",
+          "Trình báo nhà trường và gia đình: Đưa bằng chứng cho bố mẹ và nhà trường xử lý. Hành vi bôi nhọ danh dự người khác trên mạng là vi phạm quy chế học đường và pháp luật."
+        ]
+      },
+      {
+        "id": "vol1-q24",
+        "title": "Tình huống 24: Bạn thân ép buộc làm bài tập hộ",
+        "setup": "Bạn chơi rất thân với con ra điều kiện: \"Cậu phải làm hộ tớ bài văn này, nếu không làm thì từ mai tớ không chơi với cậu nữa và tớ sẽ bảo các bạn khác nghỉ chơi với cậu luôn\".",
+        "question": "Con có nên chấp nhận làm hộ bài để giữ tình bạn này không?",
+        "steps": [
+          "Nhận diện tình bạn độc hại: Tình bạn chân chính dựa trên sự tôn trọng và giúp đỡ nhau cùng tiến bộ, không phải là sự ép buộc và tống tiền tình cảm.",
+          "Từ chối khéo léo nhưng kiên quyết: Nói: \"Tớ có thể hướng dẫn cậu cách viết dàn ý, nhưng tớ không thể viết hộ cậu cả bài được vì như vậy là gian lận và không tốt cho cậu\".",
+          "Mở rộng mối quan hệ mới: Nếu bạn thực sự nghỉ chơi với con vì lý do đó, hãy mỉm cười chấp nhận và chủ động tìm kiếm những người bạn mới biết tôn trọng giới hạn của con hơn."
+        ]
+      },
+      {
+        "id": "vol1-q25",
+        "title": "Tình huống 25: Vô tình chứng kiến bạn bị bạo lực sau trường",
+        "setup": "Sau giờ học, con đi ngang qua khu vực sau nhà thể chất và thấy 3 bạn lớp mình đang vây quanh tát tai và giật tóc một bạn nữ lớp khác. Một bạn trong nhóm bắt nạt nhìn thấy con và lườm: \"Nhìn cái gì? Đi chỗ khác kẻo ăn đòn chung!\".",
+        "question": "Con nên xông vào can ngăn cứu bạn hay lờ đi coi như không thấy gì để bảo vệ bản thân?",
+        "steps": [
+          "Không xông vào can ngăn trực tiếp: Đối phương đông và đang hung hãn, việc xông vào trực tiếp có thể khiến con gặp nguy hiểm thể xác.",
+          "Rút lui an toàn và tìm viện trợ: Nhanh chóng rời khỏi hiện trường nhưng chạy ngay đi tìm thầy cô giáo, bác bảo vệ hoặc gọi điện cho phòng giám thị của trường báo cáo khẩn cấp.",
+          "Cung cấp thông tin chính xác: Mô tả rõ vị trí và danh tính các bạn đang tham gia bạo lực để nhà trường can thiệp kịp thời cứu bạn nạn nhân."
+        ]
+      },
+      {
+        "id": "vol1-q26",
+        "title": "Tình huống 26: Bị lôi kéo vào nhóm \"biệt động\" quậy phá",
+        "setup": "Một nhóm bạn cá biệt trong lớp rủ con tham gia vào nhóm \"Biệt động\" với thử thách đầu tiên để được gia nhập là: Dùng bút xóa vẽ bậy lên xe ô tô của thầy hiệu trưởng.",
+        "question": "Con có nên làm theo để được các bạn nể phục và công nhận là \"ngầu\" không?",
+        "steps": [
+          "Đánh giá hậu quả: Hành vi phá hoại tài sản của người khác là vi phạm pháp luật và sẽ bị kỷ luật nặng ở trường, ảnh hưởng nghiêm trọng đến tương lai của con.",
+          "Từ chối cá tính: Nói thẳng: \"Trò này phá hoại quá, tớ không tham gia đâu. Tớ không thấy nó ngầu chút nào\".",
+          "Giữ khoảng cách: Tránh xa nhóm bạn này để không bị vạ lây khi họ thực hiện các hành vi phá hoại khác."
+        ]
+      },
+      {
+        "id": "vol1-q27",
+        "title": "Tình huống 27: Bạn mượn đồ đắt tiền rồi làm hỏng nhưng không đền",
+        "setup": "Con cho bạn mượn chiếc máy tính cầm tay mới mua để làm bài kiểm tra. Bạn vô tình làm rơi vỡ màn hình nhưng khi trả lại chỉ nói: \"Của cậu tự hỏng chứ tớ có làm gì đâu\" rồi bỏ đi không chịu trách nhiệm.",
+        "question": "Con nên xông vào giật tóc cãi nhau với bạn hay im lặng chịu ấm ức tự sửa?",
+        "steps": [
+          "Giữ bình tĩnh và thu thập chứng cứ: Nhặt chiếc máy tính lên, chụp ảnh lại vết nứt vỡ.",
+          "Nói chuyện ôn hòa dựa trên sự thật: Tìm bạn nói chuyện riêng: \"Lúc tớ đưa máy cho cậu vẫn hoàn toàn bình thường, các bạn xung quanh cũng thấy cậu làm rơi. Tớ nghĩ cậu nên có trách nhiệm cùng tớ báo với bố mẹ để tìm cách sửa chữa\".",
+          "Nhờ sự can thiệp của phụ huynh: Nếu bạn vẫn chối bỏ, hãy báo với bố mẹ con để bố mẹ trao đổi trực tiếp với phụ huynh của bạn đó một cách văn minh."
+        ]
+      },
+      {
+        "id": "vol1-q28",
+        "title": "Tình huống 28: Bị trêu chọc về cân nặng/ngoại hình",
+        "setup": "Mỗi lần con bước vào lớp, một nhóm bạn nam lại đồng thanh hát bài chế giễu ngoại hình béo/gầy hoặc chiều cao nấm lùn của con, khiến cả lớp cười rộ lên làm con vô cùng xấu hổ và tự ti.",
+        "question": "Con có nên nhịn ăn để gầy đi hay khóc lóc bỏ học không?",
+        "steps": [
+          "Không thể hiện sự yếu đuối: Sự tức giận hay khóc lóc của con chính là \"mồi ngon\" kích thích kẻ bắt nạt tiếp tục. Hãy giữ gương mặt bình thản, nhìn thẳng vào mắt họ.",
+          "Phản công bằng sự tự tin: Nói rõ ràng, dõng dạc: \"Ngoại hình của tớ thế nào không liên quan đến các cậu. Việc lấy ngoại hình người khác ra làm trò đùa chỉ thể hiện các cậu rất kém văn minh thôi\".",
+          "Yêu cầu giáo viên can thiệp: Nếu hành vi tiếp diễn, báo cáo với giáo viên chủ nhiệm về hành vi \"miệt thị ngoại hình\" (body shaming) để cô có biện pháp giáo dục cả lớp."
+        ]
+      },
+      {
+        "id": "vol1-q29",
+        "title": "Tình huống 29: Trở thành \"người trung gian\" trong cuộc chiến của hai bạn thân",
+        "setup": "Hai bạn chơi rất thân với con xảy ra mâu thuẫn lớn. Cả hai đều tìm gặp con, nói xấu người kia và bắt con phải chọn phe: \"Nếu chơi với nó thì đừng chơi với tớ nữa!\".",
+        "question": "Con nên chọn phe nào để bảo vệ tình bạn của mình?",
+        "steps": [
+          "Giữ lập trường trung lập: Nói rõ với cả hai: \"Cả hai cậu đều là bạn thân của tớ. Tớ không muốn vì mâu thuẫn của hai cậu mà tớ phải mất đi một người bạn\".",
+          "Không làm người truyền tin tiêu cực: Tuyệt đối không kể lại lời nói xấu của bạn này cho bạn kia nghe, tránh làm mâu thuẫn thêm trầm trọng.",
+          "Khuyến khích đối thoại: Khuyên hai bạn nên ngồi lại nói chuyện thẳng thắn với nhau để giải quyết khúc mắc, thay vì bắt người khác phải chọn bên."
+        ]
+      },
+      {
+        "id": "vol1-q30",
+        "title": "Tình huống 30: Bị bạn cô lập vì không dùng đồ hiệu",
+        "setup": "Nhóm bạn chơi chung trong lớp đều dùng giày hiệu, ba lô đắt tiền. Con dùng đồ bình thường do bố mẹ mua. Nhóm bạn bắt đầu xa lánh, không rủ con đi ăn trưa chung và nói nhỏ: \"Đồ nhà nghèo không cùng đẳng cấp\".",
+        "question": "Con có nên về nhà khóc lóc đòi bố mẹ phải mua bằng được đồ hiệu cho con bằng bạn bằng bè không?",
+        "steps": [
+          "Thấu hiểu giá trị bản thân: Giá trị của một con người nằm ở tính cách, tri thức và cách đối xử với mọi người, không nằm ở nhãn mác của bộ quần áo hay đôi giày.",
+          "Từ chối chạy theo hư danh: Nói với nhóm bạn: \"Đồ của tớ dùng rất tốt và tớ tự hào vì bố mẹ đã vất vả mua cho tớ. Tớ chơi bạn bè vì tính cách chứ không vì món đồ họ mặc\".",
+          "Tìm kiếm nhóm bạn thực chất: Rời bỏ nhóm bạn hời hợt đó và kết giao với những người bạn biết trân trọng giá trị thật của con."
+        ]
+      },
+      {
+        "id": "vol1-q31",
+        "title": "Tình huống 31: Thử thách nguy hiểm trên TikTok (TikTok Challenge)",
+        "setup": "Trực tuyến đang rộ lên thử thách \"Thở bằng một lá phổi\" hoặc \"Nhảy từ trên cao xuống\". Các bạn trong lớp thách nhau quay video thực hiện thử thách này đăng lên mạng để câu view. Bạn thách con làm thử.",
+        "question": "Con có nên làm theo để chứng tỏ mình dũng cảm và thu hút nhiều lượt theo dõi không?",
+        "steps": [
+          "Đánh giá rủi ro tính mạng: Những thử thách này cực kỳ nguy hiểm, có thể gây chấn thương sọ não, liệt người hoặc tử vong chỉ trong vài giây.",
+          "Từ chối thông minh: Nói: \"Mạng sống của tớ đáng giá hơn vài cái tim trên mạng xã hội. Tớ không chơi mấy trò dại dột này đâu\".",
+          "Báo cáo nội dung xấu độc: Sử dụng tính năng báo cáo (report) video thử thách đó trên nền tảng mạng xã hội để bảo vệ những người khác."
+        ]
+      },
+      {
+        "id": "vol1-q32",
+        "title": "Tình huống 32: Nhận tin nhắn trúng thưởng xe máy SH",
+        "setup": "Con nhận được tin nhắn từ một fanpage lạ thông báo: \"Chúc mừng tài khoản của bạn đã may mắn trúng thưởng 1 chiếc xe máy SH và 100 triệu đồng tiền mặt. Hãy click vào link sau và nộp 500k phí vận chuyển để nhận thưởng\".",
+        "question": "Món quà quá lớn, con có nên tự ý lấy tiền tiết kiệm nộp phí để mang niềm vui bất ngờ về cho bố mẹ không?",
+        "steps": [
+          "Nhận diện lừa đảo công nghệ: Không có bất kỳ giải thưởng hợp pháp nào yêu cầu người dùng phải đóng tiền trước qua thẻ cào hoặc chuyển khoản.",
+          "Không click vào đường link lạ: Các đường link này chứa mã độc có thể hack tài khoản, lấy cắp thông tin cá nhân hoặc tống tiền gia đình con.",
+          "Báo cho bố mẹ xử lý: Đưa tin nhắn cho bố mẹ xem để bố mẹ cảnh báo cho người khác và xóa vĩnh viễn tin nhắn lừa đảo."
+        ]
+      },
+      {
+        "id": "vol1-q33",
+        "title": "Tình huống 33: Người quen mạng xã hội đòi gọi video \"khoe cơ thể\"",
+        "setup": "Một tài khoản có hình đại diện là một anh chàng rất đẹp trai, trò chuyện thân thiết với con qua Facebook được 2 tuần. Hôm nay, anh ấy nhắn tin bảo con bật camera cuộc gọi video và cởi áo ra cho anh ấy xem thử \"vòng 1\" của con.",
+        "question": "Con đã tin tưởng anh ấy như một người bạn thân, con có nên nghe theo yêu cầu này không?",
+        "steps": [
+          "Cảnh giác tột độ: Đây là hành vi dụ dỗ, thu thập hình ảnh nhạy cảm để tống tiền hoặc phát tán lên các trang web đen.",
+          "Tắt camera ngay lập tức: Không thực hiện bất kỳ yêu cầu cởi đồ hay tạo dáng nhạy cảm nào trước ống kính máy tính/điện thoại.",
+          "Chặn tài khoản và báo người lớn: Chụp màn hình làm bằng chứng, chặn tài khoản đó ngay lập tức và kể lại với bố mẹ để có biện pháp can thiệp pháp lý nếu cần."
+        ]
+      },
+      {
+        "id": "vol1-q34",
+        "title": "Tình huống 34: Vô tình tải phần mềm chứa virus phá hỏng máy tính của bố",
+        "setup": "Con mượn máy tính làm việc của bố để học bài nhưng lại lén tải một tựa game lậu trên mạng về chơi. Máy tính bất ngờ bị màn hình xanh, nhiễm virus mã hóa toàn bộ dữ liệu quan trọng của bố và hiện dòng chữ đòi tiền chuộc.",
+        "question": "Con quá sợ hãi, con có nên tắt máy đi, giấu nhẹm chuyện này và bảo là \"máy tự hỏng\" không?",
+        "steps": [
+          "Dũng cảm nhận trách nhiệm: Che giấu chỉ làm virus lây lan sâu hơn hoặc làm bố lỡ mất thời gian cứu vãn dữ liệu. Hãy đến gặp bố và nói lời xin lỗi chân thành.",
+          "Trình bày rõ sự việc: Nói rõ với bố con đã tải phần mềm gì, ở trang web nào để bố hoặc chú kỹ thuật viên biết cách xử lý nguồn gốc virus.",
+          "Rút kinh nghiệm sâu sắc: Tuyệt đối không tự ý tải bất kỳ tệp tin nào có đuôi .exe hoặc từ các trang web không chính thống về máy tính của người khác."
+        ]
+      },
+      {
+        "id": "vol1-q35",
+        "title": "Tình huống 35: Bị giả mạo tài khoản mạng xã hội để đi vay tiền",
+        "setup": "Một người bạn gọi điện cho con hỏi: \"Sao cậu nhắn tin mượn tớ 200 nghìn nạp thẻ điện thoại gấp thế?\". Con giật mình phát hiện có một tài khoản clone giống hệt tên và ảnh đại diện của con đang đi nhắn tin vay tiền khắp danh sách bạn bè.",
+        "question": "Con nên làm gì để ngăn chặn kẻ giả mạo phá hoại uy tín của mình?",
+        "steps": [
+          "Đính chính công khai: Đăng ngay một bài viết cảnh báo lên tài khoản thật của con và nhờ bố mẹ đăng thông báo lên nhóm phụ huynh: \"Tài khoản của con bị giả mạo, con không mượn tiền ai hết, mọi người cảnh giác!\".",
+          "Kêu gọi báo cáo tập thể: Nhờ bạn bè và người thân cùng ấn nút \"Báo cáo tài khoản giả mạo\" (Report) gửi lên ban quản trị Facebook/Zalo để khóa tài khoản giả mạo đó.",
+          "Bảo mật tài khoản thật: Cài đặt mật khẩu mạnh (hai lớp bảo mật) và hạn chế chia sẻ thông tin cá nhân, trường lớp công khai trên mạng."
+        ]
+      },
+      {
+        "id": "vol1-q36",
+        "title": "Tình huống 36: Bị lôi kéo vào nhóm anti-fan cô giáo chủ nhiệm",
+        "setup": "Các bạn trong lớp lập một nhóm kín trên Messenger tên là \"Hội những người phát điên vì cô Hoa\" để xả giận, chửi bới cô giáo bằng những từ ngữ rất thô tục sau mỗi giờ học. Bạn thân kéo con vào nhóm này.",
+        "question": "Con có nên ở lại nhóm để hóng chuyện và thỉnh thoảng thả icon \"like\" để giữ tương tác với các bạn không?",
+        "steps": [
+          "Rời khỏi nhóm ngay lập tức: Việc ở lại trong một nhóm nói xấu, lăng mạ giáo viên dù con không viết gì cũng khiến con bị coi là đồng phạm khi nhóm bị phát hiện.",
+          "Nói rõ lập trường với bạn: Nói với bạn kéo con vào: \"Tớ thấy nhóm này nói những lời không hay về cô giáo, tớ không muốn tham gia vào những chuyện tiêu cực này\".",
+          "Tập trung vào việc học: Coi như không biết chuyện gì xảy ra trong nhóm đó và tiếp tục cư xử lễ phép, đúng mực với cô giáo."
+        ]
+      },
+      {
+        "id": "vol1-q37",
+        "title": "Tình huống 37: Nhận được lời mời gặp mặt trực tiếp từ \"bạn game\"",
+        "setup": "Con chơi game Roblox và quen một bạn tự xưng là bằng tuổi con, chơi rất hợp nhau. Bạn ấy rủ con: \"Cuối tuần này tụi mình gặp nhau ở quán trà sữa gần bờ hồ nhé, tớ sẽ tặng cậu một tài khoản game VIP có nhiều đồ đẹp lắm\".",
+        "question": "Con có nên tự ý đi gặp bạn ấy một mình để nhận tài khoản game không?",
+        "steps": [
+          "Cảnh giác với danh tính giả: Trên mạng, một ông chú 40 tuổi hoàn toàn có thể giả vờ làm một đứa trẻ 11 tuổi để dụ dỗ con.",
+          "Từ chối gặp mặt riêng tư: Nói: \"Tớ không được tự ý đi gặp người lạ khi chưa có bố mẹ đi cùng\".",
+          "Đề xuất đi cùng phụ huynh: Nếu thực sự muốn gặp, hãy bảo: \"Tớ sẽ bảo mẹ tớ đưa đi cùng, mẹ tớ cũng muốn làm quen với mẹ cậu\". Nếu đối phương từ chối lảng tránh, chắc chắn đó là kẻ xấu."
+        ]
+      },
+      {
+        "id": "vol1-q38",
+        "title": "Tình huống 38: Vô tình xem phải clip bạo lực/phim người lớn trên YouTube",
+        "setup": "Con đang tìm kiếm video hoạt hình trên YouTube thì thuật toán tự động đề xuất và phát một đoạn video có cảnh máu me rùng rợn hoặc cảnh quan hệ nam nữ rất nhạy cảm khiến con hoảng sợ và tò mò.",
+        "question": "Con nên tiếp tục xem vì tò mò hay tắt đi và giấu kín chuyện này vì sợ bố mẹ mắng?",
+        "steps": [
+          "Tắt video ngay lập tức: Nhấn nút thoát hoặc tắt màn hình điện thoại/máy tính để bảo vệ tâm trí khỏi những hình ảnh độc hại.",
+          "Không tự dằn vặt: Hiểu rằng đây chỉ là sự cố do thuật toán mạng xã hội, con không làm gì sai nên không phải sợ hãi hay cảm thấy tội lỗi.",
+          "Chia sẻ thẳng thắn với bố mẹ: Kể lại với bố mẹ để bố mẹ cài đặt chế độ kiểm soát trẻ em (YouTube Kids) hoặc bộ lọc tìm kiếm an toàn cho thiết bị của con."
+        ]
+      },
+      {
+        "id": "vol1-q39",
+        "title": "Tình huống 39: Chia sẻ thông tin cá nhân lên trang web \"nhận quà miễn phí\"",
+        "setup": "Con thấy một quảng cáo trên mạng: \"Điền đầy đủ họ tên, số điện thoại của bố mẹ, địa chỉ nhà riêng và trường học của con để nhận ngay một bộ Lego miễn phí giao tận nhà\".",
+        "question": "Điền thông tin thôi mà không mất tiền, con có nên tự ý điền hết thông tin để nhận Lego không?",
+        "steps": [
+          "Bảo mật thông tin cá nhân: Họ tên, địa chỉ nhà, số điện thoại là những thông tin tuyệt mật, kẻ xấu có thể dùng để tống tiền, dàn cảnh bắt cóc hoặc lừa đảo bố mẹ con.",
+          "Nguyên tắc \"Không có bữa trưa nào miễn phí\": Không ai tặng quà đắt tiền cho người lạ chỉ để đổi lấy vài dòng thông tin thông thường. Đây là bẫy thu thập dữ liệu.",
+          "Hỏi ý kiến người lớn: Luôn hỏi bố mẹ trước khi nhập bất kỳ thông tin nào của gia đình lên mạng internet."
+        ]
+      },
+      {
+        "id": "vol1-q40",
+        "title": "Tình huống 40: Bị nghiện điện thoại ảnh hưởng đến học tập",
+        "setup": "Con được bố mẹ cho mượn điện thoại để tra cứu bài học, nhưng con lại mải mê xem video ngắn (Shorts/Reels) suốt 3 tiếng đồng hồ, dẫn đến việc chưa làm xong bài tập về nhà và mắt bị mỏi nhức, đỏ hoe.",
+        "question": "Con nên nói dối cô giáo là \"quên vở ở nhà\" để trốn phạt, hay làm thế nào?",
+        "steps": [
+          "Chấp nhận lỗi sai: Đến trường chủ động báo cáo với cô giáo: \"Thưa cô, hôm qua em mải xem điện thoại nên chưa hoàn thành bài tập, em xin lỗi cô và xin nộp bù vào ngày mai ạ\".",
+          "Chấp nhận hình phạt: Chịu phạt của cô giáo một cách vui vẻ để tự răn đe bản thân không tái phạm.",
+          "Đặt giới hạn công nghệ: Nhờ bố mẹ cài đặt ứng dụng giới hạn thời gian sử dụng điện thoại (mỗi ngày tối đa 30-45 phút) để giúp con tự quản lý bản thân tốt hơn."
+        ]
+      },
+      {
+        "id": "vol1-q41",
+        "title": "Tình huống 41: Đi xe bus đi học nhưng bị lỡ điểm xuống",
+        "setup": "Con mải đọc truyện tranh trên xe bus trường học (hoặc xe bus công cộng) nên không chú ý, khi ngẩng đầu lên thì xe đã đi qua điểm xuống của con 3 trạm và đang đi về một khu vực xa lạ con chưa tới bao giờ.",
+        "question": "Con có nên hoảng sợ khóc lóc nhảy xuống xe ngay khi xe đang chạy chậm không?",
+        "steps": [
+          "Giữ bình tĩnh tuyệt đối: Không tự ý nhảy xuống xe khi xe chưa dừng hẳn ở trạm kế tiếp vì rất dễ bị ngã chấn thương hoặc bị xe khác đâm phải.",
+          "Báo ngay cho phụ xe hoặc tài xế: Đến gần tài xế nói rõ ràng: \"Chú ơi, cháu bị lỡ điểm xuống ở trường X rồi, chú cho cháu xuống ở trạm an toàn gần nhất với ạ\".",
+          "Tìm điểm chờ an toàn để liên lạc: Khi xuống xe ở trạm kế tiếp, đứng yên tại nhà chờ xe bus (nơi đông người), dùng điện thoại/đồng hồ định vị gọi cho bố mẹ đón, hoặc nhờ người dân gần đó gọi hộ, không tự ý đi bộ lang thang."
+        ]
+      },
+      {
+        "id": "vol1-q42",
+        "title": "Tình huống 42: Bị ngã xe đạp điện/xe đạp giữa đường đông",
+        "setup": "Con đang đạp xe đi học trên đường, bỗng nhiên có một vũng nước trơn trượt làm con bị ngã nhào ra đường, sách vở và đồ đạc văng tung tóe, trong khi dòng xe cộ phía sau đang lao tới rất nhanh.",
+        "question": "Con có nên cố gắng ngồi bệt dưới đường nhặt từng quyển sách đang bị ướt không?",
+        "steps": [
+          "Ưu tiên an toàn tính mạng trước tài sản: Bỏ lại xe và sách vở, nhanh chóng đứng dậy chạy vào lề đường bên phải ngay lập tức để tránh bị các xe phía sau đâm trúng.",
+          "Ra tín hiệu nhờ trợ giúp: Đứng ở lề đường, vẫy tay nhờ những người lớn đi đường dắt hộ xe đạp vào lề và nhặt giúp đồ đạc bị rơi.",
+          "Kiểm tra chấn thương: Tự kiểm tra xem mình có bị chảy máu, trầy xước nặng hay đau ở đâu không, sau đó gọi điện cho bố mẹ thông báo tình hình."
+        ]
+      },
+      {
+        "id": "vol1-q43",
+        "title": "Tình huống 43: Đang đi trên đường thì gặp mưa giông bão lớn, sấm sét dữ dội",
+        "setup": "Con đang đi bộ (hoặc đi xe đạp) về nhà thì trời nổi giông bão đùng đùng, mưa như trút nước kèm theo sấm sét liên tục gầm rú trên đầu. Đường bắt đầu ngập nước sâu và gió thổi rất mạnh muốn thổi bay con.",
+        "question": "Con có nên trú mưa dưới gốc cây cổ thụ lớn ven đường hay dưới mái hiên của một trạm biến áp điện không?",
+        "steps": [
+          "Tránh xa các vật dẫn sét nguy hiểm: Tuyệt đối không trú dưới gốc cây to, cột điện, trạm biến áp hoặc đứng gần các vũng nước sâu vì đây là những nơi dễ bị sét đánh hoặc rò rỉ điện gây chết người.",
+          "Tìm nơi trú ẩn kiên cố: Di chuyển vào trú mưa bên trong các cửa hàng, siêu thị, nhà dân có mái che kiên cố ven đường.",
+          "Chờ bão tan: Đợi cho đến khi mưa ngớt, giông bão đi qua mới tiếp tục di chuyển về nhà hoặc gọi điện nhờ bố mẹ đến đón."
+        ]
+      },
+      {
+        "id": "vol1-q44",
+        "title": "Tình huống 44: Đi xe ôm công nghệ nhưng tài xế đi sai đường đi vào ngõ tối",
+        "setup": "Bố mẹ đặt xe Grab ôm cho con đi học nhóm. Tuy nhiên, con phát hiện chú tài xế không đi theo con đường lớn quen thuộc hàng ngày mà lại rẽ vào một con ngõ tối, vắng vẻ và đi lòng vòng.",
+        "question": "Con nên im lặng vì nghĩ chú ấy biết đường tắt, hay nhảy xuống xe ngay?",
+        "steps": [
+          "Lên tiếng chất vấn lớn tiếng: Nói to, rõ ràng từ phía sau: \"Chú ơi, đường này không phải đường đến nhà bạn cháu. Cháu yêu cầu chú đi đường lớn đi ạ!\".",
+          "Kích hoạt tính năng an toàn trên điện thoại: Gọi điện trực tiếp cho bố mẹ ngay lập tức, bật loa ngoài thật to để tài xế nghe thấy con đang báo cáo lộ trình cho bố mẹ: \"Mẹ ơi, chú tài xế đang đi vào ngõ X, mẹ theo dõi định vị của con nhé!\".",
+          "Yêu cầu dừng xe ở nơi đông người: Nếu tài xế vẫn tiếp tục đi vào ngõ tối, hãy hét to: \"Cháu bị say xe quá, chú dừng xe cho cháu nôn ngay lập tức!\". Khi xe vừa dừng ở chỗ có ánh đèn/nhà dân, lập tức bước xuống xe và chạy vào nhà dân nhờ trợ giúp."
+        ]
+      },
+      {
+        "id": "vol1-q45",
+        "title": "Tình huống 45: Gặp một đàn chó dữ không rọ mõm chặn đường đi học",
+        "setup": "Trên đường đi bộ vào ngõ nhà bạn, con chạm trán với một đàn gồm 3 con chó dữ to lớn, không rọ mõm đang gầm gừ, nhe nanh nhọn hoắt đứng chặn ngay giữa lối đi duy nhất.",
+        "question": "Con nên hét to lên và cầm gạch ném chúng để xua đuổi, hay quay đầu bỏ chạy thật nhanh?",
+        "steps": [
+          "Không bỏ chạy, không nhìn thẳng vào mắt chúng: Chạy bộ sẽ kích hoạt bản năng săn mồi của loài chó, khiến chúng đuổi theo cắn con. Tuyệt đối không nhìn thẳng vào mắt chúng vì chúng sẽ coi đó là lời thách thức chiến đấu.",
+          "Giữ tư thế \"bất động như cái cây\": Đứng yên tại chỗ, hai tay khép chặt sát người, mắt nhìn xuống chân mình. Chờ cho chúng ngửi ngửi một lát rồi chán bỏ đi.",
+          "Rút lui chậm rãi: Khi đàn chó đã bớt gầm gừ và quay lưng đi, hãy từ từ đi giật lùi từng bước một ra xa khu vực đó, tuyệt đối không được quay lưng chạy nhanh."
+        ]
+      },
+      {
+        "id": "vol1-q46",
+        "title": "Tình huống 46: Đi bộ qua đường ngã tư không có đèn tín hiệu giao thông",
+        "setup": "Con cần sang đường để vào hiệu sách, nhưng ngã tư này không có đèn tín hiệu giao thông dành cho người đi bộ, cũng không có vạch kẻ đường rõ ràng, trong khi lượng xe máy, ô tô qua lại như mắc cửi không hề giảm tốc độ.",
+        "question": "Con có nên nhắm mắt chạy thật nhanh qua đường tranh thủ lúc có một kẽ hở nhỏ giữa các xe không?",
+        "steps": [
+          "Tìm kiếm sự trợ giúp từ người lớn: Tìm một người lớn đáng tin cậy gần đó (cô bán hàng nước, chú công an, hoặc một người lớn cũng đang chuẩn bị qua đường) và nhờ: \"Cô/chú ơi, cô chú dắt cháu qua đường với ạ\".",
+          "Tự qua đường bằng quy tắc quan sát 3 bước (nếu bắt buộc): Nếu không có ai giúp, hãy đứng ở sát lề đường: Nhìn sang trái -> Nhìn sang phải -> Nhìn lại sang trái một lần nữa để chắc chắn khoảng cách an toàn.",
+          "Ra tín hiệu xin đường rõ ràng và đi đều bước: Giơ tay cao qua đầu vẫy nhẹ để ra hiệu cho các xe biết con đang xin qua đường. Đi thẳng đều bước với tốc độ vừa phải, tuyệt đối không chạy đột ngột hoặc dừng lại đột ngột giữa đường khiến các xe không kịp xử lý."
+        ]
+      },
+      {
+        "id": "vol1-q47",
+        "title": "Tình huống 47: Bị mắc kẹt trong đám đông hỗn loạn chen lấn xô đẩy",
+        "setup": "Con đi xem bắn pháo hoa đêm giao thừa cùng gia đình, nhưng khi kết thúc, dòng người hàng vạn người dồn vào một lối thoát nhỏ gây ra cảnh chen lấn, xô đẩy nghẹt thở. Con bị lạc mất tay bố mẹ và bị dòng người cuốn đi, khó thở dồn dập.",
+        "question": "Con nên cố gắng ngồi thụp xuống đất để tìm kẽ hở thở, hay làm thế nào?",
+        "steps": [
+          "Tuyệt đối không được ngã hoặc ngồi xuống: Ngã xuống đất trong đám đông chen lấn là cực kỳ nguy hiểm vì con sẽ bị hàng trăm người giẫm đạp lên. Hãy cố gắng đứng vững trên hai chân.",
+          "Tạo không gian thở (Tư thế võ sĩ): Hai tay co lại trước ngực, khuỷu tay hướng ra ngoài để tạo một khoảng trống trước ngực giúp phổi có không gian co giãn để thở, tránh bị ép lồng ngực.",
+          "Di chuyển chéo theo dòng người: Không đi ngược chiều dòng người, cũng không đi thẳng trực diện. Hãy di chuyển từ từ theo đường chéo hướng ra hai bên rìa của đám đông để thoát vào các cửa hàng hoặc ngõ nhỏ bên cạnh."
+        ]
+      },
+      {
+        "id": "vol1-q48",
+        "title": "Tình huống 48: Đi xe đạp vô tình va quệt trầy xước vào một chiếc ô tô hạng sang",
+        "setup": "Con đang tập đi xe đạp ngõ nhỏ, do loạng choạng tay lái nên con đã va quệt tay phanh vào thân một chiếc xe Mercedes bóng loáng đang đỗ bên đường, làm xước một vệt sơn dài nổi rõ màu trắng. Chủ xe chưa thấy xuất hiện.",
+        "question": "Không có ai nhìn thấy lúc đó, con có nên đạp xe chạy trốn thật nhanh về nhà coi như không biết gì không?",
+        "steps": [
+          "Dũng cảm nhận lỗi và chịu trách nhiệm: Chạy trốn là hành vi hèn nhát và không trung thực. Nếu có camera ghi lại, hậu quả sẽ nặng nề hơn rất nhiều cho uy tín của con và bố mẹ.",
+          "Tìm cách liên lạc với chủ xe: Quan sát xem trên kính lái ô tô có ghi số điện thoại của chủ xe hay không. Nếu có, hãy nhờ một người lớn gần đó gọi điện báo cho chủ xe biết tình hình.",
+          "Để lại lời nhắn văn minh: Nếu không tìm được cách liên lạc, hãy dùng một tờ giấy viết dòng chữ: \"Cháu vô tình quẹt xước xe của cô/chú. Đây là số điện thoại của bố cháu: [Số điện thoại]. Cháu xin lỗi ạ!\". Kẹp tờ giấy vào cần gạt nước kính trước rồi về báo ngay cho bố mẹ biết sự việc."
+        ]
+      },
+      {
+        "id": "vol1-q49",
+        "title": "Tình huống 49: Bị kẹt tay/chân vào cửa cuốn tự động đang đóng xuống",
+        "setup": "Ở nhà, con bấm nút hạ cửa cuốn tự động đi xuống nhưng lại mải cúi xuống nhặt món đồ chơi sát mép cửa. Chiếc cửa cuốn đè trúng vai/chân con và tiếp tục ép xuống khiến con bị đau và khó thở, không với tới nút bấm điều khiển nữa.",
+        "question": "Con nên gào khóc thật to hay xử lý như thế nào?",
+        "steps": [
+          "Hét thật to gọi sự trợ giúp cứu hộ: Hét lớn liên tục: \"Cứu con với! Cửa cuốn ép người con rồi!\". Âm thanh lớn sẽ giúp hàng xóm hoặc người trong nhà nghe thấy chạy đến ứng cứu kịp thời.",
+          "Tận dụng trọng lượng cơ thể nâng nhẹ cửa (nếu có thể): Dùng hai tay chống mạnh xuống sàn, cố gắng dùng lưng hoặc vai đẩy ngược nhẹ tấm cửa lên để giảm bớt lực ép trực tiếp vào lồng ngực/vùng cổ.",
+          "Bấm nút dừng khẩn cấp bằng mọi cách: Nếu chân hoặc tay còn tự do có thể với tới bất kỳ vật dài nào gần đó (cán chổi, thước kẻ), hãy dùng nó chọc mạnh vào nút Dừng (Stop) trên hộp điều khiển gắn tường."
+        ]
+      },
+      {
+        "id": "vol1-q50",
+        "title": "Tình huống 50: Đi thang cuốn ở siêu thị bị kẹt gấu quần/dây giày vào khe thang",
+        "setup": "Con đang đi xuống thang cuốn của siêu thị, do đứng sát mép bên cạnh nên gấu chiếc quần ống rộng hoặc sợi dây giày của con bị cuốn chặt vào khe hở giữa các bậc thang cuốn đang di chuyển sát mặt đất. Chỉ còn 5 bậc nữa là đến điểm kết thúc.",
+        "question": "Con có nên cố sức giật mạnh chân ra hay làm thế nào?",
+        "steps": [
+          "Rút chân ra khỏi giày/ống quần lập tức: Nếu là dây giày bị kẹt, hãy nhanh chóng rút chân ra khỏi chiếc giày đó, bỏ lại giày để bảo vệ bàn chân không bị nghiền nát.",
+          "Hét to nhờ ấn nút dừng khẩn cấp: Hét lớn hướng về phía người đứng ở hai đầu thang cuốn: \"Ấn nút dừng khẩn cấp giúp cháu với! Cháu bị kẹt rồi!\". (Ở đầu và cuối mỗi thang cuốn luôn có một nút màu đỏ ghi chữ \"Emergency Stop\").",
+          "Tự bảo vệ cơ thể: Tuyệt đối không dùng tay cố gỡ sợi dây đang bị cuốn vì tay con có thể bị cuốn theo vào khe sắt bánh răng cực kỳ nguy hiểm."
+        ]
+      },
+      {
+        "id": "vol1-q51",
+        "title": "Tình huống 51: Ghen tị khi em gái (2019) được bố mẹ chiều chuộng mua đồ chơi mới",
+        "setup": "Hôm nay mẹ đi siêu thị về mua cho em gái một búp bê Elsa rất đẹp, còn con (sinh năm 2015) thì không được mua gì vì mẹ bảo: \"Con lớn rồi, không chơi búp bê nữa\". Con cảm thấy tủi thân, ghen tị và tức giận với cả em lẫn mẹ.",
+        "question": "Con có nên nhân lúc em không để ý, đem giấu búp bê của em đi hoặc bẻ gãy chân búp bê cho bõ tức không?",
+        "steps": [
+          "Nhận diện cảm xúc bình thường: Ghen tị là cảm xúc tự nhiên của con người, không có gì là xấu hổ. Tuy nhiên, phá hoại đồ của em là hành vi sai trái.",
+          "Bày tỏ cảm xúc thẳng thắn với mẹ: Đến bên mẹ, ôm mẹ và nói nhỏ nhẹ: \"Mẹ ơi, thấy em có đồ chơi mới con cũng hơi tủi thân một chút. Lần sau mẹ đi siêu thị có thể mua cho con một cuốn sách hoặc món đồ dùng học tập nhỏ được không ạ?\".",
+          "Tìm niềm vui tuổi lớn: Chấp nhận sự thật mình đã lớn và có những sở thích thú vị hơn của em nhỏ, chủ động rủ em chơi chung búp bê để gắn kết tình chị em."
+        ]
+      },
+      {
+        "id": "vol1-q52",
+        "title": "Tình huống 52: Áp lực điểm số học tập thua kém bạn thân",
+        "setup": "Trong kỳ thi học kỳ toán, bạn thân của con đạt điểm 10 tuyệt đối, còn con chỉ đạt điểm 6. Bố mẹ bạn ấy thưởng cho bạn chuyến du lịch, còn bố mẹ con nhìn con với ánh mắt thất vọng và thở dài đầy áp lực. Con thấy tủi thân và ghét môn Toán.",
+        "question": "Con có nên xé tờ bài kiểm tra đi để giấu bố mẹ, hoặc nghỉ chơi với bạn thân để đỡ bị so sánh không?",
+        "steps": [
+          "Chấp nhận kết quả thực tế: Điểm số chỉ phản ánh mức độ hiểu bài của con ở một thời điểm cụ thể, không định nghĩa giá trị con người con.",
+          "Chủ động nhờ bạn thân giúp đỡ: Thay vì ghen tị xa lánh, hãy đến nói với bạn: \"Cậu giỏi Toán quá, cuối tuần này cậu hướng dẫn tớ làm mấy dạng bài tớ bị sai này với nhé\".",
+          "Nói chuyện thẳng thắn với bố mẹ: Trình bày bài kiểm tra cho bố mẹ xem và nói: \"Con biết điểm này làm bố mẹ buồn. Con đã biết mình sai ở đâu và sẽ nhờ bạn hướng dẫn để lần sau làm tốt hơn, bố mẹ đừng buồn con nhé\"."
+        ]
+      },
+      {
+        "id": "vol1-q53",
+        "title": "Tình huống 53: Bị điểm kém oan do lỗi chấm bài của thầy cô",
+        "setup": "Bài kiểm tra Lịch sử của con làm rất tốt, con chắc chắn mình đúng hết. Nhưng khi nhận bài, con chỉ được 5 điểm do cô giáo chấm sót toàn bộ mặt sau của tờ giấy thi. Khi con định lên báo cáo, bạn bên cạnh bảo: \"Đừng lên, cô Hoa khó tính lắm, lên thắc mắc cô lại ghét cho đấy!\".",
+        "question": "Con nên nghe lời bạn im lặng chịu điểm thấp, hay lên đòi lại quyền lợi cho mình?",
+        "steps": [
+          "Chuẩn bị bằng chứng rõ ràng: Khoanh tròn nhẹ bằng bút chì những câu cô chưa chấm điểm ở mặt sau tờ giấy thi để cô dễ nhìn thấy lỗi sót.",
+          "Gặp cô giáo với thái độ lễ phép, tôn trọng: Sau giờ học, lên bàn giáo viên nói lịch sự: \"Thưa cô, em nhờ cô xem lại giúp em bài kiểm tra này với ạ. Hình như ở mặt sau có một số câu cô bận quá nên chưa kịp chấm điểm cho em ạ\".",
+          "Chấp nhận sửa sai văn minh: Giáo viên cũng là con người và hoàn toàn có thể sơ suất. Thái độ lịch sự của con sẽ giúp cô vui vẻ sửa lại điểm đúng cho con mà không hề có ác cảm."
+        ]
+      },
+      {
+        "id": "vol1-q54",
+        "title": "Tình huống 54: Cảm thấy \"bị bỏ rơi\" khi nhóm bạn thân có thành viên mới",
+        "setup": "Nhóm chơi thân của con gồm 3 người từ hồi lớp 1. Dạo này, có một bạn mới chuyển trường vào nhóm. Hai bạn kia liên tục nói chuyện, cười đùa với bạn mới mà ngó lơ con, khiến con cảm thấy mình như người thừa trong nhóm.",
+        "question": "Con có nên viết một status tức giận lên mạng xã hội tố cáo hai bạn kia là \"kẻ phản bội\" không?",
+        "steps": [
+          "Không phản ứng thái quá bằng sự giận dỗi: Sự dỗi hờn, im lặng chỉ làm khoảng cách giữa con và các bạn ngày càng xa hơn.",
+          "Chủ động hòa nhập trò chuyện: Cố gắng trò chuyện cởi mở với bạn mới. Tìm hiểu xem bạn ấy có sở thích gì chung với con không, thay vì coi bạn ấy là \"đối thủ cướp bạn\".",
+          "Chia sẻ cảm xúc nhẹ nhàng: Nói riêng với một trong hai bạn thân cũ: \"Dạo này tụi mình ít nói chuyện riêng với nhau quá, cuối tuần này hai đứa đi ăn kem riêng một buổi như ngày xưa nhé!\"."
+        ]
+      },
+      {
+        "id": "vol1-q55",
+        "title": "Tình huống 55: Bị mẹ mắng oan trước mặt người khác vì lỗi của em gái",
+        "setup": "Em gái nghịch ngợm làm đổ lọ hoa pha lê phòng khách vỡ tan tành. Khi mẹ đi chợ về thấy cảnh đổ nát, chưa kịp hỏi han đã mắng con xối xả trước mặt bác hàng xóm sang chơi: \"Con lớn đầu mà không biết trông em, chỉ biết cắm đầu vào tivi để em phá hỏng đồ!\".",
+        "question": "Con cảm thấy vô cùng uất ức, con có nên hét to lên cãi lại mẹ rồi chạy vào phòng đóng sầm cửa lại không?",
+        "steps": [
+          "Im lặng kiềm chế lúc mẹ đang nóng giận: Lúc mẹ đang giận dữ và có người ngoài, việc cãi lại chỉ làm tình hình tồi tệ hơn và khiến mẹ giận hơn. Hãy giữ im lặng, giúp mẹ dọn dẹp các mảnh vỡ lọ hoa trước để đảm bảo an toàn cho em.",
+          "Giải thích riêng tư sau khi mẹ nguôi giận: Tối đến, khi chỉ có hai mẹ con, hãy ôm mẹ và nói khẽ: \"Mẹ ơi, chiều nay lọ hoa vỡ là do em nghịch lúc con đang ở trong nhà vệ sinh ạ. Con bị mẹ mắng trước mặt bác hàng xóm con buồn lắm\".",
+          "Đón nhận lời xin lỗi từ mẹ: Người mẹ nào cũng yêu con, khi hiểu ra sự thật mẹ chắc chắn sẽ ôm con và xin lỗi vì đã nóng nảy mắng oan con."
+        ]
+      },
+      {
+        "id": "vol1-q56",
+        "title": "Tình huống 56: Lo lắng tột độ trước kỳ thi học sinh giỏi cấp thành phố",
+        "setup": "Con chuẩn bị bước vào kỳ thi học sinh giỏi cấp thành phố môn Văn. Áp lực từ kỳ vọng của thầy cô, nhà trường và bố mẹ khiến con mất ngủ liên tục, ăn uống không ngon miệng, cứ ngồi vào bàn học là tim đập nhanh, tay chân run rẩy.",
+        "question": "Con có nên giả vờ bị ốm nặng vào ngày thi để được hoãn thi không?",
+        "steps": [
+          "Bình thường hóa cảm xúc lo âu: Hiểu rằng bất kỳ ai đứng trước một kỳ thi lớn cũng đều lo lắng, kể cả những người giỏi nhất. Đây là phản ứng sinh lý bình thường của cơ thể.",
+          "Thực hiện bài tập thở giải tỏa căng thẳng: Mỗi khi thấy tim đập nhanh, hãy nhắm mắt lại, hít vào thật sâu trong 4 giây, giữ hơi 4 giây, và thở ra từ từ trong 4 giây (Phương pháp thở hộp). Làm liên tục 5 lần để ổn định nhịp tim.",
+          "Nói chuyện với bố mẹ về áp lực: Nói thật với bố mẹ: \"Con đang cảm thấy rất áp lực và mệt mỏi. Bố mẹ ôm con một cái và nói chỉ cần con cố gắng hết sức là được rồi được không ạ?\". Sự đồng hành của bố mẹ sẽ giải tỏa 80% áp lực cho con."
+        ]
+      },
+      {
+        "id": "vol1-q57",
+        "title": "Tình huống 57: Tức giận vì bị bạn cùng bàn vô tình làm bẩn chiếc váy mới",
+        "setup": "Hôm nay con mặc chiếc váy màu trắng rất đẹp mẹ mới mua để đi dự khai giảng. Bạn ngồi bên cạnh lúc mở hộp mực viết máy vô tình làm bắn một vệt mực tím lớn ngay trước ngực váy của con. Con thấy vô cùng tức giận và muốn khóc.",
+        "question": "Con có nên giật lấy hộp mực của bạn ném xuống đất cho bõ tức không?",
+        "steps": [
+          "Nhận diện đây là tai nạn vô ý: Bạn không hề cố tình làm bẩn váy của con. Việc nổi giận đập phá đồ chỉ làm con trở thành người cư xử xấu xí trong mắt mọi người.",
+          "Xử lý vết bẩn khẩn cấp: Chấp nhận lời xin lỗi của bạn, nhanh chóng cùng bạn vào nhà vệ sinh, dùng xà phòng bánh hoặc nước rửa tay xoa nhẹ lên vết mực ngay lập tức để mực không bám chặt vào sợi vải.",
+          "Nhờ mẹ xử lý chuyên sâu: Về nhà đưa váy cho mẹ xử lý bằng nước tẩy chuyên dụng, chiếc váy chắc chắn sẽ sạch lại như mới. Sự bao dung của con sẽ giúp tình bạn thêm bền chặt."
+        ]
+      },
+      {
+        "id": "vol1-q58",
+        "title": "Tình huống 58: Cảm thấy tự ti vì nhà mình không giàu bằng nhà các bạn trong lớp",
+        "setup": "Cuối tuần, các bạn trong nhóm rủ nhau đi ăn pizza và trà sữa ở một trung tâm thương mại sang trọng. Chi phí mỗi bạn khoảng 150 nghìn. Con biết hoàn cảnh gia đình mình đang khó khăn, số tiền đó bằng cả ngày tiền chợ của mẹ nên con rất tự ti.",
+        "question": "Con có nên nói dối bố mẹ là trường thu tiền học phí để lấy 150 nghìn đi ăn chơi cùng các bạn không?",
+        "steps": [
+          "Tuyệt đối không nói dối gian lận tài chính: Nói dối lấy tiền bố mẹ đi chơi là hành vi vi phạm đạo đức nghiêm trọng, khi bị phát hiện sẽ làm tổn thương sâu sắc lòng tin của bố mẹ dành cho con.",
+          "Từ chối thẳng thắn và văn minh: Nói với các bạn trong nhóm: \"Đợt này tớ đang phải tiết kiệm chi tiêu nên không tham gia ăn uống ngoài được. Tớ hẹn các cậu vào buổi học nhóm ở thư viện trường tuần tới nhé!\".",
+          "Trân trọng giá trị gia đình: Hiểu rằng tình yêu thương và sự ấm áp trong gia đình mới là tài sản quý giá nhất, không phải là những bữa ăn sang chảnh hào nhoáng bên ngoài."
+        ]
+      },
+      {
+        "id": "vol1-q59",
+        "title": "Tình huống 59: Cảm thấy ghen tị khi thấy bạn thân được làm lớp trưởng",
+        "setup": "Con và bạn thân cùng ứng cử vào chức vụ Lớp trưởng. Cuối cùng, bạn đạt số phiếu bầu cao hơn con và được cô giáo bổ nhiệm làm lớp trưởng. Con cảm thấy ghen tị, nghĩ rằng bạn không xứng đáng bằng mình và có ý định tránh mặt bạn.",
+        "question": "Con nên thể hiện sự lạnh nhạt với bạn hay làm thế nào?",
+        "steps": [
+          "Chúc mừng bạn một cách chân thành: Đến bên bạn, bắt tay và nói: \"Chúc mừng cậu nhé! Tớ tin cậu sẽ làm lớp trưởng rất tốt\". Đây là hành động của một người có tinh thần thể thao và quân tử.",
+          "Hỗ trợ bạn trong công việc chung: Chủ động đề xuất: \"Nếu cần giúp đỡ gì trong việc quản lý lớp, cứ bảo tớ nhé!\".",
+          "Tự hoàn thiện bản thân: Nhìn nhận lại xem mình còn thiếu sót điểm gì (sự hòa đồng, tính quyết đoán...) để tiếp tục rèn luyện, cơ hội sẽ đến với con ở những lần sau."
+        ]
+      },
+      {
+        "id": "vol1-q60",
+        "title": "Tình huống 60: Cảm thấy \"trống rỗng và mất phương hướng\" sau khi đạt được mục tiêu lớn",
+        "setup": "Con đã dành cả một năm trời học ngày học đêm để thi đỗ vào lớp chuyên Anh của trường cấp 2 mơ ước. Khi có kết quả đỗ thủ khoa, con vui sướng được 3 ngày, sau đó con rơi vào trạng thái mệt mỏi, trống rỗng, không muốn làm gì, không muốn học tiếp môn gì nữa.",
+        "question": "Con có nên lo lắng nghĩ mình bị trầm cảm nặng hay làm thế nào?",
+        "steps": [
+          "Hiểu về hội chứng \"kiệt sức sau mục tiêu\" (Burnout): Khi não bộ dồn toàn bộ năng lượng cho một mục tiêu dài hạn, sau khi hoàn thành, nó cần một thời gian nghỉ ngơi để phục hồi hóa chất hạnh phúc. Đây là hiện tượng sinh lý hoàn toàn bình thường.",
+          "Cho phép bản thân nghỉ ngơi hoàn toàn: Tạm thời gác lại việc học thêm trong vòng 1-2 tuần. Dành thời gian ngủ đủ giấc, đi dã ngoại, xem phim hoạt hình hoặc vẽ tranh để tái tạo năng lượng.",
+          "Đặt ra những mục tiêu nhỏ, thú vị mới: Khi tinh thần đã hồi phục, hãy bắt đầu bằng những mục tiêu không áp lực như: học thử một bài hát bằng guitar, tự làm một món bánh mới, hoặc đọc một cuốn tiểu thuyết tiếng Anh thú vị."
+        ]
+      },
+      {
+        "id": "vol1-q61",
+        "title": "Tình huống 61: Em gái tự ý lấy màu vẽ đắt tiền của chị làm hỏng",
+        "setup": "Con (2015) có một bộ màu nước chuyên nghiệp rất đắt tiền được bố tặng sinh nhật. Em gái (2019) tự ý vào phòng chị, lấy bộ màu ra bôi quệt lung tung lên tường và làm gãy, hỏng mất 3 tuýp màu quý giá của con.",
+        "question": "Con có nên xông vào đánh em một trận lôi đình cho chừa thói tự ý lấy đồ không?",
+        "steps": [
+          "Tách em ra khỏi hiện trường: Ngay lập tức giật bộ màu lại, nhưng tuyệt đối không dùng bạo lực đánh em vì em còn nhỏ chưa hiểu hết giá trị của đồ vật và bạo lực không giải quyết được vấn đề.",
+          "Báo cáo bố mẹ phân xử văn minh: Dắt em ra phòng khách nói với bố mẹ: \"Mẹ ơi, em tự ý lấy màu vẽ đắt tiền của con làm hỏng rồi. Con rất buồn. Con nhờ mẹ dạy bảo em giúp con với ạ\".",
+          "Thiết lập giới hạn riêng tư: Cất bộ màu vào tủ có khóa hoặc đặt ở vị trí cao vượt tầm với của em gái, dặn em rõ ràng: \"Từ nay nếu em muốn vẽ, hãy bảo chị, chị sẽ đưa cho em bộ màu vẽ riêng của em nhé!\"."
+        ]
+      },
+      {
+        "id": "vol1-q62",
+        "title": "Tình huống 62: Bố mẹ cãi nhau to tiếng trong phòng khách",
+        "setup": "Đêm muộn, con đang ngủ thì tỉnh giấc bởi tiếng bát đĩa vỡ và tiếng quát tháo cãi vã rất lớn của bố và mẹ ngoài phòng khách. Con và em gái đều vô cùng sợ hãi, em gái bắt đầu khóc mếu máo ôm chặt lấy con.",
+        "question": "Con nên làm gì để bảo vệ bản thân và trấn an em gái lúc này?",
+        "steps": [
+          "Bảo vệ an toàn vật lý trước: Đưa em gái vào sâu trong phòng ngủ, đóng chặt cửa lại để tránh các mảnh vỡ hoặc cơn nóng giận vô tình của bố mẹ làm tổn thương hai chị em.",
+          "Trấn an tâm lý em gái: Ôm chặt em gái, lấy tai nghe cho em nghe nhạc nhẹ hoặc kể cho em nghe một câu chuyện cổ tích để em không nghe thấy tiếng cãi vã bên ngoài nữa. Nói với em: \"Có chị ở đây rồi, em đừng sợ nhé!\".",
+          "Tuyệt đối không tham gia vào cuộc chiến của người lớn: Không chạy ra ngoài can ngăn hay bênh vực bố hoặc mẹ, vì lúc nóng giận người lớn rất khó kiểm soát hành vi, hãy đợi đến sáng hôm sau khi mọi chuyện đã dịu xuống mới nói chuyện với bố mẹ."
+        ]
+      },
+      {
+        "id": "vol1-q63",
+        "title": "Tình huống 63: Cảm thấy bố mẹ thương em gái hơn mình",
+        "setup": "Con thấy mỗi lần em gái đòi ăn gì mẹ cũng mua, em làm sai mẹ chỉ nhắc nhở nhẹ nhàng. Còn con làm sai một chút là bị bố mẹ mắng mỏ nặng lời, đồ dùng của con cũng toàn dùng lại đồ cũ. Con cảm thấy mình là \"con ghẻ\" trong nhà.",
+        "question": "Con có nên bỏ nhà đi bụi một ngày để bố mẹ phải hối hận vì đã phân biệt đối xử không?",
+        "steps": [
+          "Nhận diện quy luật nuôi dạy con: Trẻ nhỏ (7 tuổi) cần sự chăm sóc vật lý nhiều hơn, còn con (11 tuổi) đã lớn nên bố mẹ kỳ vọng cao hơn về tính tự lập, không phải bố mẹ bớt yêu con đi.",
+          "Chia sẻ tâm sự trực tiếp với bố hoặc mẹ: Chọn một buổi tối cuối tuần khi bố mẹ rảnh rỗi, ngồi tâm sự: \"Mẹ ơi, đôi khi con cảm thấy mẹ chiều em hơn con và con hơi tủi thân. Con cũng muốn được bố mẹ ôm ấp và khen ngợi nhiều như em ạ\".",
+          "Chủ động thể hiện vai trò chị cả: Giúp mẹ chăm sóc em một số việc nhỏ, khi bố mẹ thấy con trưởng thành và biết yêu thương em, bố mẹ sẽ tự khắc tôn trọng và yêu thương con theo cách sâu sắc hơn."
+        ]
+      },
+      {
+        "id": "vol1-q64",
+        "title": "Tình huống 64: Bố mẹ ép buộc con phải học ngành nghề con không thích",
+        "setup": "Bố mẹ liên tục dặn con: \"Sau này con nhất định phải thi vào trường Y để làm bác sĩ giống bố mẹ nhé, làm nghề khác nghèo lắm\". Trong khi con cực kỳ sợ máu và chỉ có đam mê mãnh liệt với hội họa, thiết kế thời trang.",
+        "question": "Con nên cãi cự kịch liệt tuyên bố \"con ghét làm bác sĩ\" hay giả vờ đồng ý rồi sau này làm ngược lại?",
+        "steps": [
+          "Không phản ứng gay gắt tức thời: Hiểu rằng bố mẹ khuyên con làm bác sĩ vì lo lắng cho tương lai tài chính ổn định của con, xuất phát từ lòng yêu thương của bố mẹ.",
+          "Chứng minh năng lực thực tế: Hãy học thật giỏi văn hóa song song với việc vẽ tranh xuất sắc. Cho bố mẹ thấy những tác phẩm thiết kế của con đạt giải thưởng hoặc được mọi người đánh giá cao để thuyết phục bằng hành động.",
+          "Mở cuộc đối thoại định hướng tương lai văn minh: Khi bước vào cấp 2, hãy nói chuyện nghiêm túc với bố mẹ: \"Con rất tự hào về nghề nghiệp của bố mẹ, nhưng con không có năng khiếu y khoa. Con muốn dùng sự nghiêm túc và đam mê của mình để thành công trong ngành thiết kế, con mong bố mẹ ủng hộ con\"."
+        ]
+      },
+      {
+        "id": "vol1-q65",
+        "title": "Tình huống 65: Bị họ hàng trêu chọc mang tính so sánh tiêu cực",
+        "setup": "Trong bữa cơm gia đình họp mặt họ hàng, một bác lớn tuổi chỉ tay vào con và nói trước mặt mọi người: \"Con chị cả dạo này học hành sa sút thế, nhìn con nhà cô Út kìa, vừa ngoan vừa được học sinh xuất sắc kìa. Cháu thế này sau này chỉ đi quét rác thôi!\".",
+        "question": "Con nên khóc bỏ chạy khỏi mâm cơm hay đứng dậy cãi nhau tay đôi với bác hàng xóm/họ hàng đó?",
+        "steps": [
+          "Giữ phong thái lịch sự và tự tin: Không khóc lóc gục đầu thể hiện sự yếu đuối. Ngẩng cao đầu, mỉm cười nhẹ nhàng để giữ phép lịch sự của người có giáo dục.",
+          "Đáp trả lịch sự nhưng thâm thúy: Trả lời lễ phép: \"Cháu cảm ơn bác đã quan tâm ạ. Mỗi người có một thế mạnh riêng, cháu đang nỗ lực hết sức theo cách của cháu. Chúc mừng em nhà cô Út học giỏi ạ!\". Câu trả lời bản lĩnh này sẽ khiến người nói phải tự ngượng ngùng.",
+          "Bỏ ngoài tai lời tiêu cực: Hiểu rằng giá trị của con không phụ thuộc vào lời nhận xét phiến diện của những người họ hàng thiếu tinh tế."
+        ]
+      },
+      {
+        "id": "vol1-q66",
+        "title": "Tình huống 66: Bố mẹ bận rộn quên mất ngày sinh nhật của con",
+        "setup": "Hôm nay là sinh nhật tròn 11 tuổi của con. Con đã háo hức chờ đợi cả tháng trời. Nhưng đến tối mịt, bố mẹ đi làm về với gương mặt mệt mỏi, đặt cặp sách xuống và chỉ hỏi: \"Hôm nay ăn cơm chưa con?\", hoàn toàn quên bẵng ngày sinh nhật con.",
+        "question": "Con có nên khóc lóc dỗi hờn, tuyệt thực không ăn cơm để trừng phạt bố mẹ không?",
+        "steps": [
+          "Thông cảm cho sự vất vả của bố mẹ: Cuộc sống mưu sinh vất vả đôi khi khiến người lớn bị quá tải và quên mất những mốc thời gian quan trọng, không phải họ cố ý bỏ lơ con.",
+          "Nhắc nhở nhẹ nhàng đầy yêu thương: Chủ động mang ra một chiếc bánh ngọt nhỏ (hoặc chỉ cần một cốc nước ấm) mời bố mẹ và nói mỉm cười: \"Bố mẹ ơi, hôm nay đi làm mệt không ạ? Hôm nay là sinh nhật con này, bố mẹ chúc mừng sinh nhật con một câu là con vui lắm rồi!\".",
+          "Đón nhận khoảnh khắc ấm áp: Bố mẹ chắc chắn sẽ vô cùng hối hận vì sự vô ý của mình, ôm chặt con vào lòng và bù đắp cho con bằng những tình cảm ngọt ngào nhất."
+        ]
+      },
+      {
+        "id": "vol1-q67",
+        "title": "Tình huống 67: Vô tình phát hiện bố mẹ giấu con xem nhật ký của mình",
+        "setup": "Con đi học về sớm và vô tình thấy mẹ đang đứng lén lút đọc cuốn sổ nhật ký con giấu dưới đệm giường. Khi thấy con bước vào, mẹ vội vàng nhét cuốn sổ vào ngăn kéo tủ với gương mặt bối rối.",
+        "question": "Con có nên hét to lên: \"Mẹ là đồ ăn trộm quyền riêng tư!\" rồi giật lấy cuốn sổ đốt đi không?",
+        "steps": [
+          "Kiểm soát cơn giận dữ: Việc mẹ đọc trộm nhật ký là sai lầm xâm phạm quyền riêng tư, nhưng xuất phát từ nỗi lo lắng tột cùng muốn hiểu tâm sinh lý của con ở tuổi dậy thì mà không biết cách tiếp cận văn minh.",
+          "Nói chuyện thẳng thắn về ranh giới: Chờ mẹ bình tĩnh lại, nói với mẹ: \"Mẹ ơi, cuốn sổ đó là thế giới riêng tư của con. Nếu mẹ muốn biết dạo này con sống thế nào, mẹ cứ hỏi trực tiếp, con sẵn sàng kể cho mẹ nghe. Mẹ đừng đọc trộm nhật ký của con nữa, con cảm thấy không được tôn trọng ạ\".",
+          "Sử dụng các phương thức lưu trữ an toàn hơn: Đặt mật khẩu cho file nhật ký điện tử hoặc cất giữ sổ nhật ký ở một vị trí an toàn hơn để bảo vệ thế giới thầm kín của con."
+        ]
+      },
+      {
+        "id": "vol1-q68",
+        "title": "Tình huống 68: Bị ép phải nhường chiếc váy yêu thích cho em họ đến chơi nhà",
+        "setup": "Nhà cô ruột đưa em họ (nhỏ tuổi hơn con) sang chơi. Em họ nhìn thấy chiếc váy công chúa lấp lánh con thích nhất treo trong tủ và khóc lóc đòi lấy bằng được mang về nhà chơi. Mẹ con bảo: \"Con lớn rồi, nhường cho em đi con, tí mẹ mua cho cái khác!\".",
+        "question": "Chiếc váy này là kỷ niệm đặc biệt con tự mua bằng tiền tiết kiệm, con có nên kiên quyết giữ lại hay cắn răng nhường cho em?",
+        "steps": [
+          "Bảo vệ quyền sở hữu hợp pháp: Đồ vật do con tự bỏ tiền mua hoặc là quà tặng riêng của con, con hoàn toàn có quyền quyết định cho hay giữ. Mẹ không nên ép buộc nhường đồ kỷ niệm.",
+          "Đưa ra giải pháp thương lượng thông minh: Nói với em họ: \"Chiếc váy này chị thích nhất nên chị không cho em mang về được. Nhưng chị có chiếc váy công chúa màu hồng này cũng rất đẹp (hoặc đồ chơi khác), chị tặng em chiếc này nhé!\".",
+          "Giải thích với mẹ: Nói riêng với mẹ sau đó: \"Mẹ ơi, chiếc váy đó là kỷ niệm con tự tiết kiệm tiền mua, con rất trân trọng nó. Lần sau mẹ đừng ép con nhường những món đồ kỷ niệm cá nhân của con nhé!\"."
+        ]
+      },
+      {
+        "id": "vol1-q69",
+        "title": "Tình huống 69: Bố mẹ có em bé thứ ba, con cảm thấy bị ra rìa hoàn toàn",
+        "setup": "Mẹ mang bầu và sinh em bé thứ ba. Cả nhà đổ dồn sự chú ý chăm sóc cho em bé sơ sinh đỏ hỏn. Con (2015) và em gái (2019) bỗng nhiên phải tự làm mọi việc từ tắm rửa, dọn dẹp đến ăn uống mà không ai hỏi han như trước.",
+        "question": "Hai chị em có nên bày trò quậy phá để thu hút sự chú ý của bố mẹ về phía mình không?",
+        "steps": [
+          "Thấu hiểu giai đoạn bận rộn khẩn cấp: Em bé sơ sinh cực kỳ yếu ớt và cần sự chăm sóc 24/7 để sinh tồn. Đây chỉ là giai đoạn bận rộn tạm thời của gia đình.",
+          "Thắt chặt tình chị em: Con (2015) hãy đóng vai trò người chị lớn dắt tay em gái (2019) cùng tự lập học tập, tắm rửa và chơi chung với nhau để tạo sự tự lập vững chắc.",
+          "Chủ động giúp đỡ bố mẹ: Giúp mẹ những việc vặt như lấy tã, bế em phụ lúc mẹ mệt. Khi nhìn thấy hai cô con gái lớn ngoan ngoãn, tự lập và biết giúp đỡ, bố mẹ sẽ vô cùng tự hào và yêu thương các con nhiều hơn."
+        ]
+      },
+      {
+        "id": "vol1-q70",
+        "title": "Tình huống 70: Con làm mất món đồ trang sức quý giá của bà nội tặng",
+        "setup": "Bà nội tặng cho con một chiếc lắc bạc kỵ gió rất đẹp nhân dịp con lên cấp 2. Do mải đi chơi công viên, con tháo ra để túi áo và làm rơi mất lúc nào không biết. Bà nội chuẩn bị lên chơi nhà con vào tuần tới và chắc chắn sẽ hỏi thăm chiếc lắc.",
+        "question": "Con nên nói dối là \"cháu để quên ở nhà bạn\" hay làm thế nào?",
+        "steps": [
+          "Tuyệt đối không nói dối kéo dài: Nói dối sẽ tạo ra cái bẫy tâm lý khiến con phải tiếp tục bịa ra hàng chục lời nói dối khác để che đậy, gây căng thẳng mệt mỏi.",
+          "Dũng cảm nhận lỗi trước khi bà hỏi: Gọi điện hoặc đợi bà đến nhà, ôm bà và nói thành thật: \"Bà ơi, cháu xin lỗi bà rất nhiều. Chiếc lắc bạc bà tặng cháu vô cùng trân trọng nhưng cháu sơ ý làm rơi ở công viên mất rồi. Cháu buồn và tiếc lắm, bà tha lỗi cho cháu nhé!\".",
+          "Chấp nhận bài học kinh nghiệm: Sự chân thành và hối lỗi của con chắc chắn sẽ được bà thấu hiểu và bao dung tha thứ. Đây là bài học đắt giá giúp con biết giữ gìn tài sản cẩn thận hơn sau này."
+        ]
+      },
+      {
+        "id": "vol1-q71",
+        "title": "Tình huống 71: Nhà bốc khói nghi ngút khi con ở nhà một mình",
+        "setup": "Con đang ở trong phòng học bài, bỗng ngửi thấy mùi khét lẹt và khói đen bắt đầu lùa qua khe cửa phòng từ phía nhà bếp. Chuông báo cháy của tòa nhà chung cư vang lên inh ỏi.",
+        "question": "Con có nên vội vã gom hết sách vở, gấu bông yêu thích vào ba lô rồi mới chạy ra ngoài không?",
+        "steps": [
+          "Ưu tiên thoát hiểm tính mạng ngay lập tức: Bỏ lại toàn bộ tài sản, đồ chơi. Tính mạng là quan trọng nhất, khói độc có thể gây ngất xỉu chỉ sau 30 giây hít phải.",
+          "Sử dụng khăn ướt bảo vệ đường hô hấp: Nhanh chóng lấy một chiếc khăn mặt hoặc áo phông thấm ướt nước, áp chặt vào mũi và miệng. Hạ thấp người (bò sát mặt sàn) vì khói độc luôn bay ở phía trên cao.",
+          "Thoát hiểm bằng cầu thang bộ: Chạy ra cửa chính, kiểm tra tay nắm cửa xem có nóng không trước khi mở. Di chuyển thoát hiểm bằng lối cầu thang bộ thoát hiểm (tuyệt đối không đi thang máy vì dễ bị mất điện kẹt bên trong). Khi ra ngoài an toàn, gọi ngay 114 cứu hỏa."
+        ]
+      },
+      {
+        "id": "vol1-q72",
+        "title": "Tình huống 72: Bị hóc xương cá trong bữa ăn gia đình",
+        "setup": "Trong bữa tối ăn cá lóc kho, con mải nói chuyện cười đùa nên vô tình nuốt phải một chiếc xương cá sắc nhọn. Con cảm thấy đau nhói ở cổ họng, nghẹn ứ nước bọt và không thể nuốt hay nói chuyện bình thường được nữa.",
+        "question": "Con có nên cố gắng nuốt một cục cơm nóng thật lớn để đẩy xương cá trôi xuống dạ dày không?",
+        "steps": [
+          "Tuyệt đối không dùng mẹo nuốt cơm nóng: Nuốt cơm nóng có thể làm chiếc xương cá cắm sâu hơn vào thực quản hoặc làm rách mạch máu cổ họng cực kỳ nguy hiểm.",
+          "Ngừng nuốt và giữ im tư thế: Thả lỏng cổ họng, khạc nhẹ nước bọt ra ngoài, tuyệt đối không cố khạc mạnh hay dùng tay móc họng gây tổn thương niêm mạc.",
+          "Báo ngay cho bố mẹ đưa đi bác sĩ tai mũi họng: Báo với bố mẹ để bố mẹ dùng đèn pin kiểm tra vòm họng. Nếu xương cắm sâu, hãy đến phòng khám tai mũi họng gần nhất để bác sĩ dùng dụng cụ y tế gắp ra an toàn trong 1 phút."
+        ]
+      },
+      {
+        "id": "vol1-q73",
+        "title": "Tình huống 73: Vô tình bị đứt tay chảy máu rất nhiều khi gọt hoa quả",
+        "setup": "Con tự gọt táo ăn, do trượt tay nên lưỡi dao sắc bén khứa một đường sâu vào ngón tay trỏ. Máu đỏ tươi tuôn ra xối xả không ngừng, nhuộm đỏ cả quả táo và tay con. Bố mẹ đều đang đi làm vắng.",
+        "question": "Con nên hoảng sợ khóc lóc gào lên hay làm thế nào để cầm máu khẩn cấp?",
+        "steps": [
+          "Dùng lực ép trực tiếp để cầm máu: Lấy ngay một miếng bông y tế sạch hoặc một chiếc khăn sạch ép thật chặt trực tiếp lên vết thương đang chảy máu liên tục trong vòng 5-10 phút không buông tay.",
+          "Nâng cao vết thương: Giơ cao bàn tay bị thương lên cao hơn tim để giảm áp lực máu dồn về đầu ngón tay, giúp máu nhanh đông hơn.",
+          "Băng bó và gọi cứu trợ: Khi máu đã ngớt chảy, dùng băng cá nhân urgo băng chặt lại. Gọi điện cho bố mẹ thông báo hoặc nhờ hàng xóm sang kiểm tra xem vết thương có cần phải đi khâu thẩm mỹ hay không."
+        ]
+      },
+      {
+        "id": "vol1-q74",
+        "title": "Tình huống 74: Bị ong vò vẽ đốt khi đi dã ngoại trong rừng",
+        "setup": "Con đi cắm trại cùng lớp học, vô tình bước trúng một tổ ong đất trong bụi cỏ. Một con ong vò vẽ to đen bay ra đốt một phát cực đau vào bắp tay con, vết đốt bắt đầu sưng vù lên và nhức nhối vô cùng.",
+        "question": "Con nên dùng tay nặn thật mạnh vết đốt để nọc độc chảy ra ngoài không?",
+        "steps": [
+          "Rút ngòi độc an toàn: Tuyệt đối không nặn ép bằng tay vì sẽ làm túi độc vỡ ra thấm sâu vào da thịt. Hãy dùng một chiếc nhíp y tế hoặc dùng mép của một chiếc thẻ nhựa cứng (thẻ học sinh) gạt nhẹ ngòi độc ra khỏi da.",
+          "Rửa sạch và chườm lạnh: Rửa vết đốt thật sạch dưới vòi nước chảy bằng xà phòng để sát khuẩn, sau đó bọc đá lạnh vào khăn chườm trực tiếp lên vết sưng để giảm đau và giảm phù nề.",
+          "Theo dõi phản ứng dị ứng nặng: Báo ngay cho y tá đoàn dã ngoại hoặc bố mẹ. Nếu thấy xuất hiện triệu chứng khó thở, nổi mề đay toàn thân, chóng mặt, phải đến ngay bệnh viện cấp cứu gấp vì đó là dấu hiệu sốc phản vệ nguy hiểm tính mạng."
+        ]
+      },
+      {
+        "id": "vol1-q75",
+        "title": "Tình huống 75: Bị mắc kẹt trong cabin thang máy bị mất điện đột ngột",
+        "setup": "Con đang đi thang máy chung cư một mình thì tòa nhà đột ngột mất điện toàn phần. Thang máy khựng lại giữa chừng, đèn cabin tắt ngóm, quạt thông gió ngừng chạy. Không gian tối đen như mực và vô cùng ngột ngạt.",
+        "question": "Con có nên hoảng loạn gào khóc, dùng chân đạp mạnh vào cửa thang máy hoặc cố dùng tay cạy cửa kính thang máy ra không?",
+        "steps": [
+          "Giữ bình tĩnh và ngồi xuống sàn: Bình tĩnh hít thở sâu. Thang máy có hệ thống phanh cơ học tự động chống rơi tự do nên con hoàn toàn an toàn bên trong. Ngồi xuống sàn để giữ thăng bằng và tiết kiệm oxy.",
+          "Sử dụng hệ thống liên lạc cứu hộ trong cabin: Tìm nút bấm có hình chiếc chuông hoặc điện thoại màu vàng (Intercom) ấn giữ liên tục để kết nối đàm thoại trực tiếp với nhân viên bảo vệ trực kỹ thuật tòa nhà.",
+          "Ra tín hiệu âm thanh đều đặn: Nếu nút bấm hỏng, dùng gót giày gõ đều đặn vào cửa thang máy theo nhịp 3 cái một để người bên ngoài nghe thấy biết vị trí có người kẹt, tuyệt đối không la hét liên tục gây mất sức và thiếu oxy."
+        ]
+      },
+      {
+        "id": "vol1-q76",
+        "title": "Tình huống 76: Gặp người bị điện giật bất tỉnh trong nhà tắm",
+        "setup": "Con vào nhà tắm và phát hiện em gái đang nằm bất tỉnh dưới đất, tay em vẫn đang nắm chặt lấy chiếc máy sấy tóc đang cắm điện hoạt động. Nước trên sàn nhà tắm đang tràn ra lê láng.",
+        "question": "Con có nên lập tức lao vào ôm kéo em gái dậy ngay lập tức không?",
+        "steps": [
+          "Tuyệt đối không chạm trực tiếp vào nạn nhân: Nước dẫn điện, nếu con lao vào chạm vào em, dòng điện sẽ truyền qua người con và cả hai chị em cùng bị điện giật nguy hiểm tính mạng.",
+          "Ngắt nguồn điện tổng khẩn cấp: Chạy ngay ra cầu dao tổng (Aptomat) của gia đình dập xuống để ngắt toàn bộ nguồn điện, hoặc dùng một vật khô không dẫn điện (chổi gỗ, gậy nhựa, khăn tắm khô dày) gạt tay em ra khỏi chiếc máy sấy tóc.",
+          "Gọi cứu thương và cấp cứu: Hét to gọi bố mẹ hoặc hàng xóm xung quanh ứng cứu cứu hộ, gọi ngay số điện thoại 115 cấp cứu y tế."
+        ]
+      },
+      {
+        "id": "vol1-q77",
+        "title": "Tình huống 77: Bị chuột cắn rách da chân khi đang ngủ",
+        "setup": "Đêm ngủ ở phòng ngủ tầng 1, con cảm thấy đau nhói ở ngón chân cái. Tỉnh dậy bật đèn, con phát hiện một con chuột cống to vừa chạy vụt vào gầm tủ. Đầu ngón chân con bị cắn rách da, rỉ máu đỏ.",
+        "question": "Vết cắn chỉ nhỏ xíu như muỗi đốt, con có nên tiếp tục đi ngủ tiếp và bỏ qua không?",
+        "steps": [
+          "Xử lý sát khuẩn khẩn cấp: Ngay lập tức vào nhà vệ sinh rửa vết thương dưới vòi nước chảy liên tục cùng xà phòng sát khuẩn trong vòng 10-15 phút để loại bỏ nước bọt chứa vi khuẩn độc của chuột.",
+          "Sát trùng bằng cồn: Dùng dung dịch cồn đỏ sát trùng hoặc oxy già lau sạch vết thương, băng nhẹ lại bằng gạc sạch.",
+          "Đi tiêm phòng uốn ván và dại: Sáng hôm sau báo ngay cho bố mẹ đưa đi trung tâm y tế dự phòng để tiêm phòng uốn ván và bệnh dại, vì chuột mang rất nhiều mầm bệnh truyền nhiễm nguy hiểm (bệnh sốt chuột cắn, bệnh dịch hạch)."
+        ]
+      },
+      {
+        "id": "vol1-q78",
+        "title": "Tình huống 78: Phát hiện có trộm đang bẻ khóa cửa nhà lúc nửa đêm",
+        "setup": "Bố mẹ đi vắng chưa về, con và em gái đang ở phòng ngủ tầng 2 thì nghe thấy tiếng \"lạch cạch\" kim loại rất rõ ràng phát ra từ phía ổ khóa cửa chính tầng 1. Nhìn qua khe ban công, con thấy bóng một người đàn ông lạ mặt đang dùng kìm cộng lực bẻ khóa.",
+        "question": "Con có nên cầm gậy chạy xuống tầng 1 dũng cảm chiến đấu bắt trộm không?",
+        "steps": [
+          "Ưu tiên ẩn nấp an toàn: Tuyệt đối không xuống tầng đối mặt với kẻ trộm vì chúng có thể mang vũ khí nguy hiểm sẵn sàng tấn công con. Hãy dắt em vào phòng ngủ tầng 2, khóa chặt cửa trong lại, chốt chặn thêm bằng tủ quần áo hoặc bàn học nặng.",
+          "Tắt đèn giữ im lặng tuyệt đối: Tắt toàn bộ đèn trong phòng để kẻ trộm tưởng nhà không có người, dặn em im lặng không phát ra tiếng động.",
+          "Gọi điện cầu cứu khẩn cấp: Dùng điện thoại gọi ngay cho bố mẹ, gọi 113 công an báo địa chỉ nhà cụ thể, hoặc nhắn tin cầu cứu nhóm chat liên gia hàng xóm xung quanh chạy sang bật đèn báo động xua đuổi trộm."
+        ]
+      },
+      {
+        "id": "vol1-q79",
+        "title": "Tình huống 79: Bị bỏng nước sôi rộp da tay khi tự pha mì tôm",
+        "setup": "Con tự đun nước pha mì tôm ăn xế. Do sơ ý lúc bê bát mì nóng, bát mì bị đổ sụp vào mu bàn tay trái của con. Da tay lập tức đỏ ửng lên, bỏng rát kinh khủng và bắt đầu xuất hiện những nốt phồng rộp mọng nước.",
+        "question": "Con có nên bôi kem đánh răng hoặc mỡ trăn trực tiếp lên vết bỏng để làm dịu mát ngay lập tức không?",
+        "steps": [
+          "Làm mát vết bỏng dưới vòi nước mát: Ngay lập tức xả nước máy mát chảy nhẹ nhàng liên tục lên vết bỏng trong vòng 15-20 phút. Nước mát giúp hạ nhiệt sâu dưới da, giảm mức độ tổn thương rộp da (tuyệt đối không dùng nước đá lạnh buốt vì gây bỏng lạnh thêm).",
+          "Không tự ý bôi các chất lạ: Tuyệt đối không bôi kem đánh răng, nước mắm, mỡ trăn lên vết thương hở vì rất dễ gây nhiễm trùng nặng khó chữa trị. Không làm vỡ các nốt phồng rộp nước.",
+          "Băng gạc sạch bảo vệ: Dùng một miếng gạc y tế vô trùng băng lỏng nhẹ nhàng vết thương lại để tránh bụi bẩn và báo bố mẹ đưa đi kiểm tra y tế nếu bỏng diện rộng."
+        ]
+      },
+      {
+        "id": "vol1-q80",
+        "title": "Tình huống 80: Đột ngột bị chảy máu cam dữ dội ở lớp học",
+        "setup": "Đang trong giờ học Văn, con cảm thấy mũi mình có dòng nước ấm chảy ra. Nhìn xuống vở thấy những giọt máu đỏ tươi đang rơi loang lổ. Con bị chảy máu cam dữ dội mà không rõ nguyên nhân.",
+        "question": "Con có nên ngửa cổ ra sau thật cao để ngăn máu không chảy ra ngoài nữa không?",
+        "steps": [
+          "Cúi đầu về phía trước: Tuyệt đối không ngửa cổ ra sau vì máu sẽ chảy ngược vào cổ họng gây sặc, buồn nôn hoặc tắc đường thở. Hãy ngồi thẳng lưng, cúi nhẹ đầu về phía trước để máu chảy ra ngoài tự nhiên.",
+          "Bóp chặt cánh mũi cầm máu: Dùng ngón tay trỏ và ngón tay cái bóp chặt hai bên cánh mũi (phần thịt mềm) liên tục trong vòng 5-10 phút, thở hoàn toàn bằng miệng.",
+          "Dùng khăn lạnh chườm trán: Nhờ bạn bên cạnh thấm ướt một chiếc khăn lạnh chườm lên vùng trán hoặc gốc mũi để giúp mạch máu co lại nhanh hơn. Nếu sau 15 phút máu vẫn chảy không ngừng, báo cô giáo đưa xuống phòng y tế trường ngay lập tức."
+        ]
+      },
+      {
+        "id": "vol1-q81",
+        "title": "Tình huống 81: Vô tình làm đổ vỡ chồng bát đĩa sứ đắt tiền trong siêu thị",
+        "setup": "Con đi chọn đồ trong siêu thị, do khoác chiếc ba lô quá to nên khi quay người lại, ba lô vô tình gạt trúng chồng đĩa sứ trưng bày bên mép kệ, làm 5 chiếc đĩa rơi xuống sàn vỡ tan tành trước sự chứng kiến của rất nhiều khách mua hàng.",
+        "question": "Con nên giả vờ lảng đi sang quầy hàng khác coi như không phải mình làm đổ không?",
+        "steps": [
+          "Đứng yên giữ nguyên hiện trường: Không chạy trốn, vì hệ thống camera siêu thị ghi hình 24/7 chắc chắn sẽ phát hiện ra con. Chạy trốn làm mất danh dự bản thân.",
+          "Chủ động tìm nhân viên quầy hàng báo cáo: Gặp nhân viên siêu thị gần nhất lịch sự nói: \"Cô ơi, cháu vô tình quay người làm va ba lô làm vỡ mấy chiếc đĩa đằng kia ạ. Cháu xin lỗi cô và siêu thị nhiều ạ\".",
+          "Hợp tác xử lý bồi thường: Chờ nhân viên dọn dẹp để tránh người khác giẫm phải mảnh vỡ. Gọi điện cho bố mẹ đến để trao đổi phương án bồi thường thiệt hại một cách văn minh, đúng luật."
+        ]
+      },
+      {
+        "id": "vol1-q82",
+        "title": "Tình huống 82: Bị người khác chen hàng thô bạo khi xếp hàng mua vé phim",
+        "setup": "Con và em gái đã xếp hàng ngay ngắn suốt 20 phút để mua vé xem phim hoạt hình cuối tuần. Khi chỉ còn cách quầy vé 1 người, một thanh niên cao to từ đâu chen ngang lên trước mặt con vô cùng thô bạo.",
+        "question": "Con nên im lặng chịu đựng cho qua chuyện hay hét lên chửi bới người đó?",
+        "steps": [
+          "Lên tiếng nhắc nhở lịch sự nhưng kiên quyết: Nói to rõ ràng để mọi người xung quanh cùng nghe thấy: \"Anh ơi, mọi người ở đây đều đang xếp hàng rất văn minh. Xin anh vui lòng xuống cuối hàng xếp hàng theo thứ tự ạ!\".",
+          "Kêu gọi sự đồng thuận từ đám đông: Nếu người đó cố tình lờ đi, hãy quay sang nhờ chú nhân viên bán vé can thiệp: \"Chú ơi, anh này chen hàng của cháu, chú bán vé theo đúng thứ tự xếp hàng giúp chúng cháu với ạ\".",
+          "Giữ phong thái văn minh: Tuyệt đối không dùng bạo lực xô đẩy hay nói những lời thô tục, dùng lý lẽ đúng đắn của mình để buộc đối phương phải tự xấu hổ rút lui."
+        ]
+      },
+      {
+        "id": "vol1-q83",
+        "title": "Tình huống 83: Nhặt được một chiếc ví chứa rất nhiều tiền và giấy tờ tùy thân ở công viên",
+        "setup": "Con chơi xích đu ở công viên và phát hiện dưới thảm cỏ có một chiếc ví da màu đen dày cộp. Mở ra xem bên trong có rất nhiều tờ tiền mệnh giá 500 nghìn đồng và một chiếc thẻ căn cước công dân mang tên một người lạ. Không có ai ở gần đó.",
+        "question": "Con có nên lấy số tiền đó đi mua đồ chơi con thích, còn chiếc ví thì vứt đi để không ai biết không?",
+        "steps": [
+          "Nhận diện nguyên tắc đạo đức: Chiếc ví là tài sản mồ hôi nước mắt của người khác. Lấy đồ của người khác nhặt được mà không trả lại là hành vi tham lam và vi phạm pháp luật (tội chiếm đoạt tài sản nhặt được).",
+          "Bàn giao cho cơ quan chức năng: Dắt em gái đến ngay bốt trực của chú công an công viên hoặc đồn công an gần nhất để bàn giao nguyên vẹn chiếc ví cho các chú xử lý tìm chủ nhân.",
+          "Nhận lại niềm vui trung thực: Sự trung thực của con sẽ giúp người mất tìm lại được giấy tờ quan trọng, mang lại niềm hạnh phúc to lớn cho họ và niềm tự hào cho bố mẹ con."
+        ]
+      },
+      {
+        "id": "vol1-q84",
+        "title": "Tình huống 84: Bị một nhóm bạn trêu chọc dồn vào góc tường ở khu vui chơi",
+        "setup": "Con đang chơi ở khu nhà bóng, có một nhóm 4 bạn nam lớn hơn chặn con lại ở góc tường, không cho con đi ra ngoài và liên tục ném bóng nhựa rất mạnh vào người con kèm những tiếng cười cợt trêu chọc thô thiển.",
+        "question": "Con nên khóc mếu máo van xin các bạn tha cho, hay phản ứng thế nào để thoát ra?",
+        "steps": [
+          "Giữ ánh mắt kiên nghị, không sợ hãi: Nhìn thẳng vào mắt đứa cầm đầu nhóm, đứng thẳng người thể hiện sự bản lĩnh, không khóc lóc vì khóc lóc sẽ làm kẻ bắt nạt càng phấn khích.",
+          "Cảnh cáo lớn tiếng cảnh báo: Nói to, rõ ràng: \"Yêu cầu các cậu dừng lại ngay lập tức! Hành động này của các cậu là thô lỗ, tớ sẽ báo cáo với chú bảo vệ khu vui chơi ngay!\".",
+          "Nhanh chóng di chuyển thoát ra: Tận dụng lúc nhóm bạn đang bất ngờ trước thái độ cứng rắn của con, nhanh chân luồn qua kẽ hở chạy ra khu vực đông phụ huynh đang ngồi chờ để tìm sự trợ giúp."
+        ]
+      },
+      {
+        "id": "vol1-q85",
+        "title": "Tình huống 85: Đi xem phim rạp gặp người ngồi sau liên tục đạp mạnh vào lưng ghế",
+        "setup": "Con đang vô cùng tập trung xem bộ phim hoạt hình yêu thích trong rạp. Tuy nhiên, người ngồi ở hàng ghế phía sau cứ khoảng 2 phút lại đạp mạnh một phát vào lưng ghế của con, khiến con bị rung lắc, đau lưng và vô cùng khó chịu.",
+        "question": "Con nên quay lại quát mắng to tiếng làm ồn cả rạp phim, hay làm thế nào?",
+        "steps": [
+          "Quay lại nhắc nhở lịch sự lần đầu: Quay nhẹ người lại, mỉm cười lịch sự nói khẽ: \"Bạn ơi, bạn vô ý đạp vào lưng ghế làm mình bị đau và khó xem phim quá, bạn chú ý giúp mình nhé!\".",
+          "Yêu cầu hỗ trợ từ nhân viên rạp (nếu tiếp diễn): Nếu người đó vẫn cố tình lờ đi và tiếp tục đạp ghế trêu tức, hãy đi ra ngoài cửa rạp gặp bạn nhân viên soát vé trình bày tình hình.",
+          "Chấp nhận đổi chỗ ngồi an toàn: Nhờ nhân viên rạp nhắc nhở trực tiếp người đó hoặc sắp xếp cho con sang một vị trí ghế trống khác tương đương để con có trải nghiệm xem phim trọn vẹn, thoải mái."
+        ]
+      },
+      {
+        "id": "vol1-q86",
+        "title": "Tình huống 86: Gặp người ăn xin bám đuôi dai dẳng đòi tiền ở chợ đêm",
+        "setup": "Con đi bộ chơi chợ đêm cùng gia đình, một người ăn xin rách rưới bám sát theo sau con suốt một đoạn đường dài, liên tục chìa nón lá xin tiền và kéo nhẹ vào vấu áo con khiến con vô cùng sợ hãi và bối rối.",
+        "question": "Con có nên vội vã lục túi lấy hết tiền lẻ đưa cho họ để họ buông tha không?",
+        "steps": [
+          "Không thể hiện sự hoảng sợ tột độ: Giữ sải bước đi đều đặn, không chạy trốn cuống cuồng làm đối phương lấn lướt bám theo sâu hơn.",
+          "Từ chối kiên quyết bằng ngôn ngữ cơ thể: Xua tay nhẹ và nói dứt khoát: \"Cháu không có tiền lẻ đâu ạ!\".",
+          "Nhập vào nhóm đông người: Di chuyển thật nhanh về phía có ánh sáng rực rỡ của các gian hàng lớn hoặc đi sát cạnh bố mẹ, người ăn xin sẽ tự động rút lui tránh rắc rối."
+        ]
+      },
+      {
+        "id": "vol1-q87",
+        "title": "Tình huống 87: Bị nhân viên bán hàng ở cửa hàng sách nghi ngờ ăn trộm đồ",
+        "setup": "Con vào hiệu sách xem truyện, khi con đi ra qua cổng từ an ninh thì chuông báo động bất ngờ kêu \"Tít tít\" inh ỏi. Cô nhân viên bán hàng lập tức chạy lại giữ tay con, quát lớn trước mặt mọi người: \"Đứng lại! Mở ba lô ra xem ăn cắp cuốn truyện gì giấu trong đó!\".",
+        "question": "Con cảm thấy vô cùng xấu hổ và uất ức phát khóc, con nên vùng chạy đi hay xử lý thế nào?",
+        "steps": [
+          "Giữ bình tĩnh tuyệt đối: Con không lấy trộm đồ nên con hoàn toàn trong sạch. Việc vùng chạy sẽ làm mọi người khẳng định con là kẻ trộm thật sự.",
+          "Hợp tác kiểm tra công khai: Nói ôn hòa: \"Cháu không lấy bất kỳ món đồ nào chưa thanh toán ạ. Cháu sẵn sàng mở cặp nhờ cô kiểm tra công khai tại đây để chứng minh sự trong sạch của cháu\".",
+          "Xác định nguyên nhân kỹ thuật: Sau khi kiểm tra cặp không có đồ ăn trộm, nhờ cô nhân viên quét lại chiếc thẻ học sinh hoặc quần áo mới mua của con qua máy khử từ, vì đôi khi các chíp từ của đồ dùng cá nhân chưa được khử từ kỹ gây báo động oan. Yêu cầu cô nhân viên xin lỗi vì đã quát mắng oan danh dự của con."
+        ]
+      },
+      {
+        "id": "vol1-q88",
+        "title": "Tình huống 88: Đi vệ sinh công cộng gặp bồn cầu bị tắc tràn nước lê láng",
+        "setup": "Con vào nhà vệ sinh công cộng của rạp chiếu phim. Khi con nhấn nút xả nước bồn cầu sau khi đi xong, nước không thoát đi mà bắt đầu dâng cao ngùn ngụt, mang theo chất thải tràn ra ngoài mép bồn cầu lê láng xuống sàn nhà.",
+        "question": "Con có nên vội vã mở cửa chạy trốn thật nhanh bỏ mặc bãi chiến trường dơ bẩn đó không?",
+        "steps": [
+          "Nhanh chóng rời khỏi cabin vệ sinh bị tràn: Tránh để nước bẩn dính vào giày dép và quần áo của con gây mất vệ sinh.",
+          "Cảnh báo cho người sau: Đóng chặt cửa phòng vệ sinh đó lại, hoặc dùng một tờ giấy cảnh báo dán ngoài cửa: \"Bồn cầu bị tắc, xin đừng vào!\".",
+          "Báo cáo khẩn cấp cho lao công/quản lý: Tìm cô lao công trực nhà vệ sinh hoặc nhân viên sảnh báo ngay lập tức: \"Cô ơi, phòng vệ sinh số 3 bị tắc tràn nước rồi, cô qua xử lý giúp cháu với ạ!\". Hành động văn minh này sẽ giúp bảo vệ môi trường chung của cộng đồng."
+        ]
+      },
+      {
+        "id": "vol1-q89",
+        "title": "Tình huống 89: Vô tình làm mất vé giữ xe đạp gửi ở trường học",
+        "setup": "Tan học, con ra bãi gửi xe của trường để lấy xe đạp điện đi về thì phát hiện chiếc vé gửi xe bằng giấy cứng bỏ túi áo khoác đã bị rơi mất từ lúc nào. Bác bảo vệ bãi xe kiên quyết giữ xe lại và mắng: \"Không có vé thì không được dắt xe ra ngoài!\".",
+        "question": "Con có nên khóc lóc cố tình dắt xe chạy qua cổng bảo vệ tranh thủ lúc bác đang bận không?",
+        "steps": [
+          "Chấp nhận tuân thủ nội quy bãi xe: Bác bảo vệ giữ xe lại là đúng quy trình để bảo vệ tài sản, tránh trường hợp kẻ gian trộm xe của con mang đi.",
+          "Cung cấp chứng minh quyền sở hữu: Nhờ cô giáo chủ nhiệm hoặc các bạn thân cùng lớp ra bãi xe xác nhận chiếc xe đạp điện đó chính xác là xe của con đi học hàng ngày. Trình thẻ học sinh trùng tên khớp thông tin.",
+          "Ký biên bản xác nhận bồi thường: Viết bản cam kết làm mất vé xe, ký tên xác nhận dưới sự chứng kiến của giáo viên để bác bảo vệ lưu lại đối chiếu, sau đó dắt xe về nhà an toàn."
+        ]
+      },
+      {
+        "id": "vol1-q90",
+        "title": "Tình huống 90: Bị người ngồi cạnh trên máy bay liên tục ngủ gật gục đầu vào vai con",
+        "setup": "Con đi máy bay du lịch cùng gia đình, con ngồi ở hàng ghế giữa cạnh một chú người nước ngoài to béo. Suốt chuyến bay dài 2 tiếng, chú ấy liên tục ngủ gật, đầu nghiêng hẳn sang bên cạnh gục sâu vào vai và ngực con khiến con vô cùng ngột ngạt, khó chịu và sợ hãi.",
+        "question": "Vì lịch sự, con có nên cố ngồi im cứng người chịu đựng suốt 2 tiếng đồng hồ không?",
+        "steps": [
+          "Thay đổi tư thế cơ thể tế nhị: Chủ động chuyển động vai, ho nhẹ hoặc nghiêng hẳn người sang hướng khác để đầu của chú ấy tự trượt ra khỏi vai con một cách tự nhiên.",
+          "Sử dụng gối tựa đầu làm rào chắn: Lấy chiếc gối chữ U hoặc chiếc ba lô nhỏ đặt dựng đứng ở phần tay vịn ngăn cách giữa hai ghế làm ranh giới che chắn vững chắc.",
+          "Nhờ tiếp viên hàng không can thiệp: Nếu chú ấy vẫn tiếp tục gục sang gập sâu hơn, hãy bấm nút gọi tiếp viên hàng không (Flight Attendant) trên trần máy bay và nói nhỏ nhẹ: \"Chị ơi, chú bên cạnh ngủ gật làm cháu hơi khó chịu, chị có thể nhắc chú ấy hoặc đổi giúp cháu sang ghế trống khác được không ạ?\"."
+        ]
+      },
+      {
+        "id": "vol1-q91",
+        "title": "Tình huống 91: Tự ý mua đồ ăn vặt cổng trường bị ngộ độc thực phẩm đau bụng dữ dội",
+        "setup": "Con dùng tiền ăn sáng tự ý mua một túi \"thịt hổ cay\" và nước ngọt phẩm màu xanh đỏ ở gánh hàng rong cổng trường ăn thử vì tò mò. Đến tiết học thứ 3, bụng con đau quằn quại như có dao đâm, nôn mửa liên tục ra đầy bàn học.",
+        "question": "Con có nên cố chịu đựng cơn đau vì sợ bị cô giáo mách bố mẹ việc con ăn đồ ăn vặt bẩn không?",
+        "steps": [
+          "Ưu tiên sơ cứu y tế khẩn cấp: Tính mạng là trên hết, ngộ độc thực phẩm nặng có thể gây mất nước nguy kịch. Hãy dũng cảm giơ tay báo cáo cô giáo: \"Thưa cô, em bị đau bụng và nôn mửa quá, xin cô cho em xuống phòng y tế ạ!\".",
+          "Thành thật khai báo nguồn gốc ngộ độc: Nói thật với cô y tá trường con đã ăn món đồ gì, mua ở đâu để cô có phương án súc ruột hoặc cho uống thuốc đúng loại độc tố.",
+          "Chấp nhận bài học đắt giá: Về nhà xin lỗi bố mẹ vì đã tự ý ăn đồ ăn vặt bẩn không rõ nguồn gốc, cam kết từ nay chỉ ăn đồ ăn sạch do gia đình chuẩn bị để bảo vệ sức khỏe bản thân."
+        ]
+      },
+      {
+        "id": "vol1-q92",
+        "title": "Tình huống 92: Làm mất số tiền đóng học phí học thêm của cả tháng",
+        "setup": "Mẹ đưa cho con 1 triệu đồng đựng trong phong bì dặn: \"Đến lớp học thêm nộp ngay cho cô giáo chủ nhiệm nhé con!\". Do mải chơi nhảy dây giờ ra chơi, con làm rơi chiếc phong bì tiền ở sân trường lúc nào không hay biết.",
+        "question": "Con có nên nói dối mẹ là \"con đã nộp cho cô rồi\" để tránh bị mẹ đánh đòn không?",
+        "steps": [
+          "Dũng cảm đối mặt với sự thật: Nói dối chỉ giải quyết được nỗi sợ hãi tạm thời nhưng sẽ phá vỡ hoàn toàn lòng tin của bố mẹ dành cho con khi cô giáo gọi điện đòi học phí cuối tháng.",
+          "Báo cáo trung thực với mẹ: Về nhà đến bên mẹ với thái độ hối lỗi sâu sắc: \"Mẹ ơi, con xin lỗi mẹ nhiều lắm. Con sơ ý làm rơi mất phong bì tiền học phí ở trường rồi ạ. Con vô cùng ân hận\".",
+          "Đề xuất phương án đền bù trách nhiệm: Nói với mẹ: \"Con xin phép tự trừ vào tiền tiêu vặt hàng tháng của con (hoặc dùng tiền nuôi lợn đất tiết kiệm) để bù đắp lại một phần số tiền đã mất ạ\". Trách nhiệm này sẽ giúp con trưởng thành hơn rất nhiều."
+        ]
+      },
+      {
+        "id": "vol1-q93",
+        "title": "Tình huống 93: Nuôi lợn đất tiết kiệm bị em gái đập vỡ lấy tiền đi mua kẹo",
+        "setup": "Con (2015) nuôi một chú heo đất tiết kiệm suốt 2 năm để mua xe đạp mới. Hôm nay đi học về, con chết lặng thấy chú heo đất vỡ nát dưới đất, em gái (2019) đang hí hửng cầm tờ 50 nghìn đồng chạy đi mua kẹo dẻo ở tiệm tạp hóa đầu ngõ.",
+        "question": "Con nên lao vào giật tóc đánh em gái bắt đền khóc lóc thảm thiết không?",
+        "steps": [
+          "Ngăn chặn em tiêu tiền sai mục đích: Chạy ra giữ em lại lịch sự, lấy lại tờ tiền 50 nghìn đồng để em không mua kẹo bừa bãi hỏng răng. Tuyệt đối không đánh mắng em.",
+          "Dạy bảo em nhẹ nhàng về quyền sở hữu: Ngồi xuống ngang tầm mắt em, giải thích nghiêm túc: \"Đây là tiền tiết kiệm của chị, em đập vỡ heo của chị là sai rồi. Từ nay em muốn mua gì phải xin phép bố mẹ, không được tự ý đập đồ của chị nhé!\".",
+          "Nhờ bố mẹ hỗ trợ thu gom bồi hoàn: Thu gom toàn bộ số tiền lẻ rơi vãi trên đất cùng bố mẹ kiểm đếm lại. Nhờ bố mẹ phân tích lỗi sai cho em hiểu và cùng bố mẹ mua một chú heo đất mới có độ bền cao hơn hoặc gửi tiền tiết kiệm vào tài khoản ngân hàng của bố mẹ giúp con bảo mật an toàn hơn."
+        ]
+      },
+      {
+        "id": "vol1-q94",
+        "title": "Tình huống 94: Nhận nhiệm vụ trông em gái (2019) nhưng mải chơi điện thoại làm em bị ngã rách trán",
+        "setup": "Mẹ bận nấu cơm dưới bếp dặn con (2015): \"Con trông em gái chơi ở phòng khách giúp mẹ 30 phút nhé!\". Do mải mê lướt xem TikTok trên điện thoại, con không chú ý, em gái leo trèo lên ghế sofa bị ngã lộn cổ xuống đất, trán đập vào cạnh bàn kính chảy máu rách một đường dài.",
+        "question": "Con quá hoảng sợ, con có nên bế em giấu vào phòng ngủ rồi bảo là \"em tự chơi tự ngã\" không liên quan đến con không?",
+        "steps": [
+          "Hét gọi cứu trợ y tế khẩn cấp từ mẹ: Ngay lập tức hét lớn gọi mẹ dưới bếp lên xử lý vết thương cho em: \"Mẹ ơi cứu em với, em bị ngã rách trán chảy máu rồi!\".",
+          "Thành thật nhận trách nhiệm lỗi lầm: Đến trước mặt mẹ cúi đầu nhận lỗi chân thành: \"Con xin lỗi mẹ, lỗi hoàn toàn do con mải chơi điện thoại nên không trông em cẩn thận ạ\".",
+          "Từ bỏ điện thoại khi đang nhận nhiệm vụ: Tự răn đe bản thân từ nay tuyệt đối không chạm vào điện thoại/thiết bị số khi đang nhận nhiệm vụ trông em hoặc làm bất kỳ công việc chịu trách nhiệm nào khác."
+        ]
+      },
+      {
+        "id": "vol1-q95",
+        "title": "Tình huống 95: Tự ý cắt tóc mái ngắn ngủn theo trend mạng xã hội bị hỏng trông vô cùng hài hước",
+        "setup": "Con thấy trên mạng xã hội có trào lưu tự cắt \"tóc mái ngố anime\" rất dễ thương. Con tự lấy kéo thủ công của mình ra trước gương tự cắt phăng mái tóc dài của mình đi. Kết quả, tóc mái bị lệch, ngắn ngủn sát chân tóc trông vô cùng hài hước và xấu xí, ngày mai lại là ngày chụp ảnh kỷ yếu toàn trường.",
+        "question": "Con có nên khóc lóc từ chối không đi học ngày mai vì xấu hổ không?",
+        "steps": [
+          "Chấp nhận hậu quả thực tế vui vẻ: Việc đã xảy ra rồi, khóc lóc hay dỗi hờn cũng không làm tóc mọc dài ra ngay lập tức được. Hãy mỉm cười đón nhận bài học kinh nghiệm về sự bốc đồng.",
+          "Tìm giải pháp khắc phục thẩm mỹ: Nhờ mẹ đưa ra tiệm làm tóc chuyên nghiệp nhờ các cô thợ cắt tóc khéo léo tỉa lại thành kiểu tóc mái ngố xéo dễ thương, hoặc dùng những chiếc kẹp tăm xinh xắn kẹp gọn phần tóc hỏng lên gọn gàng.",
+          "Tự tin đối mặt với lời trêu chọc: Ngày mai đi học nếu có bạn trêu chọc, hãy tự tin cười cùng các bạn: \"Tớ tự thiết kế kiểu tóc độc lạ bình dương này đấy, ngầu không!\". Sự tự tin bản lĩnh của con sẽ dập tắt mọi ý định bắt nạt của người khác."
+        ]
+      },
+      {
+        "id": "vol1-q96",
+        "title": "Tình huống 96: Bị bạn lôi kéo tham gia vào trò chơi thử thách mua đồ thanh toán bằng thẻ tín dụng của bố mẹ",
+        "setup": "Nhóm bạn giàu có trong lớp rủ con chơi trò \"Thử thách lòng dũng cảm\": Tự lén lấy thẻ tín dụng (Visa/Mastercard) của bố mẹ quét mua một món đồ chơi đắt tiền trên mạng xem ai thành công trước mà không bị bố mẹ phát hiện.",
+        "question": "Con có nên lén lấy thẻ của bố mẹ quét thử một lần để không bị các bạn coi thường là kẻ nhút nhát không?",
+        "steps": [
+          "Nhận diện tính chất nghiêm trọng: Việc tự ý lấy thẻ tín dụng mua đồ không được phép là hành vi trộm cắp tài sản gia đình nghiêm trọng, có thể bị xử phạt pháp luật và gây thiệt hại tài chính vô cùng lớn cho bố mẹ.",
+          "Từ chối bản lĩnh: Nói thẳng thắn: \"Tớ không tham gia mấy trò trộm cắp này đâu. Đây không phải dũng cảm, đây là hành vi vi phạm pháp luật!\".",
+          "Báo cáo cảnh báo bố mẹ: Về nhà kể lại trò chơi nguy hiểm này của nhóm bạn cho bố mẹ nghe để bố mẹ cất giữ thẻ tín dụng an toàn hơn và có biện pháp cảnh báo cho các phụ huynh khác trong lớp."
+        ]
+      },
+      {
+        "id": "vol1-q97",
+        "title": "Tình huống 97: Tự lập đi chợ mua thực phẩm giúp mẹ nhưng bị người bán hàng cân thiếu và thối thiếu tiền",
+        "setup": "Mẹ mệt nhờ con tự cầm 200 nghìn đồng ra chợ đầu ngõ mua 1 kg thịt lợn ngon giúp mẹ. Khi về nhà mẹ cân lại chỉ thấy có 7 lạng thịt, và con kiểm tra lại tiền thừa thấy cô bán hàng thối thiếu mất 20 nghìn đồng.",
+        "question": "Con có nên im lặng chấp nhận bị lừa vì ngại không dám ra chợ đòi lại tiền không?",
+        "steps": [
+          "Cùng mẹ quay lại quầy hàng đối chất văn minh: Dắt tay mẹ quay lại quầy thịt đó ngay lập tức (mang theo miếng thịt nguyên vẹn chưa thái).",
+          "Yêu cầu cân lại công khai: Lịch sự nói với cô bán hàng trước mặt mọi người: \"Cô ơi, lúc nãy cháu mua 1kg thịt nhưng về mẹ cháu cân lại chỉ có 7 lạng thôi ạ. Với cô cũng thối thiếu của cháu 20 nghìn tiền thừa nữa, cô kiểm tra lại cân giúp cháu với ạ!\".",
+          "Học kỹ năng đi chợ thông minh: Rút kinh nghiệm từ nay khi mua đồ phải đứng nhìn thẳng vào bàn cân kim chỉ đúng vạch, tự tính nhẩm tiền thừa trước khi bước ra khỏi quầy hàng để tránh bị lừa dối."
+        ]
+      },
+      {
+        "id": "vol1-q98",
+        "title": "Tình huống 98: Vô tình làm mất cuốn sách mượn từ thư viện trường học đã quá hạn nửa năm",
+        "setup": "Con mượn cuốn tiểu thuyết \"Harry Potter\" của thư viện trường học từ học kỳ 1 năm ngoái. Do dọn phòng học, con vô tình xếp lẫn vào thùng sách báo cũ quyên góp từ thiện và làm mất cuốn sách đó. Thư viện gửi giấy báo phạt yêu cầu hoàn trả sách gấp, nếu không sẽ bị hạ hạnh kiểm cuối năm học.",
+        "question": "Con có nên trốn tránh không lên thư viện gặp cô thủ thư để lờ đi hình phạt không?",
+        "steps": [
+          "Đối mặt trực tiếp giải quyết sự cố: Việc trốn tránh chỉ làm hạnh kiểm của con bị ảnh hưởng nghiêm trọng hơn. Hãy lên thư viện gặp trực tiếp cô thủ thư trình bày thành thật sự việc.",
+          "Đề xuất phương án bồi thường văn minh: Nói khéo léo: \"Thưa cô, em vô tình làm thất lạc cuốn sách của thư viện rồi ạ. Em xin lỗi cô nhiều. Em xin phép tự mua lại một cuốn sách mới tinh giống hệt cuốn đó để đền bù lại cho thư viện được không ạ?\".",
+          "Thực hiện bồi thường nghiêm túc: Tự tiết kiệm tiền tiêu vặt mua lại đúng tựa sách đó mang lên nộp bồi thường kèm lời cảm ơn cô thủ thư đã tạo điều kiện giải quyết."
+        ]
+      },
+      {
+        "id": "vol1-q99",
+        "title": "Tình huống 99: Bị sốt cao đau đầu dữ dội lúc đang làm bài thi học kỳ quan trọng",
+        "setup": "Đang trong phòng thi học kỳ 2 môn Tiếng Anh (môn con kỳ vọng đạt điểm tối đa), con đột ngột lên cơn sốt cao, đầu óc quay cuồng, mắt hoa lên không nhìn rõ chữ trên đề thi, mồ hôi lạnh vã ra như tắm. Chỉ còn 20 phút nữa là hết giờ làm bài và con mới làm được một nửa đề.",
+        "question": "Con có nên cố cắn răng chịu đựng, viết bừa nốt phần còn lại để hoàn thành bài thi hay làm thế nào?",
+        "steps": [
+          "Ưu tiên sức khỏe thể chất khẩn cấp: Sốt cao co giật trong phòng thi cực kỳ nguy hiểm tính mạng. Sức khỏe luôn quan trọng hơn bất kỳ điểm số nào. Hãy giơ tay báo cáo giám thị phòng thi ngay lập tức.",
+          "Yêu cầu xuống phòng y tế sơ cứu cấp cứu: Nói rõ: \"Thưa thầy/cô, em bị sốt cao hoa mắt quá, không thể tiếp tục làm bài thi được nữa, xin thầy cô cho em xuống phòng y tế gấp ạ!\". Nhờ giám thị lập biên bản xác nhận tình trạng sức khỏe tại phòng thi.",
+          "Hợp tác làm thủ tục hoãn thi/thi bù hợp pháp: Nhờ bố mẹ liên hệ ban giám hiệu nhà trường nộp hồ sơ bệnh án khám bệnh để được đặc cách thi bù hoặc bảo lưu kết quả thi theo đúng quy chế học đường văn minh."
+        ]
+      },
+      {
+        "id": "vol1-q100",
+        "title": "Tình huống 100: Con tự ý nhận nuôi một chú mèo con bị bỏ rơi ngoài đường mang về nhà nuôi khi mẹ bị dị ứng lông mèo nặng",
+        "setup": "Trên đường đi học về, con thấy một chú mèo con ướt nhẹp, kêu cứu thảm thiết dưới cống nước. Con thương quá tự ý ôm chú mèo mang về phòng ngủ của mình lén lút nuôi dưỡng. Mẹ đi chợ về bước vào phòng con lập tức bị lên cơn hen suyễn kịch liệt, ho sặc sụa đỏ rực cả người do mẹ bị dị ứng lông mèo cực kỳ nghiêm trọng.",
+        "question": "Con có nên khóc lóc gào thét bắt mẹ phải chấp nhận cho nuôi chú mèo, bất chấp sức khỏe của mẹ không?",
+        "steps": [
+          "Cách ly chú mèo khẩn cấp bảo vệ mẹ: Ngay lập tức mang chú mèo ra khu vực sân vườn ngoài trời thoáng đãng, đóng chặt cửa phòng ngủ của con lại để lông mèo không phát tán trong không khí trong nhà gây nguy hiểm tính mạng cho mẹ.",
+          "Thành thật xin lỗi mẹ sâu sắc: Đến bên mẹ hỗ trợ mẹ xịt thuốc hen suyễn, xin lỗi mẹ chân thành: \"Con xin lỗi mẹ vì đã tự ý mang mèo về nhà làm mẹ bị ốm nặng ạ. Con cứ nghĩ mang về giấu được, con sơ suất quá\".",
+          "Tìm mái ấm mới an toàn cho chú mèo: Cùng bố mẹ chụp ảnh chú mèo đăng lên các hội nhóm yêu động vật văn minh trên Facebook để tìm một người chủ tốt bụng khác nhận nuôi chú mèo, hoặc gửi chú mèo đến một trạm cứu hộ động vật uy tín để chú được chăm sóc tốt nhất, vừa thỏa lòng nhân ái của con vừa bảo vệ tuyệt đối sức khỏe cho mẹ yêu."
+        ]
+      }
+    ]
+  },
+  "vol2": {
+    "title": "100 Tình Huống Thực Tế Vol II (Ứng xử học đường)",
+    "questions": [
+      {
+        "id": "vol2-q1",
+        "title": "Tình huống 1: Cầm nhầm thẻ học sinh",
+        "setup": "Con và bạn thân cùng làm bài ôn tập ở thư viện. Khi chuông báo giờ thi học kỳ reo, con vội vàng vơ toàn bộ tài liệu vào cặp và chạy đến phòng thi ở tầng 3. Đến nơi, con phát hiện mình cầm nhầm tập hồ sơ của bạn thân, trong đó có cả Thẻ học sinh (vào phòng thi phải mang theo thẻ này). Bạn thi ở phòng thi tầng 1. Chỉ còn 10 phút là phát đề, và các con không cầm điện thoai. Vậy con sẽ làm gì?",
+        "question": "Con sẽ chạy ngay xuống tầng 1 tìm bạn, hay vào phòng thi báo cáo giám thị? Đáp án nào là tối ưu nhất?",
+        "steps": [
+          "Bước 1: Không tự ý chạy đi tìm. Việc chạy khắp các phòng thi ở tầng khác khi sắp đến giờ phát đề rất dễ khiến con bị muộn giờ thi của chính mình hoặc không gặp được bạn do bạn cũng đang chạy đi tìm con.",
+          "Bước 2: Báo cáo ngay với Giám thị phòng thi của con. Trình bày rõ việc con cầm nhầm thẻ của bạn và nhờ giám thị dùng bộ đàm hoặc nhờ hành lang (giám thị hành lang) chuyển thẻ xuống đúng số phòng thi của bạn ở tầng 1.",
+          "Bước 3: Nhờ thầy cô xác nhận. Nhờ giám thị phòng thi của con ghi nhận để con được vào phòng thi trước (sau đó thẻ của con sẽ được bạn thân hoặc giám thị phòng khác chuyển lại sau khi phát hiện nhầm lẫn)."
+        ]
+      },
+      {
+        "id": "vol2-q2",
+        "title": "Tình huống 2: Tiếng chuông điện thoại oan uổng",
+        "setup": "Trong giờ học Toán, một tiếng chuông điện thoại vang lên inh ỏi từ phía góc lớp của con. Cô giáo nghiêm giọng yêu cầu con đứng dậy vì nhìn thấy con đang sờ tay vào ngăn bàn. Thực tế, con chỉ đang thò tay vào lấy hộp bút, còn chiếc điện thoại phát ra tiếng chuông là của bạn ngồi bàn phía sau để quên trong cặp không tắt chuông.",
+        "question": "Bị cô giáo phạt oan, con có nên chỉ tay tố cáo ngay tên bạn ngồi sau để minh oan cho mình không?",
+        "steps": [
+          "Bước 1: Trả lời cô trung thực và lễ phép. Con đứng lên và nói rõ ràng: \"Thưa cô, điện thoại của em đang tắt nguồn ở trong cặp/ngăn bàn (hoặc con không mang điện thoại). Tiếng chuông phát ra từ hướng khác ạ.\"",
+          "Bước 2: Không tự ý lục lọi hay chỉ tay vô cớ. Để cô giáo hoặc bạn chủ động nhận chiếc điện thoại đó. Nếu bạn ngồi sau đang ngơ ngác, con có thể nói khẽ với bạn để bạn tự giác nhận lỗi với cô.",
+          "Bước 3: Hợp tác xác minh. Mở ngăn bàn hoặc cặp của mình ra để cô kiểm tra nhanh nhằm chứng minh mình không nói dối, sau đó tập trung vào bài học, không bàn tán xôn xao."
+        ]
+      },
+      {
+        "id": "vol2-q3",
+        "title": "Tình huống 3: Hiểu nhầm về thái độ trong lớp",
+        "setup": "Hôm nay con bị sốt nhẹ và đau đầu nên ngồi học trong tư thế hơi gục đầu xuống bàn, mắt nhìn lơ đãng ra cửa sổ. Cô giáo đang giảng bài chợt dừng lại, nhắc nhở con: \"Con không tôn trọng giáo viên, lười biếng không chịu nghe giảng bài\". Cô yêu cầu con đứng cuối lớp phạt.",
+        "question": "Con nên cố nhẫn nhịn chịu phạt dù đang mệt, hay lớn tiếng giải thích là mình đang ốm?",
+        "steps": [
+          "Bước 1: Chấp nhận đứng dậy đứng cuối lớp trước. Thực hiện theo yêu cầu của giáo viên để lớp học tiếp tục, tránh đôi co gây không khí căng thẳng.",
+          "Bước 2: Báo cáo tình trạng sức khỏe nhẹ nhàng. Khi đứng lên, con hãy nói nhỏ với cô hoặc bạn bên cạnh để báo lại với cô: \"Thưa cô, hôm nay em bị sốt và đau đầu nên không giữ được tư thế ngồi đúng, em xin lỗi cô ạ.\"",
+          "Bước 3: Xuống phòng y tế. Khi thấy học sinh mệt thật sự, cô giáo chắc chắn sẽ cho phép con xuống phòng y tế của trường để nghỉ ngơi và uống thuốc, xóa bỏ hoàn toàn hiểu nhầm về thái độ học tập."
+        ]
+      },
+      {
+        "id": "vol2-q4",
+        "title": "Tình huống 4: Chiếc máy bay giấy ghi tên \"kẻ bắt nạt\"",
+        "setup": "Trong giờ ra chơi, một chiếc máy bay giấy phi trúng đầu bạn lớp trưởng. Trên cánh máy bay có viết dòng chữ trêu chọc ngoại hình của lớp trưởng kèm theo chữ ký tên con. Thực chất, một bạn khác trong lớp đã tự gấp máy bay, viết tên con vào để trêu đùa và phi đi. Lớp trưởng đùng đùng nổi giận, đem chiếc máy bay giấy lên báo cáo cô giáo chủ nhiệm và tuyên bố cạch mặt con.",
+        "question": "Làm thế nào để chứng minh nét chữ trên máy bay không phải của con khi mọi bằng chứng (tên ký) đều chống lại con?",
+        "steps": [
+          "Bước 1: Không nổi giận phản pháo. Việc con hét lên: \"Tôi không làm!\" một cách tức giận chỉ khiến mọi người nghĩ con đang chối tội.",
+          "Bước 2: Đề xuất so khớp nét chữ. Khi gặp cô giáo và bạn lớp trưởng, con hãy bình tĩnh lấy vở viết hàng ngày của mình ra và nhờ cô giáo so sánh nét chữ, cách viết chữ cái trên máy bay giấy với nét chữ của con (chữ viết tay rất khó làm giả hoàn toàn).",
+          "Bước 3: Tìm nhân chứng. Nhớ lại xem trong giờ ra chơi con đã ở đâu, làm gì và đi cùng ai để nhờ các bạn đó làm chứng con không hề gấp hay phi chiếc máy bay giấy đó."
+        ]
+      },
+      {
+        "id": "vol2-q5",
+        "title": "Tình huống 5: Cơn ghen tị từ bài thuyết trình nhóm",
+        "setup": "Nhóm con làm bài thuyết trình rất xuất sắc và đạt điểm tối đa. Khi làm bài, con đã thức khuya chỉnh sửa slide rất đẹp, nhưng do sơ suất lúc xuất file, con đã quên không điền tên bạn B vào danh sách thành viên ở trang cuối cùng. Bạn B nghĩ con cố tình chiếm công lao để dìm bạn ấy nên đã nhắn tin mắng mỏ con và kêu gọi các bạn khác tẩy chay con.",
+        "question": "Con sẽ nhắn tin mắng lại bạn B vì đã không kiểm tra bài trước khi nộp, hay xử lý thế nào?",
+        "steps": [
+          "Bước 1: Nhận lỗi về sơ suất của mình. Nhắn tin trực tiếp xin lỗi bạn B trước: \"Mình xin lỗi vì sự bất cẩn đã quên ghi tên bạn ở trang cuối, đây hoàn toàn là lỗi sơ suất của mình khi xuất file\".",
+          "Bước 2: Hành động sửa sai thực tế. Chủ động nhắn tin gửi mail cho cô giáo bộ môn (CC cả bạn B vào) để trình bày sự việc: \"Thưa cô, em sơ suất thiếu tên bạn B trong danh sách nộp. Bạn B đã tham gia phần nội dung X của nhóm rất tốt, em xin cô bổ sung điểm cho bạn ạ\".",
+          "Bước 3: Công khai minh bạch. Chụp lại ảnh màn hình email gửi cô giáo vào nhóm chat chung của nhóm để bạn B và các thành viên khác thấy lỗi đã được khắc phục, hóa giải hiểu lầm."
+        ]
+      },
+      {
+        "id": "vol2-q6",
+        "title": "Tình huống 6: Trò đùa tai hại trên nhóm chat lớp",
+        "setup": "Con gửi một tấm ảnh chế (meme) hài hước về một người đang ngủ gật kèm chú thích vui vẻ vào nhóm chat của lớp. Con chỉ định đùa vui chung chung. Không may, hôm đó bạn C bị mệt và ngủ gật trong tiết Sử, bị cô giáo phạt. Bạn C đọc tin nhắn, nghĩ con đang cố ý đăng ảnh mỉa mai, chế giễu bạn ấy trước cả lớp nên vô cùng tức giận và tổn thương.",
+        "question": "Con nên xóa ảnh ngay lập tức rồi coi như không có chuyện gì, hay nhắn tin giải thích?",
+        "steps": [
+          "Bước 1: Gỡ bỏ tấm ảnh gây hiểu lầm. Xóa hoặc thu hồi tấm ảnh chế đó ngay lập tức để tránh hiểu lầm lan rộng.",
+          "Bước 2: Nhắn tin xin lỗi công khai và cá nhân. Nhắn tin riêng cho C giải thích rõ: \"Cậu ơi, mình đăng ảnh đó trước khi biết chuyện bạn bị phạt ở lớp. Mình hoàn toàn không có ý chế giễu bạn. Mình xin lỗi vì đã vô tình làm bạn buồn nhé\".",
+          "Bước 3: Nói lời giải thích ngắn gọn trên nhóm. Đăng một lời nhắn ngắn trên nhóm chat lớp để mọi người hiểu đó chỉ là sự trùng hợp vô ý, tránh để các bạn khác tiếp tục lấy chuyện đó ra trêu chọc C."
+        ]
+      },
+      {
+        "id": "vol2-q7",
+        "title": "Tình huống 7: Trò chơi \"Tam sao thất bản\" gây hại",
+        "setup": "Gia đình con đang gặp khó khăn tài chính, con nói nhỏ với bạn thân D: \"D ơi, đợt này nhà tớ hơi kẹt tiền nên chắc tớ không tham gia đóng tiền đi xem phim cuối tuần với nhóm được đâu\". Bạn D kể lại với bạn E, bạn E lại kể cho bạn F... Đến cuối buổi chiều, cả lớp xôn xao tin đồn: \"Nhà bạn đó vỡ nợ lớn, sắp phải bán nhà và chuyển trường đi nơi khác\". Các bạn nhìn con với ánh mắt ái ngại, thương hại.",
+        "question": "Con sẽ khóc chạy về nhà bắt đền bố mẹ, hay nổi giận đi tìm D để cãi nhau?",
+        "steps": [
+          "Bước 1: Không đôi co với từng người. Càng đi giải thích với từng người thì tin đồn càng lan xa và biến tướng.",
+          "Bước 2: Gặp trực tiếp D để nói chuyện. Hỏi nhẹ nhàng: \"D ơi, tớ chỉ tâm sự với riêng cậu là nhà tớ kẹt tiền dịp này thôi, sao các bạn lại đồn nhà tớ vỡ nợ vậy?\". Nhắc nhở bạn D về việc giữ bí mật riêng tư.",
+          "Bước 3: Dập tắt tin đồn bằng sự bình thản. Khi có bạn hỏi thăm, con chỉ cần cười nhẹ và trả lời ngắn gọn: \"Nhà tớ chỉ đang tiết kiệm chi tiêu một chút thôi, không có chuyện vỡ nợ hay chuyển trường đâu nhé\". Sự bình tĩnh của con sẽ khiến tin đồn tự trôi vào quên lãng."
+        ]
+      },
+      {
+        "id": "vol2-q8",
+        "title": "Tình huống 8: Cuốn nhật ký/sổ tay bị đọc trộm",
+        "setup": "Con viết vào cuốn sổ tay cá nhân để trong ngăn bàn: \"Bạn H dạo này hay ra lệnh cho nhóm quá, mình cảm thấy không thoải mái khi làm việc chung\". Một bạn khác đã lục ngăn bàn đọc trộm và đi rêu rao với bạn H. Bạn H lập tức tập hợp nhóm bạn chơi chung lại, nhắn tin chất vấn và cô lập con, không cho con chơi cùng nữa.",
+        "question": "Con sẽ viết một bài viết bóc phốt ngược lại H trên mạng xã hội, hay im lặng chịu đựng việc bị cô lập?",
+        "steps": [
+          "Bước 1: Chấp nhận đối thoại trực tiếp. Không trốn tránh. Hẹn gặp riêng bạn H để nói chuyện thẳng thắn.",
+          "Bước 2: Giải thích cảm xúc thay vì công kích. Nói với H: \"Đó là suy nghĩ cá nhân của mình khi cảm thấy áp lực trong bài tập nhóm. Mình viết ra sổ để giải tỏa chứ không có ý nói xấu cậu với ai cả. Nếu cách làm việc của nhóm làm mình chưa thoải mái, tụi mình cùng thảo luận lại nhé\".",
+          "Bước 3: Lên án hành vi đọc trộm. Nhắc nhở nhẹ nhàng với cả nhóm rằng việc tự ý lục lọi ngăn bàn và đọc trộm sổ tay của người khác là hành vi xâm phạm quyền riêng tư và không đúng đắn."
+        ]
+      },
+      {
+        "id": "vol2-q9",
+        "title": "Tình huống 9: Tin đồn nói xấu sau lưng từ \"bạn thân\"",
+        "setup": "Một bạn cùng lớp chạy đến rỉ tai con: \"Này, tớ nghe thấy bạn thân của cậu nói với mọi người là bài vẽ đạt giải Nhất của cậu thực ra là do bố cậu vẽ hộ đấy, chứ cậu vẽ xấu mù\". Con cảm thấy vô cùng hụt hẫng và tức giận vì bạn thân lại đi đâm sau lưng mình.",
+        "question": "Con nên lập tức tuyên bố nghỉ chơi với bạn thân và đi nói xấu lại bạn ấy cho bõ ghét không?",
+        "steps": [
+          "Bước 1: Không tin ngay vào lời kể gián tiếp. Người đi truyền tin chưa chắc đã nói đúng sự thật, hoặc họ có thể đang muốn chia rẽ tình bạn của con.",
+          "Bước 2: Hỏi trực tiếp bạn thân với thái độ cởi mở. Gặp bạn thân và nói: \"Tớ nghe có bạn nói là cậu bảo bài vẽ của tớ là do bố vẽ hộ. Có đúng cậu nghĩ thế không?\". Hãy lắng nghe nét mặt và câu trả lời của bạn.",
+          "Bước 3: Xác minh sự thật. Nếu bạn thân giải thích là bị hiểu lầm ý (ví dụ: Bạn ấy chỉ bảo bố cậu có hướng dẫn cậu vẽ, nhưng bị người khác thổi phồng lên), hãy bỏ qua. Nếu thực sự bạn thân nói xấu, hãy bày tỏ sự thất vọng và thiết lập khoảng cách để bảo vệ bản thân."
+        ]
+      },
+      {
+        "id": "vol2-q10",
+        "title": "Tình huống 10: Nhóm chat riêng loại trừ thành viên",
+        "setup": "Nhóm chơi thân của con có 5 người. Một hôm, con vô tình nhìn thấy màn hình điện thoại của bạn trong nhóm có một nhóm chat Zalo tên là \"Hội ghét nói nhiều\" gồm 4 bạn còn lại (không có con). Trong nhóm chat đó, các bạn đang chê bai bộ quần áo con mặc hôm qua và chê con hay nói dài dòng. Con cảm thấy bị phản bội sâu sắc.",
+        "question": "Con sẽ nhắn tin vào nhóm chung đòi làm cho ra lẽ, hay âm thầm rút khỏi nhóm bạn này?",
+        "steps": [
+          "Bước 1: Giữ khoảng cách tạm thời để ổn định cảm xúc. Không nhắn tin lúc đang tức giận vì dễ nói ra những lời tổn thương không đáng có.",
+          "Bước 2: Đánh giá lại mối quan hệ. Tình bạn chân chính không có chỗ cho việc lập nhóm nói xấu sau lưng. Con cần tự hỏi bản thân: Mối quan hệ này có xứng đáng để con cố gắng giữ gìn nữa không?",
+          "Bước 3: Gặp và nói rõ một lần trước khi rời đi. Con có thể nói thẳng thắn: \"Tớ vô tình biết các cậu lập nhóm chat riêng để nhận xét không hay về tớ. Nếu tớ có điểm gì làm các cậu khó chịu, các cậu có thể góp ý trực tiếp. Tớ nghĩ tụi mình nên tạm dừng chơi chung một thời gian\". Sau đó, tìm kiếm những người bạn mới trân trọng con hơn."
+        ]
+      }
+    ]
+  },
+  "math2": {
+    "title": "Toán lớp 2 - Kết Nối Tri Thức Vol I",
+    "questions": [
+      {
+        "id": "math2-q1",
+        "lesson": "Bài 1: Ôn tập các số đến 100",
+        "question": "Số gồm 5 chục và 4 đơn vị được đọc và viết như thế nào hả con?",
+        "purpose": "Kiểm tra khả năng hiểu cấu tạo thập phân của số, kỹ năng đọc và viết số có hai chữ số."
+      },
+      {
+        "id": "math2-q2",
+        "lesson": "Bài 1: Ôn tập các số đến 100",
+        "question": "Trong hai số 66 và 70, số nào lớn hơn? Vì sao con biết?",
+        "purpose": "Kiểm tra quy tắc so sánh số có hai chữ số (so sánh từ hàng chục trước)."
+      },
+      {
+        "id": "math2-q3",
+        "lesson": "Bài 1: Ôn tập các số đến 100",
+        "question": "Con hãy kể tên các số có hai chữ số mà chữ số hàng chục là 3 nhé.",
+        "purpose": "Kiểm tra khả năng hệ thống hóa các số theo nhóm hàng chục (từ 30 đến 39)."
+      },
+      {
+        "id": "math2-q4",
+        "lesson": "Bài 1: Ôn tập các số đến 100",
+        "question": "Số 87 gồm mấy chục và mấy đơn vị?",
+        "purpose": "Kiểm tra khả năng phân tích số thành các hàng (chục, đơn vị)."
+      },
+      {
+        "id": "math2-q5",
+        "lesson": "Bài 1: Ôn tập các số đến 100",
+        "question": "Từ ba thẻ số 3, 7 và 5, con có thể ghép được những số có hai chữ số nào?",
+        "purpose": "Rèn luyện tư duy logic, tổ hợp và kỹ năng lập số từ các chữ số cho trước."
+      },
+      {
+        "id": "math2-q6",
+        "lesson": "Bài 2: Tia số. Số liền trước, số liền sau",
+        "question": "Trên tia số, số đứng ngay phía trước số 10 là số mấy?",
+        "purpose": "Kiểm tra khái niệm số liền trước và kỹ năng quan sát vị trí trên tia số."
+      },
+      {
+        "id": "math2-q7",
+        "lesson": "Bài 2: Tia số. Số liền trước, số liền sau",
+        "question": "Số liền sau của 49 là số nào? Nó nằm ở bên trái hay bên phải số 49 trên tia số?",
+        "purpose": "Kiểm tra khái niệm số liền sau và sự liên kết với phương hướng (trái/phải) trên tia số."
+      },
+      {
+        "id": "math2-q8",
+        "lesson": "Bài 2: Tia số. Số liền trước, số liền sau",
+        "question": "Số 0 nằm ở vạch đầu tiên của tia số có điểm gì đặc biệt so với các số khác trên tia số đó?",
+        "purpose": "Kiểm tra nhận thức về điểm gốc của tia số (số tự nhiên bé nhất, không có số liền trước)."
+      },
+      {
+        "id": "math2-q9",
+        "lesson": "Bài 2: Tia số. Số liền trước, số liền sau",
+        "question": "Nếu số liền trước của một số là 15, thì số đó là số mấy?",
+        "purpose": "Kiểm tra tư duy ngược (tìm một số khi biết số liền trước của nó)."
+      },
+      {
+        "id": "math2-q10",
+        "lesson": "Bài 2: Tia số. Số liền trước, số liền sau",
+        "question": "Con hãy tìm một số vừa lớn hơn 50 vừa bé hơn 52. Số đó là số liền trước hay liền sau của số 50?",
+        "purpose": "Kiểm tra tổng hợp khả năng so sánh kẹp giữa và khái niệm liền trước/liền sau."
+      },
+      {
+        "id": "math2-q11",
+        "lesson": "Bài 3: Các thành phần của phép cộng, phép trừ",
+        "question": "Trong phép tính 32 + 23 = 55, số 32 và 23 được gọi là gì? Kết quả 55 gọi là gì?",
+        "purpose": "Kiểm tra khả năng ghi nhớ tên gọi thành phần phép cộng (số hạng, tổng)."
+      },
+      {
+        "id": "math2-q12",
+        "lesson": "Bài 3: Các thành phần của phép cộng, phép trừ",
+        "question": "Nếu mẹ cho con số bị trừ là 86, số trừ là 32, thì làm cách nào để con tìm được hiệu?",
+        "purpose": "Kiểm tra khả năng ghi nhớ tên gọi thành phần phép trừ và cách lập phép tính (lấy Số bị trừ - Số trừ)."
+      },
+      {
+        "id": "math2-q13",
+        "lesson": "Bài 3: Các thành phần của phép cộng, phép trừ",
+        "question": "Khi mẹ nói mình cần 'tính tổng', con sẽ thực hiện phép tính cộng hay phép tính trừ?",
+        "purpose": "Kiểm tra khả năng liên kết giữa ngôn ngữ toán học (tổng) và phép tính tương ứng (cộng)."
+      },
+      {
+        "id": "math2-q14",
+        "lesson": "Bài 3: Các thành phần của phép cộng, phép trừ",
+        "question": "Trong phép tính 47 - 20 = 27, số 47 đóng vai trò gì? Còn số 27 đóng vai trò gì?",
+        "purpose": "Kiểm tra khả năng nhận diện Số bị trừ và Hiệu trong một phép toán cụ thể."
+      },
+      {
+        "id": "math2-q15",
+        "lesson": "Bài 3: Các thành phần của phép cộng, phép trừ",
+        "question": "Cho hai số hạng là 21 và 4, con hãy lập phép tính và tính tổng của hai số hạng đó cho mẹ xem nhé.",
+        "purpose": "Kiểm tra kỹ năng thực hành chuyển đổi từ dữ kiện chữ sang phép toán hoàn chỉnh."
+      },
+      {
+        "id": "math2-q16",
+        "lesson": "Bài 4: Hơn, kém nhau bao nhiêu",
+        "question": "Nhà mình có 10 cái bát và 7 cái thìa. Muốn biết số bát nhiều hơn số thìa bao nhiêu cái, con sẽ dùng phép tính gì?",
+        "purpose": "Kiểm tra khả năng nhận diện dạng toán \"nhiều hơn\" và biết sử dụng phép trừ để giải."
+      },
+      {
+        "id": "math2-q17",
+        "lesson": "Bài 4: Hơn, kém nhau bao nhiêu",
+        "question": "Nếu băng giấy xanh dài 7cm, băng giấy đỏ dài 4cm. Làm sao để biết băng giấy xanh dài hơn băng giấy đỏ mấy xăng-ti-mét?",
+        "purpose": "Kiểm tra kỹ năng ứng dụng toán học vào các bài toán đo lường độ dài."
+      },
+      {
+        "id": "math2-q18",
+        "lesson": "Bài 4: Hơn, kém nhau bao nhiêu",
+        "question": "Mai 7 tuổi, bố 38 tuổi. Muốn biết bố lớn hơn Mai bao nhiêu tuổi thì con lấy số nào trừ đi số nào?",
+        "purpose": "Kiểm tra kỹ năng phân tích đề bài thực tế, biết lấy số lớn trừ số bé."
+      },
+      {
+        "id": "math2-q19",
+        "lesson": "Bài 4: Hơn, kém nhau bao nhiêu",
+        "question": "Hộp bút của con có 12 chiếc, hộp bút của em có 8 chiếc. Hộp bút của em kém hộp bút của con mấy chiếc?",
+        "purpose": "Kiểm tra khả năng hiểu từ khóa \"kém/ít hơn\" cũng có chung phương pháp giải là phép trừ."
+      },
+      {
+        "id": "math2-q20",
+        "lesson": "Bài 4: Hơn, kém nhau bao nhiêu",
+        "question": "Khi nghe mẹ hỏi 'nhiều hơn bao nhiêu' hoặc 'ít hơn bao nhiêu', con sẽ nghĩ ngay đến phép tính gì?",
+        "purpose": "Giúp con đúc kết và ghi nhớ phương pháp giải chung cho dạng toán so sánh chênh lệch."
+      },
+      {
+        "id": "math2-q21",
+        "lesson": "Bài 5: Ôn tập phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+        "question": "Con tính nhẩm cho mẹ xem 60 + 40 bằng bao nhiêu? Nếu đổi chỗ thành 40 + 60 thì kết quả có thay đổi không?",
+        "purpose": "Kiểm tra kỹ năng cộng số tròn chục và tính chất giao hoán của phép cộng."
+      },
+      {
+        "id": "math2-q22",
+        "lesson": "Bài 5: Ôn tập phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+        "question": "Khi đặt tính dọc phép tính 52 + 37, con phải viết các chữ số sao cho thẳng cột với nhau như thế nào?",
+        "purpose": "Kiểm tra quy tắc đặt tính cơ bản (hàng đơn vị thẳng đơn vị, hàng chục thẳng chục)."
+      },
+      {
+        "id": "math2-q23",
+        "lesson": "Bài 5: Ôn tập phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+        "question": "Con nhẩm nhanh giúp mẹ 100 - 20 bằng mấy chục?",
+        "purpose": "Kiểm tra kỹ năng trừ nhẩm các số tròn chục với 100."
+      },
+      {
+        "id": "math2-q24",
+        "lesson": "Bài 5: Ôn tập phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+        "question": "Trong phép tính 79 - 55, con sẽ thực hiện trừ từ hàng nào trước, hàng chục hay hàng đơn vị?",
+        "purpose": "Kiểm tra nguyên tắc thực hiện phép tính dọc (từ phải sang trái / hàng đơn vị trước)."
+      },
+      {
+        "id": "math2-q25",
+        "lesson": "Bài 5: Ôn tập phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+        "question": "Trên thuyền có 12 hành khách, sau đó có thêm 3 người bước lên. Hỏi lúc đó trên thuyền có tất cả bao nhiêu hành khách? Con làm phép tính gì?",
+        "purpose": "Kiểm tra kỹ năng nhận diện dạng bài toán \"thêm vào\" (phép cộng)."
+      },
+      {
+        "id": "math2-q26",
+        "lesson": "Bài 6: Luyện tập chung",
+        "question": "Con hãy phân tích số 68 thành tổng của số chục và số đơn vị cho mẹ xem nào.",
+        "purpose": "Ôn tập lại kỹ năng viết số thành tổng các cấu thành (68 = 60 + 8)."
+      },
+      {
+        "id": "math2-q27",
+        "lesson": "Bài 6: Luyện tập chung",
+        "question": "Trong các số 34, 40, 59, 77, con hãy tìm cho mẹ số liền sau của mỗi số đó.",
+        "purpose": "Ôn tập phản xạ nhanh về số liền sau (cộng thêm 1)."
+      },
+      {
+        "id": "math2-q28",
+        "lesson": "Bài 6: Luyện tập chung",
+        "question": "Muốn tìm số liền trước của số bé nhất có hai chữ số (số 10), con sẽ làm thế nào và đó là số mấy?",
+        "purpose": "Kiểm tra tư duy suy luận qua 2 bước (Tìm số 10 -> Tìm liền trước là 9)."
+      },
+      {
+        "id": "math2-q29",
+        "lesson": "Bài 6: Luyện tập chung",
+        "question": "Con hãy tự nghĩ ra một phép cộng (không nhớ) có tổng bằng 55 và nói cho mẹ biết các số hạng của phép cộng đó.",
+        "purpose": "Rèn luyện tư duy sáng tạo toán học và bài toán ngược."
+      },
+      {
+        "id": "math2-q30",
+        "lesson": "Bài 6: Luyện tập chung",
+        "question": "Lớp 2A trồng được 29 cây, lớp 2B trồng được 25 cây. Muốn biết lớp 2A trồng được nhiều hơn lớp 2B bao nhiêu cây thì con làm phép tính gì?",
+        "purpose": "Ôn tập kỹ năng giải bài toán có lời văn dạng tìm phần chênh lệch."
+      },
+      {
+        "id": "math2-q31",
+        "lesson": "Bài 7: Phép cộng (qua 10) trong phạm vi 20",
+        "question": "Khi tính 9 + 5 bằng cách 'tách số', con sẽ tách số 5 thành mấy và mấy để gộp với 9 cho tròn một chục (10) đã nhỉ?",
+        "purpose": "Kiểm tra sự hiểu biết về bản chất của phương pháp \"tách số cho tròn chục\" (tách 5 thành 1 và 4)."
+      },
+      {
+        "id": "math2-q32",
+        "lesson": "Bài 7: Phép cộng (qua 10) trong phạm vi 20",
+        "question": "Nếu tính bằng cách 'đếm tiếp', để cộng 8 + 3, con sẽ bắt đầu đếm từ số 8 và đếm thêm mấy bước? Kết quả là bao nhiêu?",
+        "purpose": "Kiểm tra sự hiểu biết và thực hành phương pháp \"đếm tiếp\"."
+      },
+      {
+        "id": "math2-q33",
+        "lesson": "Bài 7: Phép cộng (qua 10) trong phạm vi 20",
+        "question": "Con có 7 quả dâu, mẹ cho thêm 4 quả nữa. Bước đầu tiên để nhẩm thật nhanh là con lấy 7 cộng mấy để được 10?",
+        "purpose": "Rèn luyện phản xạ tìm số bù của 10 (7 bù 3)."
+      },
+      {
+        "id": "math2-q34",
+        "lesson": "Bài 7: Phép cộng (qua 10) trong phạm vi 20",
+        "question": "Con thử nhẩm xem phép tính 6 + 6 và 7 + 5 có cùng kết quả không? Đó là số mấy?",
+        "purpose": "Kiểm tra kỹ năng nhẩm và nhận ra nhiều phép tính có thể có chung một tổng (12)."
+      },
+      {
+        "id": "math2-q35",
+        "lesson": "Bài 7: Phép cộng (qua 10) trong phạm vi 20",
+        "question": "Hộp bút của con có 8 chiếc bút chì và 6 chiếc bút màu. Con hãy lập phép tính để tìm xem mình có tất cả bao nhiêu chiếc bút nhé!",
+        "purpose": "Kiểm tra ứng dụng tính nhẩm qua 10 vào bài toán thực tế đơn giản."
+      },
+      {
+        "id": "math2-q36",
+        "lesson": "Bài 8: Bảng cộng (qua 10)",
+        "question": "Trong bảng cộng con vừa học, 9 + 4 bằng bao nhiêu? Vậy nếu mẹ đổi ngược lại là 4 + 9 thì kết quả có thay đổi không?",
+        "purpose": "Kiểm tra trí nhớ về bảng cộng và tính chất giao hoán."
+      },
+      {
+        "id": "math2-q37",
+        "lesson": "Bài 8: Bảng cộng (qua 10)",
+        "question": "Mẹ đố con tìm được hai số nào cộng với nhau có kết quả bằng 15 đấy?",
+        "purpose": "Khuyến khích tư duy ngược, tìm cặp số hạng khi biết tổng."
+      },
+      {
+        "id": "math2-q38",
+        "lesson": "Bài 8: Bảng cộng (qua 10)",
+        "question": "Nếu mình đã biết 8 + 5 = 13, vậy con có thể suy ngay ra 5 + 8 bằng bao nhiêu mà không cần tính lại không?",
+        "purpose": "Khắc sâu tính chất giao hoán để tính nhẩm nhanh."
+      },
+      {
+        "id": "math2-q39",
+        "lesson": "Bài 8: Bảng cộng (qua 10)",
+        "question": "Con hãy kể tên cho mẹ các phép tính cộng hai số giống nhau (qua 10) mà con biết nào?",
+        "purpose": "Kiểm tra ghi nhớ các phép tính có tính chu kỳ (doubles) như 6+6, 7+7, 8+8..."
+      },
+      {
+        "id": "math2-q40",
+        "lesson": "Bài 8: Bảng cộng (qua 10)",
+        "question": "Nhà mình có 7 cái bát to và 8 cái bát nhỏ. Hỏi nhà mình có tất cả bao nhiêu cái bát?",
+        "purpose": "Kiểm tra phản xạ bảng cộng qua bài toán thực tế."
+      },
+      {
+        "id": "math2-q41",
+        "lesson": "Bài 9: Bài toán về thêm, bớt một số đơn vị",
+        "question": "Đề bài nói: 'Trên cành có 8 con chim, bay đến thêm 3 con'. Cụm từ 'bay đến thêm' báo cho con biết phải làm phép tính gì?",
+        "purpose": "Giúp con học cách bắt từ khóa \"thêm vào\" để chọn phép cộng."
+      },
+      {
+        "id": "math2-q42",
+        "lesson": "Bài 9: Bài toán về thêm, bớt một số đơn vị",
+        "question": "Nếu mẹ có 15 cái kẹo, mẹ 'cho đi' hoặc 'ăn bớt' 5 cái, thì con dùng phép tính gì để tính số kẹo mẹ còn lại?",
+        "purpose": "Giúp con học cách bắt từ khóa \"cho đi/bớt đi\" để chọn phép trừ."
+      },
+      {
+        "id": "math2-q43",
+        "lesson": "Bài 9: Bài toán về thêm, bớt một số đơn vị",
+        "question": "Con đang có 9 bông hoa, mẹ tặng thêm 4 bông hoa nữa. Con hãy đọc câu trả lời và phép tính để tìm số bông hoa con có nhé!",
+        "purpose": "Kiểm tra kỹ năng trình bày hoàn chỉnh một bài giải (lời giải + phép tính)."
+      },
+      {
+        "id": "math2-q44",
+        "lesson": "Bài 9: Bài toán về thêm, bớt một số đơn vị",
+        "question": "Trong bến đang có 12 chiếc ô tô, sau đó có 3 chiếc rời bến. Hỏi trong bến còn lại bao nhiêu chiếc ô tô?",
+        "purpose": "Kiểm tra kỹ năng giải bài toán \"bớt đi\" (dùng phép trừ)."
+      },
+      {
+        "id": "math2-q45",
+        "lesson": "Bài 9: Bài toán về thêm, bớt một số đơn vị",
+        "question": "Khi giải toán có lời văn, bước viết 'Tóm tắt' giúp ích gì cho con?",
+        "purpose": "Giúp con hiểu ý nghĩa của việc tóm tắt là gạn lọc dữ kiện quan trọng để dễ giải bài."
+      },
+      {
+        "id": "math2-q46",
+        "lesson": "Bài 10: Luyện tập chung (Chủ đề Cộng và Thêm/Bớt)",
+        "question": "Mẹ có phép tính 8 + 7 và 9 + 5, con thử tính nhẩm xem hai phép tính này có kết quả như thế nào với nhau?",
+        "purpose": "Rèn luyện tốc độ tính nhẩm đồng thời 2 phép toán và so sánh kết quả (15 > 14)."
+      },
+      {
+        "id": "math2-q47",
+        "lesson": "Bài 10: Luyện tập chung (Chủ đề Cộng và Thêm/Bớt)",
+        "question": "Bể cá nhà mình có 9 con cá vàng và 6 con cá đỏ. Con làm cách nào để tính nhanh nhất số cá trong bể?",
+        "purpose": "Ôn tập kiến thức cộng qua 10 áp dụng vào thực tế."
+      },
+      {
+        "id": "math2-q48",
+        "lesson": "Bài 10: Luyện tập chung (Chủ đề Cộng và Thêm/Bớt)",
+        "question": "Để giải bài toán 'Lúc đầu trên sân có 15 con gà, 4 con chạy đi', con viết phép tính như thế nào?",
+        "purpose": "Ôn tập kỹ năng lập phép tính trừ."
+      },
+      {
+        "id": "math2-q49",
+        "lesson": "Bài 10: Luyện tập chung (Chủ đề Cộng và Thêm/Bớt)",
+        "question": "Con hãy tự nghĩ ra một phép cộng qua 10 có tổng bằng 14 và đọc to các số hạng lên cho mẹ xem nào.",
+        "purpose": "Kiểm tra khả năng hiểu ngược vấn đề của bảng cộng."
+      },
+      {
+        "id": "math2-q50",
+        "lesson": "Bài 10: Luyện tập chung (Chủ đề Cộng và Thêm/Bớt)",
+        "question": "Mẹ cho con 8 cái bánh, ba cho con thêm 3 cái nữa, tổng cộng con có mấy cái? Con thích dùng 'đếm tiếp' hay 'tách số' hơn?",
+        "purpose": "Ôn tập giải toán lời văn, đồng thời để con tự nhận thức phương pháp tính nào phù hợp với bản thân."
+      },
+      {
+        "id": "math2-q51",
+        "lesson": "Bài 11: Phép trừ (qua 10) trong phạm vi 20",
+        "question": "Muốn tính 13 - 5 bằng cách 'tách số', con sẽ tách số 5 thành 3 và 2 để làm gì trước nhỉ?",
+        "purpose": "Kiểm tra sự hiểu biết về bản chất phương pháp tách số bị trừ cho tròn 10 (tách 5 để trừ 3 cho ra 10)."
+      },
+      {
+        "id": "math2-q52",
+        "lesson": "Bài 11: Phép trừ (qua 10) trong phạm vi 20",
+        "question": "Khi tính 11 - 4 bằng cách 'đếm lùi', con sẽ đếm lùi bắt đầu từ số 11 và đếm lùi mấy bước?",
+        "purpose": "Kiểm tra sự hiểu biết phương pháp đếm lùi trong phép trừ."
+      },
+      {
+        "id": "math2-q53",
+        "lesson": "Bài 11: Phép trừ (qua 10) trong phạm vi 20",
+        "question": "Tính nhẩm nhanh cho mẹ xem 12 - 7 bằng bao nhiêu? Con có nhớ cách làm không?",
+        "purpose": "Kiểm tra kỹ năng tính nhẩm trừ qua 10."
+      },
+      {
+        "id": "math2-q54",
+        "lesson": "Bài 11: Phép trừ (qua 10) trong phạm vi 20",
+        "question": "Cành cây có 14 quả táo, mẹ hái xuống 6 quả, con hãy lập phép tính để tìm số táo còn lại trên cây nhé.",
+        "purpose": "Ứng dụng phép trừ có nhớ vào bài toán thực tế."
+      },
+      {
+        "id": "math2-q55",
+        "lesson": "Bài 11: Phép trừ (qua 10) trong phạm vi 20",
+        "question": "Phép tính 15 - 6 và 14 - 5 có kết quả giống nhau không con? Đó là số mấy?",
+        "purpose": "Kích thích tư duy nhận diện các phép trừ khác nhau nhưng có chung một hiệu."
+      },
+      {
+        "id": "math2-q56",
+        "lesson": "Bài 12: Bảng trừ (qua 10)",
+        "question": "Mẹ đố con nhớ trong 'Bảng trừ', 15 trừ mấy thì bằng 8?",
+        "purpose": "Kiểm tra trí nhớ bảng trừ theo dạng khuyết thành phần."
+      },
+      {
+        "id": "math2-q57",
+        "lesson": "Bài 12: Bảng trừ (qua 10)",
+        "question": "Con hãy kể cho mẹ hai phép tính trừ khác nhau nhưng đều có kết quả (hiệu) bằng 7 nhé!",
+        "purpose": "Kiểm tra khả năng xâu chuỗi và hệ thống hóa bảng trừ."
+      },
+      {
+        "id": "math2-q58",
+        "lesson": "Bài 12: Bảng trừ (qua 10)",
+        "question": "Biết 14 - 9 = 5, con có thể đoán ngay được 14 - 5 bằng bao nhiêu không?",
+        "purpose": "Giúp con nhận ra mối quan hệ mật thiết giữa số trừ và hiệu (phép tính đảo)."
+      },
+      {
+        "id": "math2-q59",
+        "lesson": "Bài 12: Bảng trừ (qua 10)",
+        "question": "Trong bảng trừ qua 10, phép tính 18 - 9 có gì đặc biệt không con?",
+        "purpose": "Kích thích óc quan sát (đây là phép trừ của số bị trừ lớn nhất trong bảng)."
+      },
+      {
+        "id": "math2-q60",
+        "lesson": "Bài 12: Bảng trừ (qua 10)",
+        "question": "Nhà mình có 16 quả cam, nhà mình ăn hết 7 quả. Con làm phép tính trừ gì để biết mình còn bao nhiêu quả?",
+        "purpose": "Phản xạ giải toán thực tế dựa trên bảng trừ."
+      },
+      {
+        "id": "math2-q61",
+        "lesson": "Bài 13: Bài toán về nhiều hơn, ít hơn một số đơn vị",
+        "question": "Mẹ có 12 cái bút, con có 'ít hơn' mẹ 3 cái. Cụm từ 'ít hơn' báo cho con biết phải làm phép tính gì để tìm số bút của con?",
+        "purpose": "Kiểm tra khả năng bắt từ khóa \"ít hơn\" để chọn phép trừ."
+      },
+      {
+        "id": "math2-q62",
+        "lesson": "Bài 13: Bài toán về nhiều hơn, ít hơn một số đơn vị",
+        "question": "Cây bưởi có 8 quả, cây cam có 'nhiều hơn' cây bưởi 6 quả. Muốn tìm số quả cam con sẽ làm phép tính cộng hay trừ?",
+        "purpose": "Kiểm tra khả năng bắt từ khóa \"nhiều hơn\" để chọn phép cộng."
+      },
+      {
+        "id": "math2-q63",
+        "lesson": "Bài 13: Bài toán về nhiều hơn, ít hơn một số đơn vị",
+        "question": "Mai 7 tuổi, anh trai của Mai lớn hơn (nhiều hơn) Mai 5 tuổi. Anh trai Mai bao nhiêu tuổi hả con?",
+        "purpose": "Ứng dụng bài toán \"nhiều hơn\" vào tính tuổi."
+      },
+      {
+        "id": "math2-q64",
+        "lesson": "Bài 13: Bài toán về nhiều hơn, ít hơn một số đơn vị",
+        "question": "Bình có 14 viên bi, Hải có ít hơn Bình 5 viên bi. Con hãy đọc lời giải và lập phép tính tìm số viên bi của Hải nhé!",
+        "purpose": "Kiểm tra kỹ năng trình bày trọn vẹn bài toán giải \"ít hơn\"."
+      },
+      {
+        "id": "math2-q65",
+        "lesson": "Bài 13: Bài toán về nhiều hơn, ít hơn một số đơn vị",
+        "question": "Con phân biệt cho mẹ xem, dạng toán 'thêm/bớt' khác với dạng toán 'nhiều hơn/ít hơn' ở điểm nào?",
+        "purpose": "Rèn luyện tư duy phân tích sự khác biệt: \"Thêm/bớt\" là thay đổi trên cùng một đối tượng; \"Nhiều/ít hơn\" là so sánh giữa hai đối tượng khác nhau."
+      },
+      {
+        "id": "math2-q66",
+        "lesson": "Bài 14: Luyện tập chung (Chủ đề Trừ và Nhiều hơn/Ít hơn)",
+        "question": "Con hãy tính nhanh cho mẹ kết quả của 13 - 8 và 6 + 7 xem phép tính nào có kết quả lớn hơn?",
+        "purpose": "Kiểm tra tổng hợp kỹ năng tính nhẩm cả cộng và trừ, sau đó so sánh số."
+      },
+      {
+        "id": "math2-q67",
+        "lesson": "Bài 14: Luyện tập chung (Chủ đề Trừ và Nhiều hơn/Ít hơn)",
+        "question": "Giải đố nhanh: Có một số, nếu lấy 12 trừ đi số đó thì bằng 4, số đó là số mấy?",
+        "purpose": "Kiểm tra tư duy số học ngược (tìm số trừ)."
+      },
+      {
+        "id": "math2-q68",
+        "lesson": "Bài 14: Luyện tập chung (Chủ đề Trừ và Nhiều hơn/Ít hơn)",
+        "question": "Trên bàn có 11 quyển truyện, số vở nhiều hơn số truyện là 3 quyển. Hỏi trên bàn có bao nhiêu quyển vở?",
+        "purpose": "Ôn tập toán lời văn dạng \"nhiều hơn\"."
+      },
+      {
+        "id": "math2-q69",
+        "lesson": "Bài 14: Luyện tập chung (Chủ đề Trừ và Nhiều hơn/Ít hơn)",
+        "question": "Lớp mình có 15 bạn nữ, số bạn nam ít hơn số bạn nữ 6 bạn. Hỏi lớp mình có mấy bạn nam? Lời giải của bài này viết thế nào?",
+        "purpose": "Ôn tập toán lời văn dạng \"ít hơn\" và kỹ năng viết lời giải."
+      },
+      {
+        "id": "math2-q70",
+        "lesson": "Bài 14: Luyện tập chung (Chủ đề Trừ và Nhiều hơn/Ít hơn)",
+        "question": "Mẹ đố con lấy một phép tính cộng qua 10 và một phép tính trừ qua 10 bất kỳ mà con thích nhất, đọc to cho mẹ nghe!",
+        "purpose": "Kiểm tra tổng quát sự tự tin và sự ghi nhớ các bảng tính của con."
+      },
+      {
+        "id": "math2-q71",
+        "lesson": "Bài 15: Ki-lô-gam",
+        "question": "Khi muốn biết một đồ vật nặng bao nhiêu, con sẽ dùng đơn vị nào để đo? Từ ki-lô-gam được viết tắt là gì?",
+        "purpose": "Kiểm tra nhận thức về đơn vị khối lượng chuẩn và ký hiệu (kg)."
+      },
+      {
+        "id": "math2-q72",
+        "lesson": "Bài 15: Ki-lô-gam",
+        "question": "Khi đặt hai đồ vật lên hai bên chiếc cân đĩa, làm thế nào con nhìn mà biết được vật nào nặng hơn?",
+        "purpose": "Kiểm tra hiểu biết về nguyên lý hoạt động của cân đĩa (bên nào chùng xuống thì nặng hơn)."
+      },
+      {
+        "id": "math2-q73",
+        "lesson": "Bài 15: Ki-lô-gam",
+        "question": "Đố con: Gấu nặng hơn chó, chó lại nặng hơn mèo. Vậy trong ba con vật, con nào nặng nhất và con nào nhẹ nhất?",
+        "purpose": "Rèn luyện tư duy logic (tính chất bắc cầu trong toán học)."
+      },
+      {
+        "id": "math2-q74",
+        "lesson": "Bài 15: Ki-lô-gam",
+        "question": "Quả dưa hấu nặng 3kg, quả bưởi nặng 1kg. Muốn biết dưa hấu nặng hơn bưởi bao nhiêu kg, con làm tính gì?",
+        "purpose": "Ứng dụng phép trừ vào đơn vị đo khối lượng."
+      },
+      {
+        "id": "math2-q75",
+        "lesson": "Bài 15: Ki-lô-gam",
+        "question": "Nếu đặt một nải chuối lên chiếc cân đồng hồ, kim cân chỉ đúng vào số 2 thì nải chuối đó nặng mấy ki-lô-gam?",
+        "purpose": "Kiểm tra kỹ năng đọc số liệu trên cân đồng hồ thực tế."
+      },
+      {
+        "id": "math2-q76",
+        "lesson": "Bài 16: Lít",
+        "question": "Khi mua các chất lỏng như nước, nước mắm, người ta dùng đơn vị gì để đo lượng nước? Đơn vị đó viết tắt là gì?",
+        "purpose": "Kiểm tra nhận thức về đơn vị dung tích chuẩn và ký hiệu (l)."
+      },
+      {
+        "id": "math2-q77",
+        "lesson": "Bài 16: Lít",
+        "question": "Một can 15 lít nước mắm, rót ra chai 5 lít. Hỏi trong can còn lại bao nhiêu lít? Con lập phép tính nhé.",
+        "purpose": "Ứng dụng toán học thực tế về việc san rót (phép trừ)."
+      },
+      {
+        "id": "math2-q78",
+        "lesson": "Bài 16: Lít",
+        "question": "Bình xanh chứa 6 lít, bình đỏ chứa 4 lít. Muốn tính cả hai bình có tất cả bao nhiêu lít nước, con làm thế nào?",
+        "purpose": "Ứng dụng phép cộng vào việc tính tổng dung tích."
+      },
+      {
+        "id": "math2-q79",
+        "lesson": "Bài 16: Lít",
+        "question": "Mẹ có cái xô nhựa rỗng, đổ 10 lít nước vào vẫn chưa đầy. Theo con xô nhựa đó đựng được nhiều hơn hay ít hơn 10 lít?",
+        "purpose": "Rèn luyện khả năng tư duy ước lượng không gian/sức chứa."
+      },
+      {
+        "id": "math2-q80",
+        "lesson": "Bài 16: Lít",
+        "question": "Sức chứa của chiếc can 10 lít có bằng tổng sức chứa của 2 chiếc can 5 lít cộng lại không?",
+        "purpose": "Giúp con hiểu về tính bảo toàn và gộp/tách trong đo lường."
+      },
+      {
+        "id": "math2-q81",
+        "lesson": "Bài 17: Thực hành và trải nghiệm ki-lô-gam, lít",
+        "question": "Con thử nhấc cuốn sách Toán 2 lên và đoán xem nó nặng khoảng 1kg, nhẹ hơn hay nặng hơn 1kg?",
+        "purpose": "Rèn luyện cảm giác về trọng lượng và khả năng ước lượng thực tế."
+      },
+      {
+        "id": "math2-q82",
+        "lesson": "Bài 17: Thực hành và trải nghiệm ki-lô-gam, lít",
+        "question": "Mẹ đưa con cân đĩa, 1 quả cân 1kg và một bịch gạo. Con sẽ làm thao tác thế nào để lấy ra chính xác 1kg gạo?",
+        "purpose": "Kiểm tra khả năng hình dung các bước thực hành cân đo."
+      },
+      {
+        "id": "math2-q83",
+        "lesson": "Bài 17: Thực hành và trải nghiệm ki-lô-gam, lít",
+        "question": "Con hãy vào bếp tìm giúp mẹ một chai dầu ăn/nước suối và đọc xem trên nhãn chai có ghi bao nhiêu lít (l) nhé!",
+        "purpose": "Dạy con cách quan sát thông tin định lượng trên bao bì sản phẩm đời sống."
+      },
+      {
+        "id": "math2-q84",
+        "lesson": "Bài 17: Thực hành và trải nghiệm ki-lô-gam, lít",
+        "question": "Mẹ có ca đong 1 lít. Nếu mẹ múc đầy ca nước đổ vào xô, làm liên tục 4 lần thì trong xô có bao nhiêu lít nước?",
+        "purpose": "Kiểm tra tư duy về phép cộng liên tiếp có cùng đơn vị đo."
+      },
+      {
+        "id": "math2-q85",
+        "lesson": "Bài 17: Thực hành và trải nghiệm ki-lô-gam, lít",
+        "question": "Khi đi siêu thị mua 2kg táo, con sẽ nhìn vào đâu trên chiếc cân đồng hồ để chắc chắn rằng mẹ lấy đúng 2kg?",
+        "purpose": "Kiểm tra kỹ năng ứng dụng (đọc kim cân đồng hồ ở siêu thị/chợ)."
+      },
+      {
+        "id": "math2-q86",
+        "lesson": "Bài 19: Phép cộng (có nhớ) số có hai chữ số với số có một chữ số",
+        "question": "Khi đặt tính dọc phép tính 35 + 7, số 7 phải được viết thẳng cột với số nào của số 35?",
+        "purpose": "Kiểm tra quy tắc đặt tính đúng vị trí (đơn vị thẳng đơn vị)."
+      },
+      {
+        "id": "math2-q87",
+        "lesson": "Bài 19: Phép cộng (có nhớ) số có hai chữ số với số có một chữ số",
+        "question": "Trong 35 + 7, lấy 5 cộng 7 bằng 12, con sẽ viết mấy và nhớ mấy sang hàng chục?",
+        "purpose": "Kiểm tra nắm bắt thao tác cốt lõi của phép tính có nhớ (viết hàng đơn vị, nhớ hàng chục)."
+      },
+      {
+        "id": "math2-q88",
+        "lesson": "Bài 19: Phép cộng (có nhớ) số có hai chữ số với số có một chữ số",
+        "question": "Với phép tính 28 + 3, sau khi lấy 8 cộng 3 bằng 11 (viết 1 nhớ 1), bước tiếp theo ở hàng chục con tính thế nào?",
+        "purpose": "Kiểm tra thao tác xử lý phần \"nhớ\" vào hàng chục."
+      },
+      {
+        "id": "math2-q89",
+        "lesson": "Bài 19: Phép cộng (có nhớ) số có hai chữ số với số có một chữ số",
+        "question": "Mẹ đố con nhẩm nhanh 47 + 4 bằng bao nhiêu? Con thử nói cách con tìm ra kết quả nhé!",
+        "purpose": "Rèn luyện kỹ năng tính nhẩm có nhớ không cần nháp."
+      },
+      {
+        "id": "math2-q90",
+        "lesson": "Bài 19: Phép cộng (có nhớ) số có hai chữ số với số có một chữ số",
+        "question": "Một can đựng 15 lít, đổ thêm vào 6 lít nữa. Hỏi can có tất cả bao nhiêu lít? Con lập phép tính gì?",
+        "purpose": "Ứng dụng phép cộng có nhớ vào bài toán giải."
+      },
+      {
+        "id": "math2-q91",
+        "lesson": "Bài 20: Phép cộng (có nhớ) số có hai chữ số với số có hai chữ số",
+        "question": "Khi tính 36 + 17 bằng cách đặt tính dọc, con sẽ thực hiện cộng từ hàng chục trước hay hàng đơn vị trước?",
+        "purpose": "Kiểm tra nguyên tắc thực hiện (phải tính từ hàng đơn vị sang trái)."
+      },
+      {
+        "id": "math2-q92",
+        "lesson": "Bài 20: Phép cộng (có nhớ) số có hai chữ số với số có hai chữ số",
+        "question": "Ở hàng đơn vị, lấy 6 cộng 7 bằng 13, con viết 3 rồi số 1 con sẽ 'nhớ' đi đâu?",
+        "purpose": "Củng cố tư duy chuyển nhớ sang hàng chục."
+      },
+      {
+        "id": "math2-q93",
+        "lesson": "Bài 20: Phép cộng (có nhớ) số có hai chữ số với số có hai chữ số",
+        "question": "Khi cộng tiếp hàng chục của 36 và 17, con lấy 3 cộng 1 bằng 4, rồi làm gì tiếp để ra kết quả 5 ở hàng chục?",
+        "purpose": "Đảm bảo con không quên bước cộng thêm số \"nhớ\" ở hàng chục."
+      },
+      {
+        "id": "math2-q94",
+        "lesson": "Bài 20: Phép cộng (có nhớ) số có hai chữ số với số có hai chữ số",
+        "question": "Con thử đặt tính nhẩm cho mẹ xem 47 + 43 bằng bao nhiêu? Kết quả này có gì đặc biệt không?",
+        "purpose": "Rèn tính nhẩm và nhận ra kết quả tròn chục (90)."
+      },
+      {
+        "id": "math2-q95",
+        "lesson": "Bài 20: Phép cộng (có nhớ) số có hai chữ số với số có hai chữ số",
+        "question": "Bể cá nhà mình 15 con, bể nhà bà 26 con. Muốn biết cả hai bể có bao nhiêu con cá, con làm thế nào?",
+        "purpose": "Ứng dụng giải toán thực tế có lời văn."
+      },
+      {
+        "id": "math2-q96",
+        "lesson": "Bài 21: Luyện tập chung (Cộng có nhớ)",
+        "question": "Con bê nặng 47 kg, nghé nặng hơn bê 18 kg. Để tìm cân nặng của nghé, con dùng phép tính gì?",
+        "purpose": "Ôn tập toán giải dạng \"nhiều hơn\" kết hợp phép cộng có nhớ."
+      },
+      {
+        "id": "math2-q97",
+        "lesson": "Bài 21: Luyện tập chung (Cộng có nhớ)",
+        "question": "Đoạn thẳng 1 dài 15 cm, đoạn 2 dài 25 cm. Cả hai đoạn dài tổng cộng bao nhiêu cm?",
+        "purpose": "Ôn tập cộng có nhớ với đơn vị đo độ dài."
+      },
+      {
+        "id": "math2-q98",
+        "lesson": "Bài 21: Luyện tập chung (Cộng có nhớ)",
+        "question": "Nhà mình có 28 cái bát, mẹ mua thêm 15 cái nữa. Số bát nhà mình bây giờ là bao nhiêu?",
+        "purpose": "Ôn tập toán giải dạng \"thêm vào\"."
+      },
+      {
+        "id": "math2-q99",
+        "lesson": "Bài 21: Luyện tập chung (Cộng có nhớ)",
+        "question": "Khi thực hiện phép tính 54 + 27, tại sao kết quả ở hàng đơn vị con lại ghi là 1?",
+        "purpose": "Kiểm tra sự thấu hiểu bản chất (vì 4 + 7 = 11, ghi hàng đơn vị là 1)."
+      },
+      {
+        "id": "math2-q100",
+        "lesson": "Bài 21: Luyện tập chung (Cộng có nhớ)",
+        "question": "Mẹ đố con tự nghĩ ra hai số có hai chữ số, sao cho khi cộng lại, hàng đơn vị của tổng là số 0!",
+        "purpose": "Rèn luyện tư duy sáng tạo, tự thiết lập phép tính cho ra số tròn chục."
+      },
+      {
+        "id": "math2-q101",
+        "lesson": "Bài 22: Phép trừ (có nhớ) số có hai chữ số cho số có một chữ số",
+        "question": "Khi tính 32 - 7, vì 2 bé hơn 7 nên không trừ được, con phải làm gì để trừ được cho 7?",
+        "purpose": "Kiểm tra quy tắc cốt lõi của trừ có nhớ: biết \"mượn 1 chục\"."
+      },
+      {
+        "id": "math2-q102",
+        "lesson": "Bài 22: Phép trừ (có nhớ) số có hai chữ số cho số có một chữ số",
+        "question": "Sau khi 'mượn 1 chục' để lấy 12 trừ 7 bằng 5, bước tiếp theo ở hàng chục con phải làm gì để không sai?",
+        "purpose": "Kiểm tra bước quan trọng nhất hay bị quên: \"trả\" hoặc trừ đi 1 chục đã mượn."
+      },
+      {
+        "id": "math2-q103",
+        "lesson": "Bài 22: Phép trừ (có nhớ) số có hai chữ số cho số có một chữ số",
+        "question": "Thử đặt tính dọc 54 - 6. Tại sao kết quả ở hàng chục lại là 4 chứ không phải 5?",
+        "purpose": "Khắc sâu việc \"trả 1\" đã mượn làm giảm đi hàng chục của số bị trừ."
+      },
+      {
+        "id": "math2-q104",
+        "lesson": "Bài 22: Phép trừ (có nhớ) số có hai chữ số cho số có một chữ số",
+        "question": "Mẹ có 42 quả dưa, đem biếu bà 5 quả. Muốn biết mẹ còn lại bao nhiêu quả thì con làm thế nào?",
+        "purpose": "Ứng dụng giải toán (phép trừ có nhớ)."
+      },
+      {
+        "id": "math2-q105",
+        "lesson": "Bài 22: Phép trừ (có nhớ) số có hai chữ số cho số có một chữ số",
+        "question": "Theo con, phép trừ có nhớ (32 - 7) khác với phép trừ không nhớ (38 - 7) ở điểm nào nhất?",
+        "purpose": "Rèn luyện khả năng phân biệt đặc điểm của các dạng toán."
+      },
+      {
+        "id": "math2-q106",
+        "lesson": "Bài 23: Phép trừ (có nhớ) số có hai chữ số cho số có hai chữ số",
+        "question": "Trong phép tính 42 - 15, sau khi lấy 12 - 5 = 7, con sẽ 'trả' số 1 đó vào vị trí nào?",
+        "purpose": "Kiểm tra quy trình \"trả mượn\" đúng vị trí (trả vào hàng chục của số trừ)."
+      },
+      {
+        "id": "math2-q107",
+        "lesson": "Bài 23: Phép trừ (có nhớ) số có hai chữ số cho số có hai chữ số",
+        "question": "Vậy sau khi thêm 1 vào hàng chục của số trừ (1 thêm 1 là 2), con sẽ lấy mấy trừ mấy ở hàng chục?",
+        "purpose": "Kiểm tra thao tác tính toán ở hàng chục sau khi đã trả."
+      },
+      {
+        "id": "math2-q108",
+        "lesson": "Bài 23: Phép trừ (có nhớ) số có hai chữ số cho số có hai chữ số",
+        "question": "Con lấy giấy nháp đặt tính dọc 72 - 27 cho mẹ xem. Vừa làm vừa nói to bước thực hiện hàng đơn vị và hàng chục nhé!",
+        "purpose": "Đánh giá độ thành thạo và khả năng diễn đạt thao tác tính của con."
+      },
+      {
+        "id": "math2-q109",
+        "lesson": "Bài 23: Phép trừ (có nhớ) số có hai chữ số cho số có hai chữ số",
+        "question": "Bác Bình có 60 con gà, bán 28 con. Khi trừ hàng đơn vị bài này con có phải mượn không?",
+        "purpose": "Khắc sâu trường hợp số bị trừ có tận cùng là số 0."
+      },
+      {
+        "id": "math2-q110",
+        "lesson": "Bài 23: Phép trừ (có nhớ) số có hai chữ số cho số có hai chữ số",
+        "question": "Khác biệt giữa việc 'nhớ' trong phép cộng và 'nhớ/mượn' trong phép trừ là gì?",
+        "purpose": "Nâng cao nhận thức toán học khái quát (cộng là thêm vào kết quả, trừ là trả lại cho số trừ)."
+      },
+      {
+        "id": "math2-q111",
+        "lesson": "Bài 24: Luyện tập chung (Trừ có nhớ)",
+        "question": "Vườn có 34 cây cam, 18 cây bưởi. Cam nhiều hơn bưởi bao nhiêu cây thì con tính thế nào?",
+        "purpose": "Ôn tập dạng toán \"nhiều hơn\" (tìm phần chênh lệch bằng phép trừ)."
+      },
+      {
+        "id": "math2-q112",
+        "lesson": "Bài 24: Luyện tập chung (Trừ có nhớ)",
+        "question": "Anh cao 82 cm, em cao 56 cm. Muốn biết em thấp hơn anh bao nhiêu cm thì dùng phép tính gì?",
+        "purpose": "Ôn tập toán \"ít hơn/thấp hơn\" áp dụng với đo độ dài."
+      },
+      {
+        "id": "math2-q113",
+        "lesson": "Bài 24: Luyện tập chung (Trừ có nhớ)",
+        "question": "Khi mẹ đố con tính 50 - 26, vì hàng đơn vị của số bị trừ là 0, con sẽ trừ như thế nào?",
+        "purpose": "Ôn tập phản xạ trừ các số tròn chục."
+      },
+      {
+        "id": "math2-q114",
+        "lesson": "Bài 24: Luyện tập chung (Trừ có nhớ)",
+        "question": "Khi đề hỏi 'Tất cả có bao nhiêu?', con dùng phép tính gì? Còn hỏi 'Nhiều hơn/Ít hơn bao nhiêu?' thì dùng phép gì?",
+        "purpose": "Tổng hợp lại các \"từ khóa\" giải bài toán có lời văn."
+      },
+      {
+        "id": "math2-q115",
+        "lesson": "Bài 24: Luyện tập chung (Trừ có nhớ)",
+        "question": "Con hãy tự tạo ra một phép tính trừ có nhớ khó nhất mà con biết, rồi tự tính và giải thích cách làm!",
+        "purpose": "Khuyến khích sự tự tin và sự sáng tạo chủ động học tập."
+      },
+      {
+        "id": "math2-q116",
+        "lesson": "Bài 25: Điểm, đoạn thẳng, đường thẳng, đường cong, ba điểm thẳng hàng",
+        "question": "Con lấy bút chấm một chấm trên giấy, đó gọi là gì? Nếu nối hai điểm lại bằng thước kẻ, con được đường gì?",
+        "purpose": "Kiểm tra nhận diện hình học cơ bản: điểm, đoạn thẳng."
+      },
+      {
+        "id": "math2-q117",
+        "lesson": "Bài 25: Điểm, đoạn thẳng, đường thẳng, đường cong, ba điểm thẳng hàng",
+        "question": "Đoạn thẳng và đường thẳng khác nhau ở chỗ nào hả con?",
+        "purpose": "Phân biệt đoạn thẳng (giới hạn 2 đầu) và đường thẳng (kéo dài mãi mãi)."
+      },
+      {
+        "id": "math2-q118",
+        "lesson": "Bài 25: Điểm, đoạn thẳng, đường thẳng, đường cong, ba điểm thẳng hàng",
+        "question": "Mẹ có một sợi chun, nếu kéo căng ra thì giống đường gì? Nếu thả chùng xuống thì giống đường gì?",
+        "purpose": "Liên tưởng hình học (đường thẳng/đoạn thẳng và đường cong) với đồ vật thực tế."
+      },
+      {
+        "id": "math2-q119",
+        "lesson": "Bài 25: Điểm, đoạn thẳng, đường thẳng, đường cong, ba điểm thẳng hàng",
+        "question": "Khi nào thì ba điểm được gọi là 'ba điểm thẳng hàng'?",
+        "purpose": "Kiểm tra khái niệm cơ bản về ba điểm thẳng hàng (cùng nằm trên một đường thẳng)."
+      },
+      {
+        "id": "math2-q120",
+        "lesson": "Bài 25: Điểm, đoạn thẳng, đường thẳng, đường cong, ba điểm thẳng hàng",
+        "question": "Thử đặt thước kẻ lên mép bàn, nếu chọn 3 điểm bất kỳ nằm trên mép bàn đó thì chúng có thẳng hàng không?",
+        "purpose": "Ứng dụng nhận diện sự thẳng hàng vào đồ vật trong nhà."
+      },
+      {
+        "id": "math2-q121",
+        "lesson": "Bài 26: Đường gấp khúc. Hình tứ giác",
+        "question": "Con hiểu thế nào là một 'đường gấp khúc'? Nó có giống đường cong không?",
+        "purpose": "Khắc sâu khái niệm: là tập hợp các đoạn thẳng nối tiếp nhưng không thẳng hàng, khác với đường cong mượt mà."
+      },
+      {
+        "id": "math2-q122",
+        "lesson": "Bài 26: Đường gấp khúc. Hình tứ giác",
+        "question": "Muốn tính độ dài của một đường gấp khúc, con phải làm phép tính gì?",
+        "purpose": "Nhớ công thức: Tính tổng độ dài các đoạn thẳng thành phần."
+      },
+      {
+        "id": "math2-q123",
+        "lesson": "Bài 26: Đường gấp khúc. Hình tứ giác",
+        "question": "Một hình tứ giác thì có mấy cạnh và mấy đỉnh? Chiếc tivi nhà mình có phải là hình tứ giác không?",
+        "purpose": "Kiểm tra đặc điểm nhận diện (4 đỉnh, 4 cạnh) và tìm kiếm xung quanh."
+      },
+      {
+        "id": "math2-q124",
+        "lesson": "Bài 26: Đường gấp khúc. Hình tứ giác",
+        "question": "Nếu mẹ có đường gấp khúc gồm 4 đoạn thẳng, mẹ nối điểm đầu và điểm cuối lại với nhau thì tạo thành hình gì?",
+        "purpose": "Khả năng tưởng tượng hình học (đường gấp khúc khép kín tạo thành tứ giác)."
+      },
+      {
+        "id": "math2-q125",
+        "lesson": "Bài 26: Đường gấp khúc. Hình tứ giác",
+        "question": "Lấy thước vẽ đường gấp khúc gồm 3 đoạn thẳng, mỗi đoạn 2 cm, rồi tính tổng độ dài đường gấp khúc đó nhé.",
+        "purpose": "Thực hành vẽ và tính toán độ dài."
+      },
+      {
+        "id": "math2-q126",
+        "lesson": "Bài 27: Thực hành gấp, cắt, ghép, xếp hình. Vẽ đoạn thẳng",
+        "question": "Khi vẽ một đoạn thẳng dài 5 cm, con đặt điểm đầu tiên ở vạch số mấy và kéo bút đến vạch số mấy?",
+        "purpose": "Kiểm tra thao tác sử dụng thước kẻ đúng chuẩn (bắt đầu từ vạch số 0)."
+      },
+      {
+        "id": "math2-q127",
+        "lesson": "Bài 27: Thực hành gấp, cắt, ghép, xếp hình. Vẽ đoạn thẳng",
+        "question": "Nếu có tờ giấy hình vuông, con gấp chéo lại (đỉnh chạm đỉnh) thì con sẽ nhìn thấy hình gì?",
+        "purpose": "Tư duy biến đổi hình học (từ hình vuông -> hình tam giác)."
+      },
+      {
+        "id": "math2-q128",
+        "lesson": "Bài 27: Thực hành gấp, cắt, ghép, xếp hình. Vẽ đoạn thẳng",
+        "question": "Từ hai mảnh giấy hình tam giác giống hệt nhau, con có ghép lại tạo thành hình tứ giác được không?",
+        "purpose": "Rèn luyện khả năng lắp ghép, tư duy không gian."
+      },
+      {
+        "id": "math2-q129",
+        "lesson": "Bài 27: Thực hành gấp, cắt, ghép, xếp hình. Vẽ đoạn thẳng",
+        "question": "Con hãy lấy thước kẻ đo xem chiếc bút chì con đang dùng dài chính xác bao nhiêu xăng-ti-mét nhé.",
+        "purpose": "Thực hành đo lường thực tế."
+      },
+      {
+        "id": "math2-q130",
+        "lesson": "Bài 27: Thực hành gấp, cắt, ghép, xếp hình. Vẽ đoạn thẳng",
+        "question": "Khi chơi xếp hình, thao tác 'xoay' hoặc 'lật' các mảnh ghép giúp con điều gì?",
+        "purpose": "Phát triển nhận thức về tính linh hoạt của hình học không gian."
+      },
+      {
+        "id": "math2-q131",
+        "lesson": "Bài 28: Luyện tập chung (Hình học)",
+        "question": "Đố con, hình chữ nhật hay hình vuông có được gọi chung là hình tứ giác không? Vì sao?",
+        "purpose": "Hiểu được tứ giác là khái niệm bao quát cho các hình có 4 đỉnh, 4 cạnh."
+      },
+      {
+        "id": "math2-q132",
+        "lesson": "Bài 28: Luyện tập chung (Hình học)",
+        "question": "Nếu 3 điểm A, B, C thẳng hàng, B ở giữa. Mẹ nối A với B, rồi B với C thì được đoạn thẳng hay đường gấp khúc?",
+        "purpose": "Kiểm tra tư duy sâu: Nếu thẳng hàng thì nối lại chỉ tạo ra đoạn thẳng dài hơn, không bị \"gấp khúc\"."
+      },
+      {
+        "id": "math2-q133",
+        "lesson": "Bài 28: Luyện tập chung (Hình học)",
+        "question": "Đường gấp khúc có 3 đoạn, mỗi đoạn dài 4 cm. Con dùng phép tính gì tính tổng độ dài?",
+        "purpose": "Ôn tập công thức tính đường gấp khúc."
+      },
+      {
+        "id": "math2-q134",
+        "lesson": "Bài 28: Luyện tập chung (Hình học)",
+        "question": "Đóng vai thám tử tìm 2 đồ vật hình tứ giác và 1 đồ vật có đường cong trong phòng.",
+        "purpose": "Ôn tập và gắn kết bài học với không gian sống thực tế."
+      },
+      {
+        "id": "math2-q135",
+        "lesson": "Bài 28: Luyện tập chung (Hình học)",
+        "question": "Vẽ một tứ giác có 4 cạnh đều bằng 3 cm. Con biết đó là hình gì không?",
+        "purpose": "Thực hành vẽ hình và nhận diện được hình vuông."
+      },
+      {
+        "id": "math2-q136",
+        "lesson": "Bài 29: Ngày - giờ, giờ - phút",
+        "question": "Một ngày có bao nhiêu giờ hả con? Bắt đầu từ lúc nào và kết thúc lúc nào?",
+        "purpose": "Nắm vững thông tin thời gian cơ bản (24 giờ, từ 12h đêm nay đến 12h đêm sau)."
+      },
+      {
+        "id": "math2-q137",
+        "lesson": "Bài 29: Ngày - giờ, giờ - phút",
+        "question": "Một giờ có bao nhiêu phút? Khi kim dài chỉ số 12 và kim ngắn chỉ số 3 thì là mấy giờ?",
+        "purpose": "Kiểm tra quy đổi giờ - phút và cách xem giờ chẵn."
+      },
+      {
+        "id": "math2-q138",
+        "lesson": "Bài 29: Ngày - giờ, giờ - phút",
+        "question": "Khi nghe nói '19 giờ', con có biết đó là mấy giờ tối không? Làm sao để nhẩm ra?",
+        "purpose": "Kiểm tra cách gọi giờ theo hệ 24h và cách quy đổi (19 - 12 = 7h tối)."
+      },
+      {
+        "id": "math2-q139",
+        "lesson": "Bài 29: Ngày - giờ, giờ - phút",
+        "question": "Khi kim dài chỉ số 3, kim ngắn qua số 10 một chút thì lúc đó là 10 giờ bao nhiêu phút?",
+        "purpose": "Kiểm tra cách xem kim phút (mỗi số là 5 phút, chỉ số 3 là 15 phút)."
+      },
+      {
+        "id": "math2-q140",
+        "lesson": "Bài 29: Ngày - giờ, giờ - phút",
+        "question": "Nếu học từ 8 giờ tối đến 8 giờ 30 phút, con đã ngồi học được bao nhiêu phút?",
+        "purpose": "Ứng dụng thực tế tính toán khoảng thời gian trôi qua."
+      },
+      {
+        "id": "math2-q141",
+        "lesson": "Bài 30: Ngày - tháng",
+        "question": "Con hãy kể tên các tháng trong năm. Một năm có bao nhiêu tháng?",
+        "purpose": "Ghi nhớ cấu trúc lịch của 1 năm (12 tháng)."
+      },
+      {
+        "id": "math2-q142",
+        "lesson": "Bài 30: Ngày - tháng",
+        "question": "Đố con biết, tháng nào trong năm đặc biệt nhất vì chỉ có 28 hoặc 29 ngày?",
+        "purpose": "Nhận biết kiến thức đặc thù của lịch (Tháng 2)."
+      },
+      {
+        "id": "math2-q143",
+        "lesson": "Bài 30: Ngày - tháng",
+        "question": "Tháng sinh nhật của con (ví dụ: tháng 10) có tất cả bao nhiêu ngày?",
+        "purpose": "Rèn thói quen xem lịch và ghi nhớ số ngày của các tháng quen thuộc."
+      },
+      {
+        "id": "math2-q144",
+        "lesson": "Bài 30: Ngày - tháng",
+        "question": "Nếu hôm nay là ngày 15 tháng 11, ngày mai sẽ là mùng mấy, tháng mấy?",
+        "purpose": "Tư duy tiến tới theo dòng thời gian ngày-tháng."
+      },
+      {
+        "id": "math2-q145",
+        "lesson": "Bài 30: Ngày - tháng",
+        "question": "Nhìn vào tờ lịch treo tường, làm sao tìm ra ngày mùng 10 của tháng đó rơi vào thứ mấy?",
+        "purpose": "Kỹ năng thực hành tra cứu lịch giấy ngang/dọc."
+      },
+      {
+        "id": "math2-q146",
+        "lesson": "Bài 31: Thực hành xem đồng hồ, xem lịch",
+        "question": "Chạy ra xem chiếc đồng hồ nhà mình đang chỉ mấy giờ, mấy phút rồi báo cáo cho mẹ nhé!",
+        "purpose": "Kiểm tra trực tiếp khả năng xem đồng hồ thực tế của con."
+      },
+      {
+        "id": "math2-q147",
+        "lesson": "Bài 31: Thực hành xem đồng hồ, xem lịch",
+        "question": "Lật tờ lịch để bàn, tìm xem Chủ nhật tuần này rơi vào ngày bao nhiêu?",
+        "purpose": "Thực hành định vị ngày trong tuần hiện tại trên lịch."
+      },
+      {
+        "id": "math2-q148",
+        "lesson": "Bài 31: Thực hành xem đồng hồ, xem lịch",
+        "question": "Giả sử hôm nay là ngày 30 tháng 4. Vậy ngày mai sẽ là mùng 1 tháng mấy?",
+        "purpose": "Kiểm tra tư duy chuyển giao giữa các tháng trong năm."
+      },
+      {
+        "id": "math2-q149",
+        "lesson": "Bài 31: Thực hành xem đồng hồ, xem lịch",
+        "question": "Phim chiếu lúc 20 giờ 15 phút. Khi đồng hồ báo kim ngắn/kim dài ở đâu thì con được xem?",
+        "purpose": "Quy đổi giờ hệ 24h thành hình ảnh kim đồng hồ (kim giờ qua số 8, kim phút số 3)."
+      },
+      {
+        "id": "math2-q150",
+        "lesson": "Bài 31: Thực hành xem đồng hồ, xem lịch",
+        "question": "Nếu thứ Ba tuần này là mùng 5, đếm nhẩm xem thứ Ba tuần sau là ngày bao nhiêu?",
+        "purpose": "Rèn quy luật cộng thêm 7 ngày cho cùng một thứ trong tuần."
+      },
+      {
+        "id": "math2-q151",
+        "lesson": "Bài 32: Luyện tập chung (Thời gian)",
+        "question": "Đi chợ từ 7 giờ 15 phút sáng đến 8 giờ sáng. Mẹ đã đi hết bao nhiêu phút?",
+        "purpose": "Tính toán thời lượng (45 phút)."
+      },
+      {
+        "id": "math2-q152",
+        "lesson": "Bài 32: Luyện tập chung (Thời gian)",
+        "question": "Ngủ từ 21 giờ đến 6 giờ sáng hôm sau. Con đếm xem đã ngủ được mấy tiếng?",
+        "purpose": "Tư duy đếm vòng thời gian qua đêm."
+      },
+      {
+        "id": "math2-q153",
+        "lesson": "Bài 32: Luyện tập chung (Thời gian)",
+        "question": "Tháng 7 và tháng 8 có bao nhiêu ngày? Con có nhớ không?",
+        "purpose": "Ôn tập hiện tượng đặc biệt của lịch (2 tháng liền kề đều có 31 ngày)."
+      },
+      {
+        "id": "math2-q154",
+        "lesson": "Bài 32: Luyện tập chung (Thời gian)",
+        "question": "Câu đố vui: 'Tháng nào cũng có ngày 28, đúng hay sai?'.",
+        "purpose": "Kiểm tra tư duy nhanh nhạy (Đúng, vì tháng nào ít nhất cũng 28 ngày)."
+      },
+      {
+        "id": "math2-q155",
+        "lesson": "Bài 32: Luyện tập chung (Thời gian)",
+        "question": "Con thử tự lập một 'thời gian biểu' cho Chủ nhật: mấy giờ thức dậy, chơi, học?",
+        "purpose": "Ứng dụng bài học vào việc quản lý thời gian cá nhân."
+      },
+      {
+        "id": "math2-q156",
+        "lesson": "Bài 33: Ôn tập phép cộng, phép trừ phạm vi 20, 100",
+        "question": "Nhẩm nhanh 9 + 6 bằng bao nhiêu? Từ đó suy ra 15 - 9 bằng mấy mà không cần đếm lùi?",
+        "purpose": "Ôn tập sự liên hệ mật thiết giữa bảng cộng và bảng trừ."
+      },
+      {
+        "id": "math2-q157",
+        "lesson": "Bài 33: Ôn tập phép cộng, phép trừ phạm vi 20, 100",
+        "question": "Đặt tính 54 + 28, 4+8=12 viết 2 nhớ 1. Vậy số 1 đó 'nhớ' vào hàng nào của kết quả?",
+        "purpose": "Ôn tập quy tắc cộng có nhớ."
+      },
+      {
+        "id": "math2-q158",
+        "lesson": "Bài 33: Ôn tập phép cộng, phép trừ phạm vi 20, 100",
+        "question": "Tính 100 - 35 bằng nháp và đọc to các bước mượn - trả cho mẹ nghe.",
+        "purpose": "Ôn tập kỹ năng thực hiện phép trừ khó (có tận cùng là số 0)."
+      },
+      {
+        "id": "math2-q159",
+        "lesson": "Bài 33: Ôn tập phép cộng, phép trừ phạm vi 20, 100",
+        "question": "Sáng bán 45 quả dưa, chiều bán 'ít hơn' sáng 17 quả. Tìm số dưa buổi chiều thế nào?",
+        "purpose": "Ôn tập toán lời văn dạng \"ít hơn\"."
+      },
+      {
+        "id": "math2-q160",
+        "lesson": "Bài 33: Ôn tập phép cộng, phép trừ phạm vi 20, 100",
+        "question": "Tìm số bí ẩn: Lấy số đó cộng với 20 thì bằng 50. Làm phép tính gì để tìm ra số đó?",
+        "purpose": "Ôn tập toán tư duy ngược (tìm số hạng chưa biết)."
+      },
+      {
+        "id": "math2-q161",
+        "lesson": "Bài 34: Ôn tập hình phẳng",
+        "question": "Tìm 2 đồ vật hình tứ giác trong phòng khách. Tại sao con biết đó là tứ giác?",
+        "purpose": "Ôn tập dấu hiệu nhận diện hình tứ giác."
+      },
+      {
+        "id": "math2-q162",
+        "lesson": "Bài 34: Ôn tập hình phẳng",
+        "question": "Ba điểm cùng nằm trên một đường thẳng thì gọi là ba điểm gì?",
+        "purpose": "Ôn tập khái niệm ba điểm thẳng hàng."
+      },
+      {
+        "id": "math2-q163",
+        "lesson": "Bài 34: Ôn tập hình phẳng",
+        "question": "Vẽ đường gấp khúc 3 đoạn, mỗi đoạn 3 cm. Dùng phép tính gì để tìm tổng độ dài?",
+        "purpose": "Ôn tập tính độ dài đường gấp khúc."
+      },
+      {
+        "id": "math2-q164",
+        "lesson": "Bài 34: Ôn tập hình phẳng",
+        "question": "Đoạn thẳng bắt đầu ở vạch số 2, kết thúc ở vạch số 8. Đoạn đó dài mấy cm?",
+        "purpose": "Ôn tập kỹ năng đo lường bằng thước (không bắt đầu từ vạch 0, lấy 8 - 2)."
+      },
+      {
+        "id": "math2-q165",
+        "lesson": "Bài 34: Ôn tập hình phẳng",
+        "question": "Ghép 2 hình tam giác giống hệt nhau lại xem có tạo thành hình tứ giác không?",
+        "purpose": "Ôn tập kỹ năng ghép hình."
+      },
+      {
+        "id": "math2-q166",
+        "lesson": "Bài 35: Ôn tập đo lường (kg, lít, ngày-tháng, giờ-phút)",
+        "question": "Can lớn 10 lít, can nhỏ 5 lít. Hai can có tất cả bao nhiêu lít nước?",
+        "purpose": "Ôn tập phép cộng đơn vị Lít."
+      },
+      {
+        "id": "math2-q167",
+        "lesson": "Bài 35: Ôn tập đo lường (kg, lít, ngày-tháng, giờ-phút)",
+        "question": "Gấu bông 15kg, mèo bông 8kg. Gấu nặng hơn mèo bao nhiêu kg?",
+        "purpose": "Ôn tập so sánh và phép trừ đơn vị Ki-lô-gam."
+      },
+      {
+        "id": "math2-q168",
+        "lesson": "Bài 35: Ôn tập đo lường (kg, lít, ngày-tháng, giờ-phút)",
+        "question": "Hôm nay thứ Hai, ngày 10. Đếm xem thứ Hai tuần sau là mùng mấy?",
+        "purpose": "Ôn tập quy luật thời gian tuần/ngày."
+      },
+      {
+        "id": "math2-q169",
+        "lesson": "Bài 35: Ôn tập đo lường (kg, lít, ngày-tháng, giờ-phút)",
+        "question": "Đồng hồ kim phút chỉ 12, kim giờ chỉ 8 thì là mấy giờ?",
+        "purpose": "Ôn tập kỹ năng xem đồng hồ."
+      },
+      {
+        "id": "math2-q170",
+        "lesson": "Bài 35: Ôn tập đo lường (kg, lít, ngày-tháng, giờ-phút)",
+        "question": "4 giờ chiều còn được gọi là mười mấy giờ?",
+        "purpose": "Ôn tập chuyển đổi giờ hệ 24 tiếng."
+      },
+      {
+        "id": "math2-q171",
+        "lesson": "Bài 36: Ôn tập chung",
+        "question": "Viết số lớn nhất có 2 chữ số và số bé nhất có 2 chữ số, rồi trừ hai số đó cho nhau!",
+        "purpose": "Kiểm tra tổng hợp nhận biết số và phép trừ (99 - 10)."
+      },
+      {
+        "id": "math2-q172",
+        "lesson": "Bài 36: Ôn tập chung",
+        "question": "Trên sân có 25 gà trống, 36 gà mái. Hỏi 'có tất cả bao nhiêu con?', dùng tính gì?",
+        "purpose": "Ôn tập từ khóa \"tất cả\" cho phép cộng."
+      },
+      {
+        "id": "math2-q173",
+        "lesson": "Bài 36: Ôn tập chung",
+        "question": "Khúc gỗ dài 85 cm, cưa đi 27 cm. Khúc gỗ còn lại bao nhiêu cm?",
+        "purpose": "Ôn tập phép trừ có nhớ kèm đơn vị độ dài."
+      },
+      {
+        "id": "math2-q174",
+        "lesson": "Bài 36: Ôn tập chung",
+        "question": "Tháng 12 có bao nhiêu ngày? Một tuần lễ mấy ngày và con được nghỉ thứ mấy?",
+        "purpose": "Ôn tập kiến thức thời gian, lịch, đời sống."
+      },
+      {
+        "id": "math2-q175",
+        "lesson": "Bài 36: Ôn tập chung",
+        "question": "Con hãy tự đóng vai thầy/cô giáo, nghĩ ra một bài toán trừ có nhớ và giải cho mẹ xem!",
+        "purpose": "Đánh giá độ tự chủ kiến thức và khả năng ra đề của học sinh."
+      }
+    ]
+  },
+  "math6": {
+    "title": "Toán lớp 6 - Cánh Diều Vol I",
+    "questions": [
+      {
+        "id": "math6-q1",
+        "lesson": "Bài 1: Tập hợp",
+        "question": "\"Tập hợp\" là gì? Con hãy lấy một ví dụ về một tập hợp các đồ vật xung quanh con ngay lúc này.",
+        "purpose": "Kiểm tra con có hiểu khái niệm cơ bản không. (VD: tập hợp các cuốn sách trên bàn)."
+      },
+      {
+        "id": "math6-q2",
+        "lesson": "Bài 1: Tập hợp",
+        "question": "Bố/mẹ có tập hợp  là các số tự nhiên nhỏ hơn 5, con hãy viết tập hợp  bằng cách liệt kê các phần tử ra giấy nhé.",
+        "purpose": "Kiểm tra cách viết bằng ngoặc nhọn và liệt kê đúng: ."
+      },
+      {
+        "id": "math6-q3",
+        "lesson": "Bài 1: Tập hợp",
+        "question": "Trong tập hợp  con vừa viết, số 3 và số 6 có nằm trong tập  không? Mình dùng kí hiệu gì để viết điều đó?",
+        "purpose": "Giúp con ghi nhớ kí hiệu  (thuộc) và  (không thuộc)."
+      },
+      {
+        "id": "math6-q4",
+        "lesson": "Bài 1: Tập hợp",
+        "question": "Ngoài cách \"liệt kê\", bài học còn chỉ cho con cách nào khác để viết tập hợp  đó không?",
+        "purpose": "Nhắc đến cách: \"Chỉ ra tính chất đặc trưng cho các phần tử\"."
+      },
+      {
+        "id": "math6-q5",
+        "lesson": "Bài 1: Tập hợp",
+        "question": "Để vẽ một tập hợp thành hình cho dễ nhìn, người ta thường dùng biểu đồ gì? Con thử vẽ tập hợp  bằng biểu đồ đó xem.",
+        "purpose": "Kiểm tra khái niệm \"Biểu đồ Ven\" (vòng kín)."
+      },
+      {
+        "id": "math6-q6",
+        "lesson": "Bài 2: Tập hợp các số tự nhiên",
+        "question": "Tập hợp các số tự nhiên kí hiệu là chữ gì? Nó khác gì so với tập hợp ?",
+        "purpose": "Phân biệt  (bắt đầu từ 0) và  (bắt đầu từ 1)."
+      },
+      {
+        "id": "math6-q7",
+        "lesson": "Bài 2: Tập hợp các số tự nhiên",
+        "question": "Con hãy viết số \"Năm nghìn không trăm hai mươi mốt\". Số này có chữ số hàng trăm là mấy? Chữ số hàng chục là mấy?",
+        "purpose": "Kiểm tra cấu tạo thập phân."
+      },
+      {
+        "id": "math6-q8",
+        "lesson": "Bài 2: Tập hợp các số tự nhiên",
+        "question": "Trên tia số, nếu số  nhỏ hơn số  thì điểm  nằm ở bên trái hay bên phải điểm ?",
+        "purpose": "Hình dung trực quan: số nhỏ nằm bên trái."
+      },
+      {
+        "id": "math6-q9",
+        "lesson": "Bài 2: Tập hợp các số tự nhiên",
+        "question": "Con hãy đọc các số La Mã sau: V, IX, XIV, XX.",
+        "purpose": "Cách đọc số La Mã (5, 9, 14, 20)."
+      },
+      {
+        "id": "math6-q10",
+        "lesson": "Bài 2: Tập hợp các số tự nhiên",
+        "question": "Làm thế nào để so sánh hai số tự nhiên có số lượng chữ số khác nhau (VD: 987 và 1234)? Nếu bằng chữ số thì sao?",
+        "purpose": "Nêu quy tắc: Số nhiều chữ số hơn thì lớn hơn; nếu bằng thì so từng hàng từ trái sang phải."
+      },
+      {
+        "id": "math6-q11",
+        "lesson": "Bài 3: Phép cộng, phép trừ các số tự nhiên",
+        "question": "Trong phép tính , các số 15, 8 và 23 được gọi tên là gì?",
+        "purpose": "Nhớ thuật ngữ: số hạng, số hạng, tổng."
+      },
+      {
+        "id": "math6-q12",
+        "lesson": "Bài 3: Phép cộng, phép trừ các số tự nhiên",
+        "question": "Phép cộng có những tính chất gì giúp mình tính nhẩm nhanh hơn?",
+        "purpose": "Tính chất giao hoán và Tính chất kết hợp."
+      },
+      {
+        "id": "math6-q13",
+        "lesson": "Bài 3: Phép cộng, phép trừ các số tự nhiên",
+        "question": "Bất kì số nào cộng với số 0 thì kết quả sẽ ra sao?",
+        "purpose": "Bằng chính nó."
+      },
+      {
+        "id": "math6-q14",
+        "lesson": "Bài 3: Phép cộng, phép trừ các số tự nhiên",
+        "question": "Trong phép trừ , số 30, 12 và 18 được gọi là gì?",
+        "purpose": "Nhớ thuật ngữ: số bị trừ, số trừ, hiệu."
+      },
+      {
+        "id": "math6-q15",
+        "lesson": "Bài 3: Phép cộng, phép trừ các số tự nhiên",
+        "question": "Để thực hiện phép trừ số tự nhiên, \"số bị trừ\" phải có điều kiện gì so với \"số trừ\"?",
+        "purpose": "Số bị trừ phải lớn hơn hoặc bằng số trừ."
+      },
+      {
+        "id": "math6-q16",
+        "lesson": "Bài 4: Phép nhân, phép chia các số tự nhiên",
+        "question": "Trong phép nhân , số 7 và số 6 gọi là gì, số 42 gọi là gì? Ở cấp 2, ta dùng dấu gì thay cho \"\"?",
+        "purpose": "Nhớ từ \"thừa số\", \"tích\" và biết dùng dấu chấm \".\"."
+      },
+      {
+        "id": "math6-q17",
+        "lesson": "Bài 4: Phép nhân, phép chia các số tự nhiên",
+        "question": "Tính chất nào của phép nhân giúp nó \"bắt tay\" được với phép cộng để tính nhanh?",
+        "purpose": "Tính chất phân phối của phép nhân đối với phép cộng."
+      },
+      {
+        "id": "math6-q18",
+        "lesson": "Bài 4: Phép nhân, phép chia các số tự nhiên",
+        "question": "Trong phép chia có dư, \"số dư\" bắt buộc phải có điều kiện gì so với \"số chia\"?",
+        "purpose": "Số dư luôn phải bé hơn số chia."
+      },
+      {
+        "id": "math6-q19",
+        "lesson": "Bài 4: Phép nhân, phép chia các số tự nhiên",
+        "question": "Nếu trong phép chia mà số dư bằng 0, thì ta gọi đó là phép chia gì?",
+        "purpose": "Phép chia hết."
+      },
+      {
+        "id": "math6-q20",
+        "lesson": "Bài 4: Phép nhân, phép chia các số tự nhiên",
+        "question": "Trong mọi phép chia, \"số chia\" có được phép bằng 0 không?",
+        "purpose": "Không bao giờ có phép chia cho 0."
+      },
+      {
+        "id": "math6-q21",
+        "lesson": "Bài 5: Phép tính luỹ thừa với số mũ tự nhiên",
+        "question": "Bố/mẹ có phép tính , con hãy viết gọn bằng \"luỹ thừa\". Đâu là \"cơ số\", đâu là \"số mũ\"?",
+        "purpose": ", 5 là cơ số, 4 là số mũ."
+      },
+      {
+        "id": "math6-q22",
+        "lesson": "Bài 5: Phép tính luỹ thừa với số mũ tự nhiên",
+        "question": "và  còn có tên gọi đặc biệt nào khác?",
+        "purpose": "\"Bình phương\" (mũ 2) và \"Lập phương\" (mũ 3)."
+      },
+      {
+        "id": "math6-q23",
+        "lesson": "Bài 5: Phép tính luỹ thừa với số mũ tự nhiên",
+        "question": "có bằng  không? Tại sao?",
+        "purpose": "Chống bẫy. , còn ."
+      },
+      {
+        "id": "math6-q24",
+        "lesson": "Bài 5: Phép tính luỹ thừa với số mũ tự nhiên",
+        "question": "Khi nhân hai luỹ thừa cùng cơ số (VD: ), con tính thế nào?",
+        "purpose": "Giữ nguyên cơ số, cộng số mũ ()."
+      },
+      {
+        "id": "math6-q25",
+        "lesson": "Bài 5: Phép tính luỹ thừa với số mũ tự nhiên",
+        "question": "Khi chia hai luỹ thừa cùng cơ số (VD: ), con tính thế nào?  bằng mấy?",
+        "purpose": "Giữ nguyên cơ số, trừ số mũ (). Quy ước ."
+      },
+      {
+        "id": "math6-q26",
+        "lesson": "Bài 6: Thứ tự thực hiện các phép tính",
+        "question": "Bài toán không có ngoặc, có đủ cộng, trừ, nhân, chia, luỹ thừa, con tính gì đầu tiên?",
+        "purpose": "Luỹ thừa  Nhân/Chia  Cộng/Trừ."
+      },
+      {
+        "id": "math6-q27",
+        "lesson": "Bài 6: Thứ tự thực hiện các phép tính",
+        "question": "Nếu bài toán chỉ toàn cộng/trừ (hoặc nhân/chia), con tính theo chiều nào?",
+        "purpose": "Từ trái sang phải."
+      },
+      {
+        "id": "math6-q28",
+        "lesson": "Bài 6: Thứ tự thực hiện các phép tính",
+        "question": "Bài toán có 3 loại ngoặc: (), [], {}, con tính ngoặc nào trước?",
+        "purpose": "."
+      },
+      {
+        "id": "math6-q29",
+        "lesson": "Bài 6: Thứ tự thực hiện các phép tính",
+        "question": "Bạn Lan tính: . Đúng hay sai?",
+        "purpose": "Sai. Phải làm từ trái qua phải: ."
+      },
+      {
+        "id": "math6-q30",
+        "lesson": "Bài 6: Thứ tự thực hiện các phép tính",
+        "question": "Nếu đóng ngoặc thành  thì kết quả là bao nhiêu?",
+        "purpose": "Bằng 5. Thấy tác dụng của dấu ngoặc."
+      },
+      {
+        "id": "math6-q31",
+        "lesson": "Bài 7: Quan hệ chia hết. Tính chất chia hết",
+        "question": "Nếu  chia hết cho ,  gọi là gì của ?  gọi là gì của ?",
+        "purpose": "Khái niệm \"Bội\" (a) và \"Ước\" (b)."
+      },
+      {
+        "id": "math6-q32",
+        "lesson": "Bài 7: Quan hệ chia hết. Tính chất chia hết",
+        "question": "Muốn tìm các \"bội\" của số 6, con dùng phép tính gì?",
+        "purpose": "Nhân 6 lần lượt với 0, 1, 2, 3..."
+      },
+      {
+        "id": "math6-q33",
+        "lesson": "Bài 7: Quan hệ chia hết. Tính chất chia hết",
+        "question": "Muốn tìm các \"ước\" của số 10, con làm thế nào?",
+        "purpose": "Lấy 10 chia lần lượt cho các số từ 1 đến 10."
+      },
+      {
+        "id": "math6-q34",
+        "lesson": "Bài 7: Quan hệ chia hết. Tính chất chia hết",
+        "question": "15 chia hết cho 5, 20 chia hết cho 5. Không cần cộng, tổng  có chia hết cho 5 không?",
+        "purpose": "Tính chất chia hết của một tổng (Có)."
+      },
+      {
+        "id": "math6-q35",
+        "lesson": "Bài 7: Quan hệ chia hết. Tính chất chia hết",
+        "question": "Tổng 3 số, 2 số đầu chia hết cho 4, số cuối không chia hết cho 4. Tổng có chia hết cho 4 không?",
+        "purpose": "Không chia hết."
+      },
+      {
+        "id": "math6-q36",
+        "lesson": "Bài 8 & 9: Dấu hiệu chia hết",
+        "question": "Làm sao biết ngay một số chia hết cho 2 hay cho 5?",
+        "purpose": "Xét chữ số tận cùng (Cho 2: 0,2,4,6,8; Cho 5: 0,5)."
+      },
+      {
+        "id": "math6-q37",
+        "lesson": "Bài 8 & 9: Dấu hiệu chia hết",
+        "question": "Một số muốn chia hết cho CẢ 2 và 5 thì tận cùng phải là số mấy?",
+        "purpose": "Số 0."
+      },
+      {
+        "id": "math6-q38",
+        "lesson": "Bài 8 & 9: Dấu hiệu chia hết",
+        "question": "Dấu hiệu chia hết cho 3 và 9 có điểm gì khác với chia hết cho 2 và 5?",
+        "purpose": "Phải xét \"tổng các chữ số\"."
+      },
+      {
+        "id": "math6-q39",
+        "lesson": "Bài 8 & 9: Dấu hiệu chia hết",
+        "question": "Số chia hết cho 9 thì có chắc chia hết cho 3 không? Và ngược lại?",
+        "purpose": "Chia hết cho 9 thì chắc chắn chia hết cho 3. Ngược lại thì không chắc."
+      },
+      {
+        "id": "math6-q40",
+        "lesson": "Bài 8 & 9: Dấu hiệu chia hết",
+        "question": "Cho số . Tìm dấu  để số này chia hết cho 3.",
+        "purpose": "Điền ."
+      },
+      {
+        "id": "math6-q41",
+        "lesson": "Bài 10: Số nguyên tố. Hợp số",
+        "question": "\"Số nguyên tố\" là gì? Kể 3 số nguyên tố nhỏ nhất.",
+        "purpose": "Lớn hơn 1, CHỈ có 2 ước là 1 và chính nó. Gồm: 2, 3, 5."
+      },
+      {
+        "id": "math6-q42",
+        "lesson": "Bài 10: Số nguyên tố. Hợp số",
+        "question": "Tại sao số 0 và số 1 không phải Số nguyên tố cũng không phải Hợp số?",
+        "purpose": "Vì không thoả mãn điều kiện \"lớn hơn 1\"."
+      },
+      {
+        "id": "math6-q43",
+        "lesson": "Bài 10: Số nguyên tố. Hợp số",
+        "question": "Có số nguyên tố nào là số chẵn không?",
+        "purpose": "Duy nhất số 2."
+      },
+      {
+        "id": "math6-q44",
+        "lesson": "Bài 11, 12, 13: Phân tích TSNT, ƯCLN, BCNN",
+        "question": "Phân tích một số ra thừa số nguyên tố là làm gì? Tại sao không viết là ?",
+        "purpose": "Biến thành phép nhân toàn số nguyên tố. Số 4 là hợp số nên không được."
+      },
+      {
+        "id": "math6-q45",
+        "lesson": "Bài 11, 12, 13: Phân tích TSNT, ƯCLN, BCNN",
+        "question": "ƯCLN và BCNN khác nhau thế nào ở bước \"chọn thừa số\" và \"chọn số mũ\"?",
+        "purpose": "ƯCLN: Chung + mũ nhỏ nhất. BCNN: Chung & riêng + mũ lớn nhất."
+      },
+      {
+        "id": "math6-q46",
+        "lesson": "Bài 11, 12, 13: Phân tích TSNT, ƯCLN, BCNN",
+        "question": "Hai số nguyên tố cùng nhau có ƯCLN bằng mấy? BCNN tính thế nào?",
+        "purpose": "ƯCLN = 1. BCNN = tích hai số đó."
+      },
+      {
+        "id": "math6-q47",
+        "lesson": "Bài 11, 12, 13: Phân tích TSNT, ƯCLN, BCNN",
+        "question": "Ứng dụng của ƯCLN và BCNN trong phân số là gì?",
+        "purpose": "ƯCLN dùng để rút gọn tối giản. BCNN dùng để quy đồng mẫu."
+      },
+      {
+        "id": "math6-q48",
+        "lesson": "Bài 1 & 2: Số nguyên âm. Tập hợp số nguyên",
+        "question": "Số nguyên âm thường dùng làm gì trong đời thực?",
+        "purpose": "Chỉ nhiệt độ dưới 0, độ sâu dưới mực nước biển, tiền nợ."
+      },
+      {
+        "id": "math6-q49",
+        "lesson": "Bài 1 & 2: Số nguyên âm. Tập hợp số nguyên",
+        "question": "Tập hợp số nguyên  gồm những thành phần nào? Số 0 là âm hay dương?",
+        "purpose": "Gồm nguyên âm, 0, nguyên dương. Số 0 không âm không dương."
+      },
+      {
+        "id": "math6-q50",
+        "lesson": "Bài 1 & 2: Số nguyên âm. Tập hợp số nguyên",
+        "question": "\"Số đối\" của 7 và -15 là gì?",
+        "purpose": "Là -7 và 15."
+      },
+      {
+        "id": "math6-q51",
+        "lesson": "Bài 1 & 2: Số nguyên âm. Tập hợp số nguyên",
+        "question": "So sánh -5 và -10, số nào lớn hơn?",
+        "purpose": "-5 lớn hơn."
+      },
+      {
+        "id": "math6-q52",
+        "lesson": "Bài 3 & 4: Phép cộng, trừ. Quy tắc dấu ngoặc",
+        "question": "Cộng hai số nguyên âm (VD: -3 + -4) tính thế nào?",
+        "purpose": "Cộng hai số dương rồi đặt dấu trừ (-7)."
+      },
+      {
+        "id": "math6-q53",
+        "lesson": "Bài 3 & 4: Phép cộng, trừ. Quy tắc dấu ngoặc",
+        "question": "Cộng hai số khác dấu (VD: -10 + 6) thì làm phép cộng hay trừ?",
+        "purpose": "Làm phép trừ, lấy dấu số lớn (-4)."
+      },
+      {
+        "id": "math6-q54",
+        "lesson": "Bài 3 & 4: Phép cộng, trừ. Quy tắc dấu ngoặc",
+        "question": "Để trừ số nguyên (VD: 5 - 8), ta chuyển thành phép gì?",
+        "purpose": "Chuyển thành cộng số đối: 5 + (-8)."
+      },
+      {
+        "id": "math6-q55",
+        "lesson": "Bài 3 & 4: Phép cộng, trừ. Quy tắc dấu ngoặc",
+        "question": "Đứng trước dấu ngoặc là dấu trừ (-), khi phá ngoặc con phải làm gì?",
+        "purpose": "\"Đổi dấu\" toàn bộ bên trong."
+      },
+      {
+        "id": "math6-q56",
+        "lesson": "Bài 5 & 6: Phép nhân, chia số nguyên",
+        "question": "Nhân (hoặc chia) hai số cùng dấu âm (VD: -4 x -5) ra kết quả gì?",
+        "purpose": "Âm nhân âm ra dương (20)."
+      },
+      {
+        "id": "math6-q57",
+        "lesson": "Bài 5 & 6: Phép nhân, chia số nguyên",
+        "question": "Nhân (hoặc chia) hai số khác dấu ra kết quả gì?",
+        "purpose": "Luôn ra âm."
+      },
+      {
+        "id": "math6-q58",
+        "lesson": "Bài 5 & 6: Phép nhân, chia số nguyên",
+        "question": "Dãy 3 phép nhân toàn số âm thì kết quả cuối cùng là âm hay dương?",
+        "purpose": "Lẻ thừa số âm -> ra âm."
+      },
+      {
+        "id": "math6-q59",
+        "lesson": "Bài 1, 2, 3, 4: Nhận diện các hình",
+        "question": "Tam giác đều có đặc điểm gì về cạnh và góc?",
+        "purpose": "3 cạnh bằng nhau, 3 góc bằng nhau."
+      },
+      {
+        "id": "math6-q60",
+        "lesson": "Bài 1, 2, 3, 4: Nhận diện các hình",
+        "question": "Hình vuông và hình thoi khác nhau ở điểm nào về góc và đường chéo?",
+        "purpose": "Vuông có 4 góc vuông, 2 đường chéo bằng nhau. Thoi có 2 đường chéo vuông góc."
+      },
+      {
+        "id": "math6-q61",
+        "lesson": "Bài 1, 2, 3, 4: Nhận diện các hình",
+        "question": "Hình bình hành có 2 đường chéo thế nào?",
+        "purpose": "Cắt nhau tại trung điểm."
+      },
+      {
+        "id": "math6-q62",
+        "lesson": "Bài 1, 2, 3, 4: Nhận diện các hình",
+        "question": "Hình thang thế nào gọi là hình thang cân?",
+        "purpose": "Có 2 góc kề 1 đáy bằng nhau, 2 đường chéo bằng nhau."
+      },
+      {
+        "id": "math6-q63",
+        "lesson": "Bài 5, 6, 7: Tính đối xứng",
+        "question": "\"Trục đối xứng\" khác \"Tâm đối xứng\" ở điểm nào?",
+        "purpose": "Trục là đường thẳng để gập mép. Tâm là một điểm để quay 180 độ."
+      },
+      {
+        "id": "math6-q64",
+        "lesson": "Bài 5, 6, 7: Tính đối xứng",
+        "question": "Tam giác đều có tâm đối xứng không?",
+        "purpose": "KHÔNG có tâm, chỉ có 3 trục đối xứng."
+      },
+      {
+        "id": "math6-q65",
+        "lesson": "Bài 5, 6, 7: Tính đối xứng",
+        "question": "Hình tròn có bao nhiêu trục đối xứng?",
+        "purpose": "Có vô số (các đường kính)."
+      },
+      {
+        "id": "math6-q66",
+        "lesson": "Bài 5, 6, 7: Tính đối xứng",
+        "question": "Hình bình hành có trục đối xứng không? Có tâm đối xứng không?",
+        "purpose": "KHÔNG có trục đối xứng, CÓ tâm đối xứng (giao 2 đường chéo)."
+      },
+      {
+        "id": "math6-q67",
+        "lesson": "Bài 5, 6, 7: Tính đối xứng",
+        "question": "Giao điểm 2 đường chéo là tâm đối xứng của những hình nào?",
+        "purpose": "Hình vuông, hình chữ nhật, hình bình hành, hình thoi."
+      }
+    ]
+  }
+}
