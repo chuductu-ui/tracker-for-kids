@@ -2281,7 +2281,7 @@
         "id": "math6-q1",
         "lesson": "Bài 1: Tập hợp",
         "question": "\"Tập hợp\" là gì? Con hãy lấy một ví dụ về một tập hợp các đồ vật xung quanh con ngay lúc này.",
-        "purpose": "Kiểm tra con có hiểu khái niệm cơ bản không. (VD: tập hợp các cuốn sách trên bàn)."
+        "purpose": "Kiểm tra con có hiểu khái niệm cơ bản không. Con cần tự chỉ ra được một nhóm đồ vật (VD: tập hợp các cuốn sách trên bàn)."
       },
       {
         "id": "math6-q2",
@@ -2292,50 +2292,50 @@
       {
         "id": "math6-q3",
         "lesson": "Bài 1: Tập hợp",
-        "question": "Trong tập hợp  con vừa viết, số 3 và số 6 có nằm trong tập  không? Mình dùng kí hiệu gì để viết điều đó?",
+        "question": "Trong tập hợp  con vừa viết, số 3 và số 6 có nằm trong tập  không? Mình dùng kí hiệu gì (thuộc/không thuộc) để viết điều đó?",
         "purpose": "Giúp con ghi nhớ kí hiệu  (thuộc) và  (không thuộc)."
       },
       {
         "id": "math6-q4",
         "lesson": "Bài 1: Tập hợp",
-        "question": "Ngoài cách \"liệt kê\", bài học còn chỉ cho con cách nào khác để viết tập hợp  đó không?",
-        "purpose": "Nhắc đến cách: \"Chỉ ra tính chất đặc trưng cho các phần tử\"."
+        "question": "Ngoài cách \"liệt kê\" từng số ra, bài học còn chỉ cho con cách nào khác để viết tập hợp  đó không?",
+        "purpose": "Con cần nhắc đến cách thứ hai: \"Chỉ ra tính chất đặc trưng cho các phần tử\"."
       },
       {
         "id": "math6-q5",
         "lesson": "Bài 1: Tập hợp",
-        "question": "Để vẽ một tập hợp thành hình cho dễ nhìn, người ta thường dùng biểu đồ gì? Con thử vẽ tập hợp  bằng biểu đồ đó xem.",
+        "question": "Để vẽ một tập hợp thành hình cho dễ nhìn, người ta thường dùng biểu đồ gì nhỉ? Con thử vẽ tập hợp  bằng biểu đồ đó xem sao.",
         "purpose": "Kiểm tra khái niệm \"Biểu đồ Ven\" (vòng kín)."
       },
       {
         "id": "math6-q6",
         "lesson": "Bài 2: Tập hợp các số tự nhiên",
-        "question": "Tập hợp các số tự nhiên kí hiệu là chữ gì? Nó khác gì so với tập hợp ?",
-        "purpose": "Phân biệt  (bắt đầu từ 0) và  (bắt đầu từ 1)."
+        "question": "Tập hợp các số tự nhiên kí hiệu là chữ gì? Nó khác gì so với tập hợp kí hiệu là ?",
+        "purpose": "Con phân biệt được  (bắt đầu từ 0) và  (bắt đầu từ 1)."
       },
       {
         "id": "math6-q7",
         "lesson": "Bài 2: Tập hợp các số tự nhiên",
         "question": "Con hãy viết số \"Năm nghìn không trăm hai mươi mốt\". Số này có chữ số hàng trăm là mấy? Chữ số hàng chục là mấy?",
-        "purpose": "Kiểm tra cấu tạo thập phân."
+        "purpose": "Kiểm tra cấu tạo thập phân của số tự nhiên."
       },
       {
         "id": "math6-q8",
         "lesson": "Bài 2: Tập hợp các số tự nhiên",
-        "question": "Trên tia số, nếu số  nhỏ hơn số  thì điểm  nằm ở bên trái hay bên phải điểm ?",
-        "purpose": "Hình dung trực quan: số nhỏ nằm bên trái."
+        "question": "Trên tia số mũi tên hướng từ trái sang phải, nếu số  nhỏ hơn số  thì điểm biểu diễn số  nằm ở bên trái hay bên phải điểm ?",
+        "purpose": "Giúp con hình dung trực quan về thứ tự lớn bé trên tia số (số nhỏ nằm bên trái)."
       },
       {
         "id": "math6-q9",
         "lesson": "Bài 2: Tập hợp các số tự nhiên",
         "question": "Con hãy đọc các số La Mã sau: V, IX, XIV, XX.",
-        "purpose": "Cách đọc số La Mã (5, 9, 14, 20)."
+        "purpose": "Kiểm tra cách đọc số La Mã cơ bản (5, 9, 14, 20)."
       },
       {
         "id": "math6-q10",
         "lesson": "Bài 2: Tập hợp các số tự nhiên",
-        "question": "Làm thế nào để so sánh hai số tự nhiên có số lượng chữ số khác nhau (VD: 987 và 1234)? Nếu bằng chữ số thì sao?",
-        "purpose": "Nêu quy tắc: Số nhiều chữ số hơn thì lớn hơn; nếu bằng thì so từng hàng từ trái sang phải."
+        "question": "Làm thế nào để so sánh hai số tự nhiên có số lượng chữ số khác nhau (VD: 987 và 1234)? Thế nếu số lượng chữ số bằng nhau thì sao?",
+        "purpose": "Con nêu được quy tắc: Số nào nhiều chữ số hơn thì lớn hơn; nếu bằng thì so từng hàng từ trái sang phải."
       },
       {
         "id": "math6-q11",
@@ -2346,14 +2346,14 @@
       {
         "id": "math6-q12",
         "lesson": "Bài 3: Phép cộng, phép trừ các số tự nhiên",
-        "question": "Phép cộng có những tính chất gì giúp mình tính nhẩm nhanh hơn?",
-        "purpose": "Tính chất giao hoán và Tính chất kết hợp."
+        "question": "Phép cộng có những tính chất gì giúp mình tính nhẩm nhanh hơn? (Gợi ý: khi đổi chỗ hoặc gộp các số).",
+        "purpose": "Con nêu được: Tính chất giao hoán và Tính chất kết hợp."
       },
       {
         "id": "math6-q13",
         "lesson": "Bài 3: Phép cộng, phép trừ các số tự nhiên",
         "question": "Bất kì số nào cộng với số 0 thì kết quả sẽ ra sao?",
-        "purpose": "Bằng chính nó."
+        "purpose": "Nắm được tính chất cộng với số 0 (bằng chính nó)."
       },
       {
         "id": "math6-q14",
@@ -2364,320 +2364,698 @@
       {
         "id": "math6-q15",
         "lesson": "Bài 3: Phép cộng, phép trừ các số tự nhiên",
-        "question": "Để thực hiện phép trừ số tự nhiên, \"số bị trừ\" phải có điều kiện gì so với \"số trừ\"?",
-        "purpose": "Số bị trừ phải lớn hơn hoặc bằng số trừ."
+        "question": "Để thực hiện được một phép trừ trong tập số tự nhiên, \"số bị trừ\" phải có điều kiện gì so với \"số trừ\"?",
+        "purpose": "Hiểu điều kiện cốt lõi: Số bị trừ phải lớn hơn hoặc bằng số trừ."
       },
       {
         "id": "math6-q16",
         "lesson": "Bài 4: Phép nhân, phép chia các số tự nhiên",
-        "question": "Trong phép nhân , số 7 và số 6 gọi là gì, số 42 gọi là gì? Ở cấp 2, ta dùng dấu gì thay cho \"\"?",
-        "purpose": "Nhớ từ \"thừa số\", \"tích\" và biết dùng dấu chấm \".\"."
+        "question": "Trong phép nhân , số 7 và số 6 gọi là gì, số 42 gọi là gì? Ở cấp 2, ta dùng dấu gì để thay cho dấu \"\"?",
+        "purpose": "Nhớ từ \"thừa số\", \"tích\" và biết dùng dấu chấm \".\" thay cho dấu nhân."
       },
       {
         "id": "math6-q17",
         "lesson": "Bài 4: Phép nhân, phép chia các số tự nhiên",
-        "question": "Tính chất nào của phép nhân giúp nó \"bắt tay\" được với phép cộng để tính nhanh?",
-        "purpose": "Tính chất phân phối của phép nhân đối với phép cộng."
+        "question": "Tính chất nào của phép nhân giúp nó \"bắt tay\" được với phép cộng để tính nhanh? (VD: ).",
+        "purpose": "Con nhớ được \"Tính chất phân phối của phép nhân đối với phép cộng\"."
       },
       {
         "id": "math6-q18",
         "lesson": "Bài 4: Phép nhân, phép chia các số tự nhiên",
         "question": "Trong phép chia có dư, \"số dư\" bắt buộc phải có điều kiện gì so với \"số chia\"?",
-        "purpose": "Số dư luôn phải bé hơn số chia."
+        "purpose": "Con phải khắc cốt ghi tâm: Số dư luôn phải bé hơn số chia."
       },
       {
         "id": "math6-q19",
         "lesson": "Bài 4: Phép nhân, phép chia các số tự nhiên",
         "question": "Nếu trong phép chia mà số dư bằng 0, thì ta gọi đó là phép chia gì?",
-        "purpose": "Phép chia hết."
+        "purpose": "Ôn lại khái niệm phép chia hết."
       },
       {
         "id": "math6-q20",
         "lesson": "Bài 4: Phép nhân, phép chia các số tự nhiên",
         "question": "Trong mọi phép chia, \"số chia\" có được phép bằng 0 không?",
-        "purpose": "Không bao giờ có phép chia cho 0."
+        "purpose": "Nhắc nhở quy tắc toán học quan trọng: Không có phép chia cho 0."
       },
       {
         "id": "math6-q21",
         "lesson": "Bài 5: Phép tính luỹ thừa với số mũ tự nhiên",
-        "question": "Bố/mẹ có phép tính , con hãy viết gọn bằng \"luỹ thừa\". Đâu là \"cơ số\", đâu là \"số mũ\"?",
-        "purpose": ", 5 là cơ số, 4 là số mũ."
+        "question": "Bố/mẹ có phép tính , con hãy viết gọn lại bằng \"luỹ thừa\". Trong cách viết đó, đâu là \"cơ số\", đâu là \"số mũ\"?",
+        "purpose": "Kiểm tra cách chuyển phép nhân thành luỹ thừa (), 5 là cơ số, 4 là số mũ."
       },
       {
         "id": "math6-q22",
         "lesson": "Bài 5: Phép tính luỹ thừa với số mũ tự nhiên",
-        "question": "và  còn có tên gọi đặc biệt nào khác?",
-        "purpose": "\"Bình phương\" (mũ 2) và \"Lập phương\" (mũ 3)."
+        "question": "và  còn có tên gọi đặc biệt nào khác ngoài cách đọc là \"ba mũ hai\" và \"ba mũ ba\"?",
+        "purpose": "Biết thuật ngữ \"Bình phương\" (mũ 2) và \"Lập phương\" (mũ 3)."
       },
       {
         "id": "math6-q23",
         "lesson": "Bài 5: Phép tính luỹ thừa với số mũ tự nhiên",
         "question": "có bằng  không? Tại sao?",
-        "purpose": "Chống bẫy. , còn ."
+        "purpose": "Câu hỏi \"chống bẫy\" quan trọng nhất. Con phải giải thích được , còn ."
       },
       {
         "id": "math6-q24",
         "lesson": "Bài 5: Phép tính luỹ thừa với số mũ tự nhiên",
-        "question": "Khi nhân hai luỹ thừa cùng cơ số (VD: ), con tính thế nào?",
-        "purpose": "Giữ nguyên cơ số, cộng số mũ ()."
+        "question": "Khi nhân hai luỹ thừa có cùng cơ số (VD: ), con tính như thế nào?",
+        "purpose": "Nhớ quy tắc: Giữ nguyên cơ số, cộng các số mũ ()."
       },
       {
         "id": "math6-q25",
         "lesson": "Bài 5: Phép tính luỹ thừa với số mũ tự nhiên",
-        "question": "Khi chia hai luỹ thừa cùng cơ số (VD: ), con tính thế nào?  bằng mấy?",
-        "purpose": "Giữ nguyên cơ số, trừ số mũ (). Quy ước ."
+        "question": "Khi chia hai luỹ thừa có cùng cơ số (VD: ), con tính như thế nào? Số  được quy ước bằng mấy?",
+        "purpose": "Nhớ quy tắc: Giữ nguyên cơ số, trừ số mũ (). Nhớ quy ước ."
       },
       {
         "id": "math6-q26",
         "lesson": "Bài 6: Thứ tự thực hiện các phép tính",
-        "question": "Bài toán không có ngoặc, có đủ cộng, trừ, nhân, chia, luỹ thừa, con tính gì đầu tiên?",
-        "purpose": "Luỹ thừa  Nhân/Chia  Cộng/Trừ."
+        "question": "Nếu một bài toán không có ngoặc, nhưng lại có đủ cộng, trừ, nhân, chia và cả luỹ thừa, con sẽ tính phép tính nào đầu tiên?",
+        "purpose": "Thứ tự chuẩn: Luỹ thừa  Nhân/Chia  Cộng/Trừ."
       },
       {
         "id": "math6-q27",
         "lesson": "Bài 6: Thứ tự thực hiện các phép tính",
-        "question": "Nếu bài toán chỉ toàn cộng/trừ (hoặc nhân/chia), con tính theo chiều nào?",
-        "purpose": "Từ trái sang phải."
+        "question": "Nếu bài toán chỉ có toàn phép cộng và trừ (hoặc chỉ toàn nhân và chia), con sẽ tính theo chiều nào?",
+        "purpose": "Trả lời đúng chiều từ trái sang phải."
       },
       {
         "id": "math6-q28",
         "lesson": "Bài 6: Thứ tự thực hiện các phép tính",
-        "question": "Bài toán có 3 loại ngoặc: (), [], {}, con tính ngoặc nào trước?",
-        "purpose": "."
+        "question": "Nếu bài toán có chứa cả ba loại ngoặc: ngoặc tròn (), ngoặc vuông [] và ngoặc nhọn {}, con tính ngoặc nào trước?",
+        "purpose": "Thứ tự phá ngoặc: ."
       },
       {
         "id": "math6-q29",
         "lesson": "Bài 6: Thứ tự thực hiện các phép tính",
-        "question": "Bạn Lan tính: . Đúng hay sai?",
-        "purpose": "Sai. Phải làm từ trái qua phải: ."
+        "question": "Bạn Lan tính: . Lan làm đúng hay sai? Vì sao?",
+        "purpose": "Lan làm sai vì không làm từ trái qua phải. Đúng phải là: ."
       },
       {
         "id": "math6-q30",
         "lesson": "Bài 6: Thứ tự thực hiện các phép tính",
-        "question": "Nếu đóng ngoặc thành  thì kết quả là bao nhiêu?",
-        "purpose": "Bằng 5. Thấy tác dụng của dấu ngoặc."
+        "question": "Nếu mẹ/bố đóng ngoặc lại thành  thì kết quả sẽ là bao nhiêu?",
+        "purpose": "Thấy được tác dụng của dấu ngoặc làm thay đổi thứ tự tính (kết quả bằng 5)."
       },
       {
         "id": "math6-q31",
         "lesson": "Bài 7: Quan hệ chia hết. Tính chất chia hết",
-        "question": "Nếu  chia hết cho ,  gọi là gì của ?  gọi là gì của ?",
-        "purpose": "Khái niệm \"Bội\" (a) và \"Ước\" (b)."
+        "question": "Nếu số  chia hết cho số , thì  được gọi là gì của ? Và  được gọi là gì của ?",
+        "purpose": "Nắm được cặp khái niệm \"Bội\" (a) và \"Ước\" (b)."
       },
       {
         "id": "math6-q32",
         "lesson": "Bài 7: Quan hệ chia hết. Tính chất chia hết",
-        "question": "Muốn tìm các \"bội\" của số 6, con dùng phép tính gì?",
-        "purpose": "Nhân 6 lần lượt với 0, 1, 2, 3..."
+        "question": "Muốn tìm các \"bội\" của một số (ví dụ số 6), con sẽ dùng phép tính gì?",
+        "purpose": "Con trả lời được cách lấy số 6 nhân lần lượt với 0, 1, 2, 3..."
       },
       {
         "id": "math6-q33",
         "lesson": "Bài 7: Quan hệ chia hết. Tính chất chia hết",
-        "question": "Muốn tìm các \"ước\" của số 10, con làm thế nào?",
-        "purpose": "Lấy 10 chia lần lượt cho các số từ 1 đến 10."
+        "question": "Muốn tìm tất cả các \"ước\" của một số (ví dụ số 10), con làm như thế nào?",
+        "purpose": "Con trả lời được cách lấy 10 chia lần lượt cho các số từ 1 đến 10 xem chia hết cho số nào."
       },
       {
         "id": "math6-q34",
         "lesson": "Bài 7: Quan hệ chia hết. Tính chất chia hết",
-        "question": "15 chia hết cho 5, 20 chia hết cho 5. Không cần cộng, tổng  có chia hết cho 5 không?",
-        "purpose": "Tính chất chia hết của một tổng (Có)."
+        "question": "Nếu mẹ/bố có số 15 chia hết cho 5, và 20 cũng chia hết cho 5. Không cần cộng lại, con có biết tổng  có chia hết cho 5 không?",
+        "purpose": "Hiểu \"Tính chất chia hết của một tổng\"."
       },
       {
         "id": "math6-q35",
         "lesson": "Bài 7: Quan hệ chia hết. Tính chất chia hết",
-        "question": "Tổng 3 số, 2 số đầu chia hết cho 4, số cuối không chia hết cho 4. Tổng có chia hết cho 4 không?",
-        "purpose": "Không chia hết."
+        "question": "Trong một tổng có 3 số, 2 số đầu chia hết cho 4, nhưng số cuối cùng không chia hết cho 4. Vậy tổng đó có chia hết cho 4 không?",
+        "purpose": "Nhận biết tính chất không chia hết của một tổng (kết quả là Không)."
       },
       {
         "id": "math6-q36",
-        "lesson": "Bài 8 & 9: Dấu hiệu chia hết",
-        "question": "Làm sao biết ngay một số chia hết cho 2 hay cho 5?",
-        "purpose": "Xét chữ số tận cùng (Cho 2: 0,2,4,6,8; Cho 5: 0,5)."
+        "lesson": "Bài 8: Dấu hiệu chia hết cho 2, cho 5",
+        "question": "Nhìn lướt qua một số, làm sao con biết ngay nó có chia hết cho 2 hay không?",
+        "purpose": "Con xét chữ số tận cùng (0, 2, 4, 6, 8)."
       },
       {
         "id": "math6-q37",
-        "lesson": "Bài 8 & 9: Dấu hiệu chia hết",
-        "question": "Một số muốn chia hết cho CẢ 2 và 5 thì tận cùng phải là số mấy?",
-        "purpose": "Số 0."
+        "lesson": "Bài 8: Dấu hiệu chia hết cho 2, cho 5",
+        "question": "Những số không chia hết cho 2 được gọi chung là số gì?",
+        "purpose": "Nhớ khái niệm \"số lẻ\"."
       },
       {
         "id": "math6-q38",
-        "lesson": "Bài 8 & 9: Dấu hiệu chia hết",
-        "question": "Dấu hiệu chia hết cho 3 và 9 có điểm gì khác với chia hết cho 2 và 5?",
-        "purpose": "Phải xét \"tổng các chữ số\"."
+        "lesson": "Bài 8: Dấu hiệu chia hết cho 2, cho 5",
+        "question": "Dấu hiệu để nhận biết một số chia hết cho 5 là gì?",
+        "purpose": "Chữ số tận cùng là 0 hoặc 5."
       },
       {
         "id": "math6-q39",
-        "lesson": "Bài 8 & 9: Dấu hiệu chia hết",
-        "question": "Số chia hết cho 9 thì có chắc chia hết cho 3 không? Và ngược lại?",
-        "purpose": "Chia hết cho 9 thì chắc chắn chia hết cho 3. Ngược lại thì không chắc."
+        "lesson": "Bài 8: Dấu hiệu chia hết cho 2, cho 5",
+        "question": "Một số muốn chia hết cho CẢ 2 và 5 thì chữ số tận cùng của nó bắt buộc phải là số mấy?",
+        "purpose": "Giao của hai tập hợp (chỉ có số 0)."
       },
       {
         "id": "math6-q40",
-        "lesson": "Bài 8 & 9: Dấu hiệu chia hết",
-        "question": "Cho số . Tìm dấu  để số này chia hết cho 3.",
-        "purpose": "Điền ."
+        "lesson": "Bài 8: Dấu hiệu chia hết cho 2, cho 5",
+        "question": "Số 1234 có chia hết cho 2 không? Có chia hết cho 5 không?",
+        "purpose": "Rèn luyện kỹ năng quan sát nhanh chữ số tận cùng."
       },
       {
         "id": "math6-q41",
-        "lesson": "Bài 10: Số nguyên tố. Hợp số",
-        "question": "\"Số nguyên tố\" là gì? Kể 3 số nguyên tố nhỏ nhất.",
-        "purpose": "Lớn hơn 1, CHỈ có 2 ước là 1 và chính nó. Gồm: 2, 3, 5."
+        "lesson": "Bài 9: Dấu hiệu chia hết cho 3, cho 9",
+        "question": "Dấu hiệu chia hết cho 3 và 9 có điểm gì đặc biệt, khác hẳn với chia hết cho 2 và 5?",
+        "purpose": "Trả lời được: Phải xét \"tổng các chữ số\" thay vì chỉ nhìn \"chữ số tận cùng\"."
       },
       {
         "id": "math6-q42",
-        "lesson": "Bài 10: Số nguyên tố. Hợp số",
-        "question": "Tại sao số 0 và số 1 không phải Số nguyên tố cũng không phải Hợp số?",
-        "purpose": "Vì không thoả mãn điều kiện \"lớn hơn 1\"."
+        "lesson": "Bài 9: Dấu hiệu chia hết cho 3, cho 9",
+        "question": "Làm sao để biết một số to đùng (như 3456) có chia hết cho 9 hay không?",
+        "purpose": "Cộng , 18 không chia hết cho 9 nên số đó không chia hết cho 9."
       },
       {
         "id": "math6-q43",
-        "lesson": "Bài 10: Số nguyên tố. Hợp số",
-        "question": "Có số nguyên tố nào là số chẵn không?",
-        "purpose": "Duy nhất số 2."
+        "lesson": "Bài 9: Dấu hiệu chia hết cho 3, cho 9",
+        "question": "Một số chia hết cho 9 thì có chắc chắn chia hết cho 3 không?",
+        "purpose": "Có, vì 9 là bội của 3."
       },
       {
         "id": "math6-q44",
-        "lesson": "Bài 11, 12, 13: Phân tích TSNT, ƯCLN, BCNN",
-        "question": "Phân tích một số ra thừa số nguyên tố là làm gì? Tại sao không viết là ?",
-        "purpose": "Biến thành phép nhân toàn số nguyên tố. Số 4 là hợp số nên không được."
+        "lesson": "Bài 9: Dấu hiệu chia hết cho 3, cho 9",
+        "question": "Vậy ngược lại, một số chia hết cho 3 thì có chắc chắn chia hết cho 9 không?",
+        "purpose": "Không chắc chắn (con có thể lấy ví dụ số 12 chia hết cho 3 nhưng không chia cho 9)."
       },
       {
         "id": "math6-q45",
-        "lesson": "Bài 11, 12, 13: Phân tích TSNT, ƯCLN, BCNN",
-        "question": "ƯCLN và BCNN khác nhau thế nào ở bước \"chọn thừa số\" và \"chọn số mũ\"?",
-        "purpose": "ƯCLN: Chung + mũ nhỏ nhất. BCNN: Chung & riêng + mũ lớn nhất."
+        "lesson": "Bài 9: Dấu hiệu chia hết cho 3, cho 9",
+        "question": "Cho số . Con hãy tìm chữ số điền vào dấu  để số này chia hết cho 3.",
+        "purpose": ", cần thêm  để tổng chia hết cho 3."
       },
       {
         "id": "math6-q46",
-        "lesson": "Bài 11, 12, 13: Phân tích TSNT, ƯCLN, BCNN",
-        "question": "Hai số nguyên tố cùng nhau có ƯCLN bằng mấy? BCNN tính thế nào?",
-        "purpose": "ƯCLN = 1. BCNN = tích hai số đó."
+        "lesson": "Bài 10: Số nguyên tố. Hợp số",
+        "question": "\"Số nguyên tố\" là gì? Con hãy kể tên 3 số nguyên tố nhỏ nhất.",
+        "purpose": "Là số tự nhiên lớn hơn 1, CHỈ có 2 ước là 1 và chính nó. 3 số đầu là 2, 3, 5."
       },
       {
         "id": "math6-q47",
-        "lesson": "Bài 11, 12, 13: Phân tích TSNT, ƯCLN, BCNN",
-        "question": "Ứng dụng của ƯCLN và BCNN trong phân số là gì?",
-        "purpose": "ƯCLN dùng để rút gọn tối giản. BCNN dùng để quy đồng mẫu."
+        "lesson": "Bài 10: Số nguyên tố. Hợp số",
+        "question": "Hợp số khác gì với số nguyên tố?",
+        "purpose": "Hợp số có nhiều hơn 2 ước (ví dụ số 4, số 6)."
       },
       {
         "id": "math6-q48",
-        "lesson": "Bài 1 & 2: Số nguyên âm. Tập hợp số nguyên",
-        "question": "Số nguyên âm thường dùng làm gì trong đời thực?",
-        "purpose": "Chỉ nhiệt độ dưới 0, độ sâu dưới mực nước biển, tiền nợ."
+        "lesson": "Bài 10: Số nguyên tố. Hợp số",
+        "question": "Tại sao số 0 và số 1 lại không được xếp vào loại Số nguyên tố, mà cũng không phải Hợp số?",
+        "purpose": "Vì chúng không thoả mãn điều kiện \"lớn hơn 1\"."
       },
       {
         "id": "math6-q49",
-        "lesson": "Bài 1 & 2: Số nguyên âm. Tập hợp số nguyên",
-        "question": "Tập hợp số nguyên  gồm những thành phần nào? Số 0 là âm hay dương?",
-        "purpose": "Gồm nguyên âm, 0, nguyên dương. Số 0 không âm không dương."
+        "lesson": "Bài 10: Số nguyên tố. Hợp số",
+        "question": "Trong vô vàn số nguyên tố, có số nào là số chẵn không? Tại sao các số chẵn khác lại không phải là số nguyên tố?",
+        "purpose": "Chỉ có duy nhất số 2. Các số chẵn lớn hơn 2 đều chia hết cho 2 nên chắc chắn là hợp số."
       },
       {
         "id": "math6-q50",
-        "lesson": "Bài 1 & 2: Số nguyên âm. Tập hợp số nguyên",
-        "question": "\"Số đối\" của 7 và -15 là gì?",
-        "purpose": "Là -7 và 15."
+        "lesson": "Bài 10: Số nguyên tố. Hợp số",
+        "question": "Số 15 là số nguyên tố hay hợp số?",
+        "purpose": "Là hợp số vì ngoài 1 và 15, nó còn chia hết cho 3 và 5."
       },
       {
         "id": "math6-q51",
-        "lesson": "Bài 1 & 2: Số nguyên âm. Tập hợp số nguyên",
-        "question": "So sánh -5 và -10, số nào lớn hơn?",
-        "purpose": "-5 lớn hơn."
+        "lesson": "Bài 11: Phân tích một số ra thừa số nguyên tố",
+        "question": "Việc \"Phân tích một số ra thừa số nguyên tố\" nghĩa là mình đang làm hành động gì?",
+        "purpose": "Là biến số đó thành một \"phép nhân\" mà mọi thành phần đều là số nguyên tố."
       },
       {
         "id": "math6-q52",
-        "lesson": "Bài 3 & 4: Phép cộng, trừ. Quy tắc dấu ngoặc",
-        "question": "Cộng hai số nguyên âm (VD: -3 + -4) tính thế nào?",
-        "purpose": "Cộng hai số dương rồi đặt dấu trừ (-7)."
+        "lesson": "Bài 11: Phân tích một số ra thừa số nguyên tố",
+        "question": "Con thường dùng những cách nào để phân tích?",
+        "purpose": "Trả lời được 2 phương pháp: Sơ đồ rẽ nhánh (sơ đồ cây) hoặc Phép chia theo cột dọc."
       },
       {
         "id": "math6-q53",
-        "lesson": "Bài 3 & 4: Phép cộng, trừ. Quy tắc dấu ngoặc",
-        "question": "Cộng hai số khác dấu (VD: -10 + 6) thì làm phép cộng hay trừ?",
-        "purpose": "Làm phép trừ, lấy dấu số lớn (-4)."
+        "lesson": "Bài 11: Phân tích một số ra thừa số nguyên tố",
+        "question": "Nếu phân tích xong ra kết quả là , mình nên viết gọn lại thành gì cho chuẩn toán học?",
+        "purpose": "Dùng luỹ thừa viết thành ."
       },
       {
         "id": "math6-q54",
-        "lesson": "Bài 3 & 4: Phép cộng, trừ. Quy tắc dấu ngoặc",
-        "question": "Để trừ số nguyên (VD: 5 - 8), ta chuyển thành phép gì?",
-        "purpose": "Chuyển thành cộng số đối: 5 + (-8)."
+        "lesson": "Bài 11: Phân tích một số ra thừa số nguyên tố",
+        "question": "Khi phân tích số 12, bạn A chia cho 2 trước, bạn B chia cho 3 trước. Kết quả cuối cùng của hai bạn có khác nhau không?",
+        "purpose": "Trả lời: Kết quả không thay đổi (dù làm cách nào thì vẫn ra )."
       },
       {
         "id": "math6-q55",
-        "lesson": "Bài 3 & 4: Phép cộng, trừ. Quy tắc dấu ngoặc",
-        "question": "Đứng trước dấu ngoặc là dấu trừ (-), khi phá ngoặc con phải làm gì?",
-        "purpose": "\"Đổi dấu\" toàn bộ bên trong."
+        "lesson": "Bài 11: Phân tích một số ra thừa số nguyên tố",
+        "question": "Tại sao ta không được viết kết quả phân tích là ?",
+        "purpose": "Vì số 4 chưa phải là số nguyên tố (nó là hợp số)."
       },
       {
         "id": "math6-q56",
-        "lesson": "Bài 5 & 6: Phép nhân, chia số nguyên",
-        "question": "Nhân (hoặc chia) hai số cùng dấu âm (VD: -4 x -5) ra kết quả gì?",
-        "purpose": "Âm nhân âm ra dương (20)."
+        "lesson": "Bài 12: Ước chung và ước chung lớn nhất (ƯCLN)",
+        "question": "\"Ước chung\" của hai số là gì? Thế nào là ƯCLN?",
+        "purpose": "Ước chung là số cùng là ước của cả hai số. ƯCLN là số lớn nhất trong tập hợp đó."
       },
       {
         "id": "math6-q57",
-        "lesson": "Bài 5 & 6: Phép nhân, chia số nguyên",
-        "question": "Nhân (hoặc chia) hai số khác dấu ra kết quả gì?",
-        "purpose": "Luôn ra âm."
+        "lesson": "Bài 12: Ước chung và ước chung lớn nhất (ƯCLN)",
+        "question": "Để tìm ƯCLN qua 3 bước (phân tích ra TSNT), ở bước chọn thừa số, con sẽ chọn thừa số chung hay riêng? Số mũ lấy lớn nhất hay nhỏ nhất?",
+        "purpose": "Khắc sâu công thức: Chỉ lấy \"thừa số chung\" và \"số mũ nhỏ nhất\"."
       },
       {
         "id": "math6-q58",
-        "lesson": "Bài 5 & 6: Phép nhân, chia số nguyên",
-        "question": "Dãy 3 phép nhân toàn số âm thì kết quả cuối cùng là âm hay dương?",
-        "purpose": "Lẻ thừa số âm -> ra âm."
+        "lesson": "Bài 12: Ước chung và ước chung lớn nhất (ƯCLN)",
+        "question": "\"Hai số nguyên tố cùng nhau\" là hai số có đặc điểm gì? (ƯCLN của chúng bằng mấy?)",
+        "purpose": "ƯCLN của chúng bằng 1."
       },
       {
         "id": "math6-q59",
-        "lesson": "Bài 1, 2, 3, 4: Nhận diện các hình",
-        "question": "Tam giác đều có đặc điểm gì về cạnh và góc?",
-        "purpose": "3 cạnh bằng nhau, 3 góc bằng nhau."
+        "lesson": "Bài 12: Ước chung và ước chung lớn nhất (ƯCLN)",
+        "question": "Khi đã tìm được ƯCLN, làm cách nào nhanh nhất để liệt kê ra tất cả các Ước chung mà không bị sót?",
+        "purpose": "Con chỉ cần đi tìm các ước của chính cái ƯCLN đó."
       },
       {
         "id": "math6-q60",
-        "lesson": "Bài 1, 2, 3, 4: Nhận diện các hình",
-        "question": "Hình vuông và hình thoi khác nhau ở điểm nào về góc và đường chéo?",
-        "purpose": "Vuông có 4 góc vuông, 2 đường chéo bằng nhau. Thoi có 2 đường chéo vuông góc."
+        "lesson": "Bài 12: Ước chung và ước chung lớn nhất (ƯCLN)",
+        "question": "Ứng dụng của ƯCLN trong phân số là gì?",
+        "purpose": "Dùng để rút gọn phân số thành phân số tối giản (chia cả tử và mẫu cho ƯCLN)."
       },
       {
         "id": "math6-q61",
-        "lesson": "Bài 1, 2, 3, 4: Nhận diện các hình",
-        "question": "Hình bình hành có 2 đường chéo thế nào?",
-        "purpose": "Cắt nhau tại trung điểm."
+        "lesson": "Bài 13: Bội chung và bội chung nhỏ nhất (BCNN)",
+        "question": "Bội chung là gì? BCNN là số như thế nào?",
+        "purpose": "BCNN là số nhỏ nhất khác 0 trong tập các bội chung."
       },
       {
         "id": "math6-q62",
-        "lesson": "Bài 1, 2, 3, 4: Nhận diện các hình",
-        "question": "Hình thang thế nào gọi là hình thang cân?",
-        "purpose": "Có 2 góc kề 1 đáy bằng nhau, 2 đường chéo bằng nhau."
+        "lesson": "Bài 13: Bội chung và bội chung nhỏ nhất (BCNN)",
+        "question": "Bước chọn thừa số của BCNN khác gì so với ƯCLN?",
+        "purpose": "Phải chọn CẢ \"thừa số chung VÀ riêng\", và lấy \"số mũ lớn nhất\" (ngược hoàn toàn với ƯCLN)."
       },
       {
         "id": "math6-q63",
-        "lesson": "Bài 5, 6, 7: Tính đối xứng",
-        "question": "\"Trục đối xứng\" khác \"Tâm đối xứng\" ở điểm nào?",
-        "purpose": "Trục là đường thẳng để gập mép. Tâm là một điểm để quay 180 độ."
+        "lesson": "Bài 13: Bội chung và bội chung nhỏ nhất (BCNN)",
+        "question": "Nếu mẹ/bố có 2 số nguyên tố cùng nhau (ví dụ 4 và 5), thì BCNN của chúng được tính nhanh bằng cách nào?",
+        "purpose": "Chỉ cần lấy 2 số nhân với nhau ()."
       },
       {
         "id": "math6-q64",
-        "lesson": "Bài 5, 6, 7: Tính đối xứng",
-        "question": "Tam giác đều có tâm đối xứng không?",
-        "purpose": "KHÔNG có tâm, chỉ có 3 trục đối xứng."
+        "lesson": "Bài 13: Bội chung và bội chung nhỏ nhất (BCNN)",
+        "question": "Nếu số lớn chia hết cho số nhỏ (ví dụ 12 và 4), thì BCNN của chúng là số nào?",
+        "purpose": "Là chính số lớn đó (số 12)."
       },
       {
         "id": "math6-q65",
-        "lesson": "Bài 5, 6, 7: Tính đối xứng",
-        "question": "Hình tròn có bao nhiêu trục đối xứng?",
-        "purpose": "Có vô số (các đường kính)."
+        "lesson": "Bài 13: Bội chung và bội chung nhỏ nhất (BCNN)",
+        "question": "Tìm BCNN có ứng dụng cực kỳ quan trọng trong việc tính toán phân số nào?",
+        "purpose": "Dùng để quy đồng mẫu số chung của nhiều phân số."
       },
       {
         "id": "math6-q66",
-        "lesson": "Bài 5, 6, 7: Tính đối xứng",
-        "question": "Hình bình hành có trục đối xứng không? Có tâm đối xứng không?",
-        "purpose": "KHÔNG có trục đối xứng, CÓ tâm đối xứng (giao 2 đường chéo)."
+        "lesson": "Bài 1: Số nguyên âm",
+        "question": "Con thấy \"số nguyên âm\" xuất hiện trong những tình huống nào ở ngoài đời thực?",
+        "purpose": "Lắng nghe con kể được các ví dụ thực tế (nhiệt độ dưới 0 độ C, độ sâu dưới mực nước biển, hoặc số tiền nợ/lỗ)."
       },
       {
         "id": "math6-q67",
-        "lesson": "Bài 5, 6, 7: Tính đối xứng",
-        "question": "Giao điểm 2 đường chéo là tâm đối xứng của những hình nào?",
-        "purpose": "Hình vuông, hình chữ nhật, hình bình hành, hình thoi."
+        "lesson": "Bài 1: Số nguyên âm",
+        "question": "Bố/mẹ thấy dự báo thời tiết ghi nhiệt độ là \"-5°C\". Dấu trừ ở phía trước số 5 có ý nghĩa gì và con đọc nó như thế nào?",
+        "purpose": "Con biết cách đọc chuẩn là \"âm năm độ C\" hoặc \"trừ năm độ C\" và hiểu đó là nhiệt độ lạnh dưới mức 0 độ."
+      },
+      {
+        "id": "math6-q68",
+        "lesson": "Bài 1: Số nguyên âm",
+        "question": "Đỉnh núi Fansipan cao 3143 mét trên mực nước biển, còn một rãnh đại dương sâu 2000 mét dưới mực nước biển. Nếu dùng số nguyên, độ cao của rãnh đại dương viết thế nào?",
+        "purpose": "Con biết sử dụng dấu trừ để viết thành số -2000."
+      },
+      {
+        "id": "math6-q69",
+        "lesson": "Bài 1: Số nguyên âm",
+        "question": "Số 0 có phải là số nguyên âm không?",
+        "purpose": "Con phải khẳng định được số 0 là cột mốc ở giữa, không phải số nguyên âm và cũng không phải nguyên dương."
+      },
+      {
+        "id": "math6-q70",
+        "lesson": "Bài 1: Số nguyên âm",
+        "question": "Trong tin nhắn biến động số dư của ngân hàng, số tiền con mua đồ chơi bị trừ đi được ghi là số âm hay số dương?",
+        "purpose": "Nhận diện ứng dụng thực tế của số âm trong tài chính."
+      },
+      {
+        "id": "math6-q71",
+        "lesson": "Bài 2: Tập hợp các số nguyên",
+        "question": "Tập hợp các số nguyên kí hiệu là gì và bao gồm những \"thành phần\" nào?",
+        "purpose": "Con nhớ kí hiệu là chữ  và liệt kê đủ 3 thành phần: số nguyên âm, số 0, số nguyên dương."
+      },
+      {
+        "id": "math6-q72",
+        "lesson": "Bài 2: Tập hợp các số nguyên",
+        "question": "Trên một trục số nằm ngang, số âm và số dương nằm ở phía nào so với điểm 0?",
+        "purpose": "Giúp con hình dung không gian của trục số (âm nằm bên trái, dương nằm bên phải)."
+      },
+      {
+        "id": "math6-q73",
+        "lesson": "Bài 2: Tập hợp các số nguyên",
+        "question": "\"Số đối\" của số 7 là số nào? Thế số đối của số -15 là số nào?",
+        "purpose": "Hiểu cách tìm số đối bằng cách đảo dấu (là -7 và 15)."
+      },
+      {
+        "id": "math6-q74",
+        "lesson": "Bài 2: Tập hợp các số nguyên",
+        "question": "Hai số đối nhau nằm trên trục số có khoảng cách như thế nào so với điểm 0?",
+        "purpose": "Trả lời được từ khóa cốt lõi: chúng luôn \"cách đều\" điểm 0."
+      },
+      {
+        "id": "math6-q75",
+        "lesson": "Bài 2: Tập hợp các số nguyên",
+        "question": "Làm thế nào để so sánh hai số nguyên âm với nhau (ví dụ -5 và -10, số nào lớn hơn)?",
+        "purpose": "Nhớ quy tắc ngược của số âm: phần số đối nào càng lớn thì bản thân số âm đó càng nhỏ (-5 lớn hơn -10)."
+      },
+      {
+        "id": "math6-q76",
+        "lesson": "Bài 3: Phép cộng các số nguyên",
+        "question": "Khi cộng hai số nguyên dương (ví dụ 5 + 7), nó giống hệt phép toán nào mình đã học?",
+        "purpose": "Nhận ra nó hoàn toàn y hệt phép cộng số tự nhiên ở Tiểu học."
+      },
+      {
+        "id": "math6-q77",
+        "lesson": "Bài 3: Phép cộng các số nguyên",
+        "question": "Khi cộng hai số nguyên âm (ví dụ (-3) + (-4)), con tính thế nào và kết quả mang dấu gì?",
+        "purpose": "Nêu quy tắc cộng hai phần số dương lại rồi đặt dấu trừ lên trước (ra -7)."
+      },
+      {
+        "id": "math6-q78",
+        "lesson": "Bài 3: Phép cộng các số nguyên",
+        "question": "Khi cộng hai số khác dấu (ví dụ (-10) + 6), con sẽ thực chất làm phép cộng hay phép trừ? Kết quả mang dấu của số nào?",
+        "purpose": "Nhớ quy tắc: lấy số lớn trừ số bé, lấy dấu của số lớn hơn (kết quả ra -4)."
+      },
+      {
+        "id": "math6-q79",
+        "lesson": "Bài 3: Phép cộng các số nguyên",
+        "question": "Tổng của hai số đối nhau (ví dụ 100 và -100) luôn bằng bao nhiêu?",
+        "purpose": "Nhớ quy tắc cực kì hữu dụng: luôn bằng 0."
+      },
+      {
+        "id": "math6-q80",
+        "lesson": "Bài 3: Phép cộng các số nguyên",
+        "question": "Phép cộng số nguyên có những tính chất gì giúp mình ghép số tính nhẩm nhanh?",
+        "purpose": "Nêu được \"Tính chất giao hoán\" và \"Tính chất kết hợp\"."
+      },
+      {
+        "id": "math6-q81",
+        "lesson": "Bài 4: Phép trừ các số nguyên. Quy tắc dấu ngoặc",
+        "question": "Để trừ một số nguyên (ví dụ 5 - 8), quy tắc là con sẽ chuyển nó thành phép tính gì?",
+        "purpose": "Nhớ quy tắc cốt lõi: Chuyển phép trừ thành phép cộng với số đối: 5 + (-8)."
+      },
+      {
+        "id": "math6-q82",
+        "lesson": "Bài 4: Phép trừ các số nguyên. Quy tắc dấu ngoặc",
+        "question": "Phép tính 10 - (-3) sau khi đổi dấu sẽ trở thành phép tính gì?",
+        "purpose": "Nhớ phản xạ trừ đi số âm là cộng với số dương: 10 + 3."
+      },
+      {
+        "id": "math6-q83",
+        "lesson": "Bài 4: Phép trừ các số nguyên. Quy tắc dấu ngoặc",
+        "question": "\"Quy tắc dấu ngoặc\": Nếu đứng trước dấu ngoặc là dấu cộng (+), khi phá ngoặc các dấu bên trong thay đổi ra sao?",
+        "purpose": "Trả lời đúng là \"Giữ nguyên\" toàn bộ dấu."
+      },
+      {
+        "id": "math6-q84",
+        "lesson": "Bài 4: Phép trừ các số nguyên. Quy tắc dấu ngoặc",
+        "question": "Vậy nếu đứng trước dấu ngoặc là dấu trừ (-), khi phá ngoặc con phải làm gì?",
+        "purpose": "Trả lời đúng là \"Đổi dấu\" toàn bộ. (Đây là lỗi sai phổ biến nhất của học sinh lớp 6, bạn hãy nhắc con cẩn thận nhé)."
+      },
+      {
+        "id": "math6-q85",
+        "lesson": "Bài 4: Phép trừ các số nguyên. Quy tắc dấu ngoặc",
+        "question": "Trong các bài kiểm tra, quy tắc dấu ngoặc thường được dùng để làm gì?",
+        "purpose": "Để tháo ngoặc, di chuyển vị trí và nhóm các số tròn chục hoặc số đối lại với nhau (tính hợp lí)."
+      },
+      {
+        "id": "math6-q86",
+        "lesson": "Bài 5: Phép nhân các số nguyên",
+        "question": "Khi nhân hai số nguyên khác dấu (một số dương nhân một số âm), kết quả sẽ ra số âm hay số dương?",
+        "purpose": "Ghi nhớ kết quả luôn luôn mang dấu âm (-)."
+      },
+      {
+        "id": "math6-q87",
+        "lesson": "Bài 5: Phép nhân các số nguyên",
+        "question": "Khi nhân hai số nguyên CÙNG mang dấu âm (ví dụ (-4) x (-5)), kết quả mang dấu gì?",
+        "purpose": "Khắc sâu câu thần chú bất hủ: \"Âm nhân âm ra dương\" (ra 20)."
+      },
+      {
+        "id": "math6-q88",
+        "lesson": "Bài 5: Phép nhân các số nguyên",
+        "question": "Một số nguyên bất kì nhân với số -1 sẽ tạo ra kết quả như thế nào?",
+        "purpose": "Biến thành \"số đối\" của chính nó."
+      },
+      {
+        "id": "math6-q89",
+        "lesson": "Bài 5: Phép nhân các số nguyên",
+        "question": "Có số nguyên nào nhân với 0 mà kết quả không bằng 0 không?",
+        "purpose": "Củng cố tính chất cơ bản: Mọi số nhân với 0 đều bằng 0."
+      },
+      {
+        "id": "math6-q90",
+        "lesson": "Bài 5: Phép nhân các số nguyên",
+        "question": "Trong một dãy phép nhân toàn số âm, làm sao biết kết quả cuối cùng là âm hay dương mà chưa cần tính số cụ thể?",
+        "purpose": "Chỉ cần đếm số lượng thừa số âm. Số chẵn thì ra kết quả dương, số lẻ thì ra âm."
+      },
+      {
+        "id": "math6-q91",
+        "lesson": "Bài 6: Phép chia hết hai số nguyên. Quan hệ chia hết trong tập hợp số nguyên",
+        "question": "Quy tắc xét dấu trong phép chia có giống với phép nhân không? (Ví dụ chia hai số trái dấu thì ra gì?)",
+        "purpose": "Trả lời là giống hệt (cùng dấu ra dương, trái dấu ra âm)."
+      },
+      {
+        "id": "math6-q92",
+        "lesson": "Bài 6: Phép chia hết hai số nguyên. Quan hệ chia hết trong tập hợp số nguyên",
+        "question": "Con hãy liệt kê tất cả các ước của số 4 trong tập hợp số nguyên. Có tổng cộng bao nhiêu ước?",
+        "purpose": "Đếm đủ 6 ước gồm cả âm và dương: 1, -1, 2, -2, 4, -4."
+      },
+      {
+        "id": "math6-q93",
+        "lesson": "Bài 6: Phép chia hết hai số nguyên. Quan hệ chia hết trong tập hợp số nguyên",
+        "question": "Bội của -3 gồm những số nào? Con đọc thử 5 bội đầu tiên xem.",
+        "purpose": "Đọc được các số chia hết cho 3, ví dụ: 0, 3, -3, 6, -6..."
+      },
+      {
+        "id": "math6-q94",
+        "lesson": "Bài 6: Phép chia hết hai số nguyên. Quan hệ chia hết trong tập hợp số nguyên",
+        "question": "Trong tập hợp số nguyên, có tồn tại phép chia cho số 0 không?",
+        "purpose": "Cảnh giác và khẳng định: Tuyệt đối không bao giờ có phép chia cho 0."
+      },
+      {
+        "id": "math6-q95",
+        "lesson": "Bài 6: Phép chia hết hai số nguyên. Quan hệ chia hết trong tập hợp số nguyên",
+        "question": "Nếu số a chia hết cho số b, thì số đối của a (là -a) có chia hết cho b không?",
+        "purpose": "Vẫn chia hết (chỉ làm thay đổi dấu âm/dương của kết quả mà thôi)."
+      },
+      {
+        "id": "math6-q96",
+        "lesson": "Bài 1: Tam giác đều. Hình vuông. Lục giác đều",
+        "question": "Trong một tam giác đều, độ dài của ba cạnh và độ lớn của ba góc có gì đặc biệt?",
+        "purpose": "Con nắm được đặc điểm cơ bản nhất: 3 cạnh bằng nhau, 3 góc bằng nhau."
+      },
+      {
+        "id": "math6-q97",
+        "lesson": "Bài 1: Tam giác đều. Hình vuông. Lục giác đều",
+        "question": "Một hình vuông có mấy góc vuông? Hai đường chéo của hình vuông có bằng nhau không?",
+        "purpose": "Nhớ đặc điểm của hình vuông là có 4 góc vuông và 2 đường chéo dài bằng nhau."
+      },
+      {
+        "id": "math6-q98",
+        "lesson": "Bài 1: Tam giác đều. Hình vuông. Lục giác đều",
+        "question": "\"Lục\" trong lục giác đều nghĩa là số mấy? Nếu dùng các hình tam giác đều thì con phải ghép bao nhiêu hình lại để tạo thành một hình lục giác đều?",
+        "purpose": "Trả lời được lục là số 6, và nó được tạo thành từ 6 tam giác đều ghép lại."
+      },
+      {
+        "id": "math6-q99",
+        "lesson": "Bài 1: Tam giác đều. Hình vuông. Lục giác đều",
+        "question": "Trong hình lục giác đều, 3 đường chéo chính có đặc điểm gì khi chúng cắt nhau?",
+        "purpose": "Trả lời được là 3 đường chéo chính bằng nhau và cùng cắt nhau tại tâm."
+      },
+      {
+        "id": "math6-q100",
+        "lesson": "Bài 1: Tam giác đều. Hình vuông. Lục giác đều",
+        "question": "Con hãy nhìn quanh nhà hoặc nhớ lại đường phố xem có đồ vật nào có dạng hình vuông, tam giác đều hoặc lục giác đều không?",
+        "purpose": "Tập liên hệ hình học với thực tiễn đời sống (ví dụ viên gạch lát nền hình vuông, biển báo giao thông tam giác, tổ ong hình lục giác...)."
+      },
+      {
+        "id": "math6-q101",
+        "lesson": "Bài 2: Hình chữ nhật. Hình thoi",
+        "question": "Hình chữ nhật và hình vuông đều có 4 góc vuông, vậy hai đường chéo của hình chữ nhật có bằng nhau giống hình vuông không?",
+        "purpose": "Khẳng định là có bằng nhau."
+      },
+      {
+        "id": "math6-q102",
+        "lesson": "Bài 2: Hình chữ nhật. Hình thoi",
+        "question": "Công thức tính chu vi và diện tích hình chữ nhật là gì con nhỉ?",
+        "purpose": "Nhớ lại kiến thức cốt lõi: , ."
+      },
+      {
+        "id": "math6-q103",
+        "lesson": "Bài 2: Hình chữ nhật. Hình thoi",
+        "question": "Hình thoi có đặc điểm gì về độ dài của 4 cạnh?",
+        "purpose": "Biết được hình thoi có 4 cạnh bằng nhau."
+      },
+      {
+        "id": "math6-q104",
+        "lesson": "Bài 2: Hình chữ nhật. Hình thoi",
+        "question": "Hai đường chéo của hình thoi cắt nhau như thế nào? Đây là điểm khác biệt rất lớn so với hình chữ nhật đấy!",
+        "purpose": "Nắm được dấu hiệu quan trọng nhất của hình thoi: Hai đường chéo vuông góc với nhau tại trung điểm của mỗi đường."
+      },
+      {
+        "id": "math6-q105",
+        "lesson": "Bài 2: Hình chữ nhật. Hình thoi",
+        "question": "Để tính diện tích của một chiếc diều hình thoi, nếu biết độ dài hai thanh tre làm khung (chính là hai đường chéo), con sẽ tính như thế nào?",
+        "purpose": "Nhớ công thức  (bằng một nửa tích độ dài hai đường chéo)."
+      },
+      {
+        "id": "math6-q106",
+        "lesson": "Bài 3: Hình bình hành",
+        "question": "Trong một hình bình hành, các cặp cạnh đối diện và các góc đối diện như thế nào với nhau?",
+        "purpose": "Trả lời được các cạnh đối vừa song song vừa bằng nhau; các góc đối bằng nhau."
+      },
+      {
+        "id": "math6-q107",
+        "lesson": "Bài 3: Hình bình hành",
+        "question": "Hai đường chéo của hình bình hành có bằng nhau không? Chúng cắt nhau ở vị trí nào?",
+        "purpose": "Đường chéo không bằng nhau, nhưng cắt nhau tại trung điểm của mỗi đường."
+      },
+      {
+        "id": "math6-q108",
+        "lesson": "Bài 3: Hình bình hành",
+        "question": "Con tưởng tượng nếu mình có một cái khung tranh hình chữ nhật làm bằng gỗ, mình ấn cho nó xiên đi một chút, nó sẽ biến thành hình gì?",
+        "purpose": "Rèn trí tưởng tượng (ấn xiên hình chữ nhật sẽ biến thành hình bình hành)."
+      },
+      {
+        "id": "math6-q109",
+        "lesson": "Bài 3: Hình bình hành",
+        "question": "Muốn tính diện tích của hình bình hành, con dùng công thức nào?",
+        "purpose": "Nhớ công thức lấy cạnh đáy nhân với chiều cao tương ứng ()."
+      },
+      {
+        "id": "math6-q110",
+        "lesson": "Bài 3: Hình bình hành",
+        "question": "Việc tính chu vi hình bình hành có giống như tính chu vi hình chữ nhật không?",
+        "purpose": "Có, lấy tổng độ dài hai cạnh kề rồi nhân với 2 (vì các cạnh đối bằng nhau)."
+      },
+      {
+        "id": "math6-q111",
+        "lesson": "Bài 4: Hình thang cân",
+        "question": "Tại sao người ta lại gọi một hình là \"hình thang\"? Hai cạnh đáy của nó có điểm gì đặc biệt?",
+        "purpose": "Trông giống chiếc thang, có một cặp cạnh đối diện song song với nhau (gọi là 2 đáy)."
+      },
+      {
+        "id": "math6-q112",
+        "lesson": "Bài 4: Hình thang cân",
+        "question": "Hình thang như thế nào thì được gọi thêm chữ \"cân\"? Hai góc ở cùng một đáy của nó có quan hệ thế nào?",
+        "purpose": "Hình thang có hai góc kề một đáy bằng nhau thì gọi là hình thang cân."
+      },
+      {
+        "id": "math6-q113",
+        "lesson": "Bài 4: Hình thang cân",
+        "question": "Trong hình thang cân, hai cạnh bên có bằng nhau không? Hai đường chéo thì sao?",
+        "purpose": "Trả lời đúng là cả 2 đường chéo bằng nhau và 2 cạnh bên cũng bằng nhau."
+      },
+      {
+        "id": "math6-q114",
+        "lesson": "Bài 4: Hình thang cân",
+        "question": "Bố/mẹ muốn tính diện tích một thửa ruộng hình thang, con có thể đọc lại bài thơ về cách tính hoặc công thức xem nào?",
+        "purpose": "Nhớ thần chú vui: \"Đáy lớn đáy nhỏ ta đem cộng vào, rồi đem nhân với chiều cao, chia đôi lấy nửa thế nào cũng ra\"."
+      },
+      {
+        "id": "math6-q115",
+        "lesson": "Bài 4: Hình thang cân",
+        "question": "Con thử lấy ví dụ về một đồ vật có hình thang cân ở ngoài đời thực mà con từng thấy.",
+        "purpose": "Liên hệ thực tế (ví dụ: cái hình chóp của chụp đèn, mặt bên của cái sọt rác, túi xách của mẹ...)."
+      },
+      {
+        "id": "math6-q116",
+        "lesson": "Bài 5: Hình có trục đối xứng",
+        "question": "Theo con hiểu, \"trục đối xứng\" của một hình là gì?",
+        "purpose": "Con hiểu đó là một \"đường thẳng\" chia hình làm hai nửa, sao cho nếu gập tờ giấy lại theo đường đó thì hai nửa sẽ chồng khít lên nhau hoàn toàn."
+      },
+      {
+        "id": "math6-q117",
+        "lesson": "Bài 5: Hình có trục đối xứng",
+        "question": "Tam giác đều và hình vuông, mỗi hình có tổng cộng bao nhiêu trục đối xứng?",
+        "purpose": "Tam giác đều có 3 trục; Hình vuông có 4 trục."
+      },
+      {
+        "id": "math6-q118",
+        "lesson": "Bài 5: Hình có trục đối xứng",
+        "question": "Hình tròn thì sao, có bao nhiêu trục đối xứng? Những trục đó phải đi qua đâu?",
+        "purpose": "Có vô số trục đối xứng, mỗi trục chính là một đường kính đi qua tâm của hình tròn."
+      },
+      {
+        "id": "math6-q119",
+        "lesson": "Bài 5: Hình có trục đối xứng",
+        "question": "Đố con nhé, hình bình hành có trục đối xứng nào không?",
+        "purpose": "Câu hỏi chống bẫy. Con phải nhận ra rằng hình bình hành KHÔNG có trục đối xứng (nếu gập lại, hai nửa sẽ không chồng khít lên nhau)."
+      },
+      {
+        "id": "math6-q120",
+        "lesson": "Bài 5: Hình có trục đối xứng",
+        "question": "Trong các chữ cái in hoa như A, B, H, M, O, chữ nào có tính đối xứng trục? Trục của nó nằm dọc hay nằm ngang?",
+        "purpose": "Trẻ biết vận dụng để nhận diện chữ cái (A: dọc, B: ngang, H, O: có cả trục dọc và ngang...)."
+      },
+      {
+        "id": "math6-q121",
+        "lesson": "Bài 6: Hình có tâm đối xứng",
+        "question": "\"Tâm đối xứng\" khác \"trục đối xứng\" ở điểm cốt lõi nào?",
+        "purpose": "Tâm đối xứng là một \"điểm\" (quay hình đi nửa vòng hoặc 180 độ quanh điểm đó thì hình vẫn y hệt vị trí cũ), còn trục là một \"đường thẳng\" để gập mép."
+      },
+      {
+        "id": "math6-q122",
+        "lesson": "Bài 6: Hình có tâm đối xứng",
+        "question": "Có một điểm vừa là tâm đối xứng của hình chữ nhật, hình thoi, hình bình hành, vừa là của hình vuông. Điểm đó nằm ở đâu?",
+        "purpose": "Đó chính là giao điểm của hai đường chéo trong các hình này."
+      },
+      {
+        "id": "math6-q123",
+        "lesson": "Bài 6: Hình có tâm đối xứng",
+        "question": "Thế hình tam giác đều có tâm đối xứng không con?",
+        "purpose": "Đây lại là một câu hỏi chống bẫy. Hình tam giác đều CÓ trục đối xứng nhưng KHÔNG có tâm đối xứng."
+      },
+      {
+        "id": "math6-q124",
+        "lesson": "Bài 6: Hình có tâm đối xứng",
+        "question": "Hình tròn và một đoạn thẳng có tâm đối xứng không? Nó ở đâu?",
+        "purpose": "Hình tròn có tâm đối xứng chính là tâm hình tròn. Đoạn thẳng có tâm đối xứng chính là trung điểm của đoạn thẳng đó."
+      },
+      {
+        "id": "math6-q125",
+        "lesson": "Bài 6: Hình có tâm đối xứng",
+        "question": "Bố/mẹ có các chữ cái in hoa S, N, X. Khi con lộn ngược lại (quay 180 độ), con thấy chúng có thay đổi không? Đó là dấu hiệu của điều gì?",
+        "purpose": "Chúng không thay đổi vì các chữ cái này có tâm đối xứng."
+      },
+      {
+        "id": "math6-q126",
+        "lesson": "Bài 7: Đối xứng trong thực tiễn",
+        "question": "Trong thế giới tự nhiên, con từng nhìn thấy con vật hay bông hoa nào có cấu trúc đối xứng trục?",
+        "purpose": "Khơi gợi quan sát (con bướm, con chuồn chuồn, con sao biển, chiếc lá...)."
+      },
+      {
+        "id": "math6-q127",
+        "lesson": "Bài 7: Đối xứng trong thực tiễn",
+        "question": "Nếu con gấp đôi một tờ giấy, vẽ một nửa hình trái tim ở sát nếp gấp rồi dùng kéo cắt theo, khi mở ra con nhận được một hình có tính chất gì?",
+        "purpose": "Trái tim đó có trục đối xứng chính là nếp gấp giấy ở giữa."
+      },
+      {
+        "id": "math6-q128",
+        "lesson": "Bài 7: Đối xứng trong thực tiễn",
+        "question": "Tại sao các kiến trúc sư hay các thợ thủ công mỹ nghệ thường rất thích dùng tính đối xứng khi xây đền thờ, lăng tẩm hoặc làm hoạ tiết gạch lát sàn?",
+        "purpose": "Vì sự đối xứng tạo ra sự cân bằng, hài hoà, vững chắc và tính thẩm mỹ rất cao."
+      },
+      {
+        "id": "math6-q129",
+        "lesson": "Bài 7: Đối xứng trong thực tiễn",
+        "question": "Các biển báo giao thông (ví dụ biển cấm đi ngược chiều hình tròn, hay biển nguy hiểm hình tam giác đều) thường mang tính đối xứng. Theo con điều này có tác dụng gì?",
+        "purpose": "Giúp người đi đường dễ nhìn, dễ nhận diện hình ảnh từ xa một cách nhanh chóng."
+      },
+      {
+        "id": "math6-q130",
+        "lesson": "Bài 7: Đối xứng trong thực tiễn",
+        "question": "Bây giờ con hãy nhìn ra cửa sổ (hoặc nhìn quanh phòng), thi xem ai tìm được nhanh nhất 2 đồ vật có tính đối xứng trục và 1 đồ vật có tâm đối xứng nhé!",
+        "purpose": "Ứng dụng ngay bài học vào việc quan sát thực tế thành một trò chơi nhỏ để kết thúc chương."
       }
     ]
   }
