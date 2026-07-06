@@ -124,7 +124,7 @@ export const storageService = {
     try {
       const raw = localStorage.getItem(STORAGE_KEY);
       if (!raw) {
-        this.saveData(INITIAL_DATA);
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(INITIAL_DATA));
         return INITIAL_DATA;
       }
       const data = JSON.parse(raw);
@@ -510,6 +510,19 @@ export const storageService = {
   async triggerCloudSync(data) {
     const cfg = this.getCloudConfig();
     if (!cfg.enabled || !cfg.token || !cfg.gistId) return;
+
+    // Safety check: Never push default template / uninitialized data to the cloud
+    if (data && data.profiles && Array.isArray(data.profiles)) {
+      const isDefault = data.profiles.length === 2 && 
+                        (
+                          (data.profiles[0].name === 'Anna' && data.profiles[1].name === 'Leo') ||
+                          (data.profiles[0].name === 'Chloe' && data.profiles[1].name === 'Leo')
+                        );
+      if (isDefault) {
+        console.warn('⚠️ Default profiles template detected. Skipping cloud sync push to protect online Gist data.');
+        return;
+      }
+    }
 
     try {
       if (cfg.provider === 'github') {
