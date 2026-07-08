@@ -434,7 +434,8 @@ export const ParentSettingsModal = ({ onClose, onRefresh }) => {
             <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem', maxHeight: '45vh', overflowY: 'auto' }}>
               {activeProfile?.categories?.map(cat => {
                 const catLogs = (activeProfile?.logs || []).filter(l => l.categoryId === cat.id);
-                const currentVal = catLogs.reduce((sum, l) => sum + l.amount, 0);
+                const rawVal = catLogs.reduce((sum, l) => sum + l.amount, 0);
+                const currentVal = Math.round((rawVal + Number.EPSILON) * 100) / 100;
                 const isEditingThresholds = editingThresholdsCategoryId === cat.id;
 
                 return (

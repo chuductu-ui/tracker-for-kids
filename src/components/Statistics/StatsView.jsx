@@ -37,7 +37,8 @@ export const StatsView = ({ onClose, onRefresh }) => {
     
     // Find logs for this day
     const dayLogs = filteredLogs.filter(l => l.date === dateStr);
-    const dayTotal = dayLogs.reduce((sum, l) => sum + l.amount, 0);
+    const rawDayTotal = dayLogs.reduce((sum, l) => sum + l.amount, 0);
+    const dayTotal = Math.round((rawDayTotal + Number.EPSILON) * 100) / 100;
 
     dateSeries.push({
       date: dateStr,
@@ -53,7 +54,7 @@ export const StatsView = ({ onClose, onRefresh }) => {
   // Calculate cumulative trend series
   let runningTotal = 0;
   const cumulativeSeries = dateSeries.map(d => {
-    runningTotal += d.total;
+    runningTotal = Math.round((runningTotal + d.total + Number.EPSILON) * 100) / 100;
     return { ...d, cumulative: runningTotal };
   });
   const maxCumulativeVal = Math.max(runningTotal, 10);

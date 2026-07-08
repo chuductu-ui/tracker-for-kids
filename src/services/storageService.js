@@ -274,7 +274,7 @@ export const storageService = {
     const newLog = {
       id: 'log-' + Date.now(),
       categoryId,
-      amount: Number(amount),
+      amount: Math.round((Number(amount) + Number.EPSILON) * 100) / 100,
       date: finalDate,
       note: note.trim(),
       timestamp: dateInput ? new Date(dateInput).getTime() + (Date.now() % 86400000) : Date.now()
@@ -284,7 +284,8 @@ export const storageService = {
 
     // Calculate new total
     const catLogs = profile.logs.filter(l => l.categoryId === categoryId);
-    const totalAllTime = catLogs.reduce((acc, curr) => acc + curr.amount, 0);
+    const rawTotal = catLogs.reduce((acc, curr) => acc + curr.amount, 0);
+    const totalAllTime = Math.round((rawTotal + Number.EPSILON) * 100) / 100;
 
     // Check for newly unlocked threshold
     const category = profile.categories.find(c => c.id === categoryId);
@@ -334,9 +335,11 @@ export const storageService = {
 
     const categoriesStats = profile.categories.map(cat => {
       const catLogs = profile.logs.filter(l => l.categoryId === cat.id);
-      const totalAllTime = catLogs.reduce((sum, l) => sum + l.amount, 0);
+      const rawTotalAllTime = catLogs.reduce((sum, l) => sum + l.amount, 0);
+      const totalAllTime = Math.round((rawTotalAllTime + Number.EPSILON) * 100) / 100;
       const todayLogs = catLogs.filter(l => l.date === today);
-      const totalToday = todayLogs.reduce((sum, l) => sum + l.amount, 0);
+      const rawTotalToday = todayLogs.reduce((sum, l) => sum + l.amount, 0);
+      const totalToday = Math.round((rawTotalToday + Number.EPSILON) * 100) / 100;
 
       // Find next threshold
       const sortedThresholds = [...(cat.thresholds || [])].sort((a, b) => a.value - b.value);
